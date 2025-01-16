@@ -1,0 +1,51 @@
+{% if paginator.total_pages > 1 %}
+<div class="pagination">
+  {% if paginator.previous_page %}
+    <a class="ml-1 mr-1" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Prev</a>
+  {% else %}
+    <span>&laquo; Prev</span>
+  {% endif %}
+
+  {% for page in (1..paginator.total_pages) %}
+    {% if page == paginator.page %}
+      <span class="ml-1 mr-1">{{ page }}</span>
+    {% elsif page == 1 %}
+      <a class="ml-1 mr-1" href="/">{{ page }}</a>
+    {% else %}
+      <a class="ml-1 mr-1" href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a>
+    {% endif %}
+  {% endfor %}
+
+  {% if paginator.next_page %}
+    <a class="ml-1 mr-1" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next &raquo;</a>
+  {% else %}
+    <span>Next &raquo;</span>
+  {% endif %}
+</div>
+{% endif %}
+{% assign num_pages = paginator.total_pages | minus: 1 %}
+<script type="application/ld+json">
+  {
+    "@context":"https://schema.org",
+    "@type":"ItemList",
+    "itemListElement":[
+      {
+        "@type":"ListItem",
+        "position":1,
+        "url":"{{ site.url }}"
+      },
+      {% for page in (2..num_pages) %}
+      {
+        "@type":"ListItem",
+        "position":{{ page }},
+        "url":"{{ site.paginate_path | prepend: site.url | replace: '//', '/' | replace: ':num', page }}"
+      },
+      {% endfor %}
+      {
+        "@type":"ListItem",
+        "position":{{ paginator.total_pages }},
+        "url":"{{ site.paginate_path | prepend: site.url | replace: '//', '/' | replace: ':num', paginator.total_pages }}"
+      }
+    ]
+  }
+  </script>
