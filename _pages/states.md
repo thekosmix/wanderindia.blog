@@ -1,7 +1,7 @@
 ---
 layout: page
 title: States to visit in India
-permalink: /states
+permalink: /states/
 ---
 
 <div class="row listrecent">
