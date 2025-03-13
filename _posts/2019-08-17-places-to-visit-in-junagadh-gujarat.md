@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Junagadh, Gujrat"
+title:  "Junagadh, Gujarat"
 author: sid
 categories: [ Zoo, Wild Animals ]
 image: assets/images/junagadh.webp
 rating: 4
-tags: [Gujrat]
+tags: [Gujarat]
 ---
 Junagadh is a city in the western Indian state of Gujarat. Mahabat Maqbara is the huge 19th-century mausoleum of a local ruler, which showcases intricate Indo-Islamic architectural details. Uparkot Fort, founded around 300 BC, has city views from its ramparts. Within the fort are the stone-cut stepwells Adi Kadi Vav and Navghan Kuwo, plus Buddhist caves. To the west, Darbar Hall Museum is housed in a former palace.
 
@@ -18,7 +18,7 @@ Junagadh is home to a number of attractions, such as the Uparkot Fort, the Mahab
 
 <div class="pa-carousel-widget" style="width:100%; height:480px; display:none;"
   data-link="https://www.tripadvisor.in/Tourism-g303879-Junagadh_Junagadh_District_Gujarat-Vacations.html"
-  data-title="Junagadh, Gujrat"
+  data-title="Junagadh, Gujarat"
   data-description="Monuments captured during Junagadh visit"
   data-delay="3">
   <object data="https://lh3.googleusercontent.com/EB3ERxwf5sHuYFOSPUDsHkirzGF9DvKaISKyIhIXTxzG0W8AtvfAt-vkSbUlTlVxI9PuFHc6PJ_CC0sF8DtlEJ31R1L79Sf7wjvFB-QPFa73D85QNRKkZDSOcyrxOYXm6ctFgFnLLM8=w960-rw-h720"></object>

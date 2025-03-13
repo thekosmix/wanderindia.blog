@@ -1,14 +1,14 @@
 ---
 layout: post
-title:  "Sasan Gir, Gujrat"
+title:  "Sasan Gir, Gujarat"
 redirect_from:
-  - /places-to-visit-in-sasan-gir-gujrat/
-  - /things-to-do-in-gir-national-park-gujrat/
+  - /places-to-visit-in-sasan-gir-Gujarat/
+  - /things-to-do-in-gir-national-park-Gujarat/
 author: sid
 categories: [ Wild Animals, Forest ]
 image: assets/images/sasan.webp
 rating: 5
-tags: [Gujrat]
+tags: [Gujarat]
 ---
 Sasan Gir is a wildlife sanctuary located in the Indian state of Gujarat. It is the only home of the Asiatic lion and is one of the most popular tourist destinations in India. The sanctuary covers an area of 1412 square kilometers and is home to a variety of wildlife, including leopards, hyenas, jackals, antelopes, and more than 300 species of birds. The sanctuary also has a number of ancient temples and monuments, such as the Girnar Temple and the Junagadh Fort. Additionally, the sanctuary is home to a number of activities, such as safaris, bird watching, and nature walks.
 
@@ -27,7 +27,7 @@ Sasan Gir is home to a variety of flora and fauna, including the Asiatic lion, l
 
 <div class="pa-carousel-widget" style="width:100%; height:480px; display:none;"
   data-link="https://www.tripadvisor.in/Attractions-g4468377-Activities-Sasan_Gir_Gir_National_Park_Gir_Somnath_District_Gujarat.html"
-  data-title="Sasan Gir, Gujrat"
+  data-title="Sasan Gir, Gujarat"
   data-description="Lions and Jungle resorts in Sasan Gir"
   data-delay="3">
   <object data="https://lh3.googleusercontent.com/CXoKj8hxQcWdNZ1IN3857csjmWm87wU35OsgP5ps2EDGYDNDqq2OWPF-q3l8wZ2QBSj_hxEnjUdMKxU7LZ3Bga12ZIC2reZ6T9_9TlbNjEhAC1li-owJcb58J4QxSUmSeoUYDHP7az8=w960-rw-h720"></object>

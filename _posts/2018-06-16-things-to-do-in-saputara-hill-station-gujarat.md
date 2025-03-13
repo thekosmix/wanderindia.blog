@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Saputara, Gujrat"
+title:  "Saputara, Gujarat"
 redirect_from:
-  - /places-to-visit-near-saputara-gujrat/
+  - /places-to-visit-near-saputara-Gujarat/
 author: sid
 categories: [ Mountain, Hill Station,  Weekend Getaway ]
 image: assets/images/saputara.webp
 rating: 4.5
-tags: [Gujrat]
+tags: [Gujarat]
 ---
 
 Nestled over the gigantic Sahyadri mountain range in Gujarat, the picture-perfect hill station of Saputara boasts of endless natural beauty. 
@@ -21,7 +21,7 @@ Saputara is a hill station located in the Dang district of Gujarat. It is situat
 
 <div class="pa-carousel-widget" style="width:100%; height:480px; display:none;"
   data-link="https://www.tripadvisor.in/Attractions-g1156008-Activities-Saputara_Dangs_District_Gujarat.html"
-  data-title="Saputara, Gujrat"
+  data-title="Saputara, Gujarat"
   data-description="Mountain, Hill Station, Weekend Gateaway"
   data-delay="3">
   <object data="https://lh3.googleusercontent.com/POZb83BsF06B_j7B6x_TzMrA1BuqWrRFITU_dwVBH4adSFJAb24Avidi5dLacFBG3wgEqikBx3kK4AT_eYkNNbDVa6kAy6nMuG3heSTCzQk5DnAc_GcRblmwJl-m9Ki10NFpBbCHfGo=w960-rw-h720"></object>
