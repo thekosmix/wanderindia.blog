@@ -3,8 +3,8 @@ name: "wanderindia.blog"
 url: "https://www.wanderindia.blog"
 title: "Experiences of a Traveller"
 description: "Travel experiences gained throughout my journey. From snowy mountains of Himalayas and beaches of western ghats to lush greenery of jungles on eastern India."
-logo: 'assets/images/home.ico'
-favicon: 'assets/images/favicon.ico'
+logo: 'assets/images/logo.png'
+favicon: 'assets/images/favicon.png'
 svg: 'assets/images/thekosmix.svg'
 baseurl: ''
 google_analytics: 'UA-42873902-1'
