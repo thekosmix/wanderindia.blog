@@ -42,7 +42,7 @@ Welcome to [Wander India Blog](https://wanderindia.blog/). This Privacy Policy o
 **Photos:**
 
 * All photos on this blog are taken and owned by the owner of Wander India Blog. All rights reserved.
-* If you find any image owned by you violating the privacy, please 
+* If you find any image owned by you violating the privacy, please contact through [our contact page](https://www.wanderindia.blog/about/).
 
 **Data Security:**
 
