@@ -33,7 +33,7 @@ post_class: post-template
                             alt="{{ author.display_name }}">
                         {% else %}
                         <img class="author-thumb"
-                            src="https://gravatar.webp.se/avatar/{{ author.gravatar }}?s=250&d=mm&r=x"
+                            src="https://gravatar.webp.se/avatar/{{ author.gravatar }}?s=58&d=mm&r=x"
                             alt="{{ author.display_name }}">
                         {% endif %}
                     </div>
@@ -123,7 +123,7 @@ post_class: post-template
                     {% for tag in sortedTags %}
                     <li>
                         <a class="smoothscroll"
-                            href="{{site.baseurl}}/places-to-visit-in-{{ tag | downcase | replace: " ","-" }}/">More
+                            href="{{site.baseurl}}/places-to-visit-in-{{ tag | downcase | replace: " "," -" }}/">More
                             places to visit in {{ tag }}</a>
                     </li>
                     {% endfor %}

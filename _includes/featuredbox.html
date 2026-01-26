@@ -9,7 +9,7 @@
                         <a aria-label="{{ post.title }}" href="{{ site.baseurl }}{{ post.url }}">
                             <img alt="{{ post.title }}" class="featured-box-img-cover" align="left"
                                 src="{% if post.image contains " ://" %}{{ post.image }}{% else %}{{ site.baseurl }}/{{
-                                post.image }}{% endif %}">
+                                post.image }}{% endif %}" fetchpriority="high" loading="eager">
                         </a>
                     </div>
                 </div>
@@ -38,7 +38,7 @@
                                         alt="{{ author.display_name }}">
                                     {% else %}
                                     <img class="author-thumb"
-                                        src="https://gravatar.webp.se/avatar/{{ author.gravatar }}?s=250&d=mm&r=x"
+                                        src="https://gravatar.webp.se/avatar/{{ author.gravatar }}?s=58&d=mm&r=x"
                                         alt="{{ author.display_name }}">
                                     {% endif %}
                                 </span>
