@@ -4,9 +4,16 @@ Copyright: Sal, WowThemes.net, https://www.wowthemes.net
 License: https://www.wowthemes.net/freebies-license/ 
 */
 @media screen and (min-width:1500px) {
-    html { font-size:18px; } /* Increase the font size on higher resolutions */
-    .container {max-width:80%;}
+    html {
+        font-size: 18px;
+    }
+
+    /* Increase the font size on higher resolutions */
+    .container {
+        max-width: 80%;
+    }
 }
+
 .mainheading {
     padding: 1rem 0rem;
 }
@@ -155,9 +162,9 @@ section.recent-posts {
     line-height: 1.25;
 }
 
-.listfeaturedtag h4.card-text,
-.listrecent h4.card-text {
-    color: rgb(0, 0, 0);
+.listfeaturedtag .card-text,
+.listrecent .card-text {
+    color: #333;
     font-size: 0.95rem;
     line-height: 1.6;
     font-weight: 400;
@@ -206,7 +213,7 @@ section.recent-posts {
 
 .post-top-meta span {
     font-size: 0.9rem;
-    color: rgba(0, 0, 0, .44);
+    color: rgba(0, 0, 0, .6);
     display: inline-block;
 }
 
@@ -242,13 +249,13 @@ span.post-read {
 
 span.post-read-more {
     align-items: center;
-    display: inline-block;
+    display: block;
     float: right;
     margin-top: 8px;
 }
 
 span.post-read-more a {
-    color: rgba(0, 0, 0, .44);
+    color: rgba(0, 0, 0, .7);
 }
 
 span.post-name a,
@@ -327,15 +334,16 @@ span.post-read-more a:hover {
     padding-top: 15px;
     padding-bottom: 12px;
     font-size: 0.8rem;
-    color: rgba(0, 0, 0, .44);
+    color: rgba(0, 0, 0, .8);
     margin-top: 50px;
     margin-bottom: 62px;
     position: relative;
     background: #fff;
 }
 
-.link-dark {
-    color: rgba(0, 0, 0, .8);
+.link-dark,
+.footer a {
+    color: rgba(0, 0, 0, .85);
 }
 
 .article-post {
@@ -483,8 +491,8 @@ blockquote {
 
 .share,
 .share a {
-    color: rgba(0, 0, 0, .44);
-    fill: rgba(0, 0, 0, .44);
+    color: rgba(0, 0, 0, .6);
+    fill: rgba(0, 0, 0, .6);
 }
 
 .graybg {
@@ -738,8 +746,13 @@ img {
     padding: 15px 0 0 0;
     text-align: center;
     margin-bottom: 0rem;
-    color: #999;
-    border-top: 1px solid #ddd;
+    color: #444;
+    border-top: 1px solid #ccc;
+}
+
+.pagination a,
+.pagination span {
+    color: #333;
 }
 
 .pointerup {

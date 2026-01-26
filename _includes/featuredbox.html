@@ -6,7 +6,7 @@
             <div class="col-12 col-md-12 col-lg-5 pr-lg-0">
                 <div class="h-100">
                     <div class="wrapthumbnail">
-                        <a area-label="{{ post.desc }}" href="{{ site.baseurl }}{{ post.url }}">
+                        <a aria-label="{{ post.title }}" href="{{ site.baseurl }}{{ post.url }}">
                             <img alt="{{ post.title }}" class="featured-box-img-cover" align="left"
                                 src="{% if post.image contains " ://" %}{{ post.image }}{% else %}{{ site.baseurl }}/{{
                                 post.image }}{% endif %}">
@@ -27,7 +27,7 @@
                                 {% endif %}
                             </h2>
 
-                            <h4 class="card-text">{{ post.excerpt | strip_html | truncatewords:25 }}</h4>
+                            <p class="card-text">{{ post.excerpt | strip_html | truncatewords:25 }}</p>
                         </div>
                         <div class="card-footer b-0 bg-white mt-auto">
                             <div class="wrapfooter">
