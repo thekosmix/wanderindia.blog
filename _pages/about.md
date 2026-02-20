@@ -22,16 +22,20 @@ comments: true
 
         <table>
             <tr>
-                <td><amp-img src="/assets/images/google-location-marker.webp" loading="lazy" width="300" height="300" alt="Locations travelled in last 5 years"></amp-img></td>
-                <td><amp-img src="/assets/images/google-heat-map.webp" loading="lazy" width="300" height="300" alt="All time Google heatmap of travelled places"></amp-img></td>
+                <td><img src="/assets/images/google-location-marker.webp" loading="lazy" width="300" height="300" alt="Locations travelled in last 5 years"></td>
+                <td><img src="/assets/images/google-heat-map.webp" loading="lazy" width="300" height="300" alt="All time Google heatmap of travelled places"></td>
             </tr>
             <tr>
-                <td><amp-img src="/assets/images/google-all-time.webp" loading="lazy" width="300" height="300" alt="All time Google data of travelled places"></amp-img></td>
-                <td><amp-img src="/assets/images/google-stats.webp" loading="lazy" width="300" height="300" alt="All time Google stats of viewed places"></amp-img></td>
+                <td><img src="/assets/images/google-all-time.webp" loading="lazy" width="300" height="300" alt="All time Google data of travelled places"></td>
+                <td><img src="/assets/images/google-stats.webp" loading="lazy" width="300" height="300" alt="All time Google stats of viewed places"></td>
             </tr>
         </table>
         <br/>
-        <p><a href="{{site.authors.sid.web}}">Get in touch with me</a></p>
+        <p>
+            <a href="{{site.authors.sid.web}}">My portfolio</a><br/>
+            <a href="{{site.authors.sid.blog}}">My technology blog</a><br/>
+            <a href="{{site.authors.sid.venture}}">My venture</a>
+        </p>        
         <p>Thanks to <a target="_blank" href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Mediumish-theme-jekyll</a> for creating this amazing jekyll theme</p>
         <div class="col-md-4">
         
