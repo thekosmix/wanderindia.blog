@@ -21,3 +21,9 @@ group :jekyll_plugins do
     gem 'jekyll-redirect-from'
     gem 'jekyll-minifier'
 end
+
+gem "csv", "~> 3.3"
+
+gem "logger", "~> 1.7"
+
+gem "base64", "~> 0.3.0"
