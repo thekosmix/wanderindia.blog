@@ -60,6 +60,21 @@ When creating or editing posts, please adhere to the following guidelines:
 -   **Full Post Content**: You can generate the entire content of a blog post, including the front matter and all the sections mentioned above.
 -   **Front Matter**: Ensure the front matter is complete and follows the structure described above.
 -   **Content Sections**: Generate all the content sections (Introduction, How to Reach, Itinerary, Tips).
+-   **IndexNow Submission**: Whenever a new URL is created, generate a `curl` POST command for submitting the site to IndexNow using the following structure:
+
+    ```bash
+    curl -X POST https://api.indexnow.org/indexnow \
+    -H "Content-Type: application/json; charset=utf-8" \
+    -d '{
+      "host": "www.wanderindia.blog",
+      "key": "mfxtvyrq4vdajkfwr5411z3x31uabg31",
+      "urlList": [
+        "https://www.wanderindia.blog/url1",
+        "https://www.wanderindia.blog/folder/url2",
+        "https://www.wanderindia.blog/url3"
+      ]
+    }'
+    ```
 
 ### What NOT to Edit
 
