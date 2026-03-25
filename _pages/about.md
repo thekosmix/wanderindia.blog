@@ -34,7 +34,8 @@ comments: true
         <p>
             <a href="{{site.authors.sid.web}}">My portfolio</a><br/>
             <a href="{{site.authors.sid.blog}}">My technology blog</a><br/>
-            <a href="{{site.authors.sid.venture}}">My venture</a>
+            <a href="{{site.authors.sid.venture}}">Kids Scroll</a><br/>
+            <a href="{{site.authors.sid.jg}}">Junior Genius</a>
         </p>        
         <p>Thanks to <a target="_blank" href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Mediumish-theme-jekyll</a> for creating this amazing jekyll theme</p>
         <div class="col-md-4">
