@@ -8,9 +8,9 @@ rating: 4
 tags: [Andhra Pradesh]
 ---
 
-Horsley Hills, a serene hill station in the Chittoor district of Andhra Pradesh, is a quiet haven perfect for those seeking to escape the heat and chaos of the plains. Located at an altitude of 1,290 meters, this charming destination is fondly referred to as the "Ooty of Andhra Pradesh."
+Horsley Hills, a serene hill station in the Chittoor district of Andhra Pradesh, is a quiet haven perfect for those seeking to escape the heat and chaos of the plains. 
 
-Named after W.D. Horsley, a British collector who built his summer residence here in the late 19th century, the hills boast dense forests, pleasant weather, and panoramic views of the Eastern Ghats. The route up the hill is incredibly scenic, lined with eucalyptus, jacaranda, and mahogany trees, making it a favorite spot for road trippers and nature lovers alike.
+Located at an altitude of 1,290 meters, this charming destination is fondly referred to as the "Ooty of Andhra Pradesh." Named after W.D. Horsley, a British collector who built his summer residence here in the late 19th century, the hills boast dense forests, pleasant weather, and panoramic views of the Eastern Ghats. The route up the hill is incredibly scenic, lined with eucalyptus, jacaranda, and mahogany trees, making it a favorite spot for road trippers and nature lovers alike.
 
 ## How to Reach Horsley Hills
 
