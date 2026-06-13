@@ -8,6 +8,20 @@ categories: [Palaces, Resorts, Weekend Getaway, Zoo]
 image: assets/images/mysuru.webp
 rating: 4.5
 tags: [Karnataka]
+toc: true
+quick_facts:
+  state: "Karnataka"
+  best_time: "October to March"
+  duration: "2-3 Days"
+  airport: "Mysore Airport, Mysuru (12 km)"
+  railway: "Mysuru Junction Railway Station (2 km)"
+faq:
+  - question: "What is the best time to visit Mysore?"
+    answer: "The best time to visit Mysore is from October to March when the weather is pleasant and cool, perfect for sightseeing. The grand Mysore Dasara festival also takes place during September or October, which is a major attraction."
+  - question: "How many days are enough to explore Mysore?"
+    answer: "A duration of 2 to 3 days is ideal to visit the primary attractions of Mysore, including Mysore Palace, Chamundi Hills, Brindavan Gardens, and the Mysuru Zoo, along with some shopping for Mysore silk and sandalwood."
+  - question: "Is Mysore Palace illuminated every day?"
+    answer: "Mysore Palace is illuminated on Sundays and public holidays from 7:00 PM to 7:45 PM. During the 10-day Dasara festival, it is illuminated daily in the evening."
 ---
 Mysuru, also known as Mysore, is the second most populous city in the southern Indian state of Karnataka. It is famous for its heritage structures, palaces, and its culture, and has been called the "City of Palaces", the "Heritage City", and the "Cultural Capital of Karnataka". It is also one of the cleanest cities in India.
 

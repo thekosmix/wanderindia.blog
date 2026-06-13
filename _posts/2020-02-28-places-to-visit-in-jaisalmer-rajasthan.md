@@ -6,6 +6,20 @@ categories: [ Monuments, Palaces ]
 image: assets/images/jaisalmer.webp
 rating: 4
 tags: [Rajasthan]
+toc: true
+quick_facts:
+  state: "Rajasthan"
+  best_time: "October to March"
+  duration: "2-3 Days"
+  airport: "Jaisalmer Airport, Jaisalmer (13 km)"
+  railway: "Jaisalmer Railway Station (2 km)"
+faq:
+  - question: "Is it possible to stay inside the Jaisalmer Fort?"
+    answer: "Yes, Jaisalmer Fort is one of the very few 'living forts' in the world. About one-quarter of the city's old population still resides inside the fort walls, which house numerous heritage hotels, guesthouses, restaurants, and shops."
+  - question: "What activities can you do in the Sam Sand Dunes of Jaisalmer?"
+    answer: "At the Sam Sand Dunes, you can enjoy a camel safari, jeep dune bashing, quad biking, parasailing, and watch cultural folk dance and music performances at desert camps, followed by an overnight stay in luxury tents."
+  - question: "What is the significance of Patwon Ki Haveli?"
+    answer: "Patwon Ki Haveli is a cluster of five grand havelis built by a wealthy brocade merchant in the 19th century. It is famous for its yellow sandstone architecture, intricately carved balconies, mirror work, and murals, reflecting Jaisalmer's golden era."
 ---
 [Jaisalmer](https://www.justwravel.com/) is a former medieval trading center and a princely state in the western Indian state of Rajasthan, in the heart of the Thar Desert. 
 
@@ -31,7 +45,7 @@ Jaisalmer is home to a number of tourist attractions, such as the Jaisalmer Fort
   <object data="https://lh3.googleusercontent.com/YG_btctmIvhyfNAiH_4qZtZkTei4QFEvbi1qUF6r5-4nYbLP_55m4sDtFh9HGnauKNa34pzXfKPUsszwO7LhPAzTVrtGhL2c5EPBItunEOC-Md-3bLL4HMDiQbA3XCHzIvNktlndcpQ=w960-rw-h720"></object>
   <object data="https://lh3.googleusercontent.com/XsJqDNiifBXieyuG-NZR2UGmraIHI81QSC85xZYHXXnFX4NqcyWYzu821WcF94CgAn2awdnGMXnoawYS2E45oodeiIlFQqX9RM-vIdpToHh8CzBa3NdK1z719iHBM3ytyyZfSxTcMEQ=w960-rw-h720"></object>
   <object data="https://lh3.googleusercontent.com/WK2qhCaanP1KsORkLzFYDQA7v3KtqSjEBnjUPBhQ3X0MCcldVihVaN0Cv1zyRJLHEOTmYgtViQB5JtchzftD2JmUoVuHvToppMooHGxzZyAwA3kkIs_2AHXHaUIJ5DtKSwsTa-aiywI=w960-rw-h720"></object>
-  <object data="https://lh3.googleusercontent.com/WpH5IMFHlZKoHMLkRANq5C1exzkico1FDz2XSN6ue_J8PCKgnoyuZMsdEivZ7hwl40Tl0xkZ01tBomAwpd-GycpM9Cv5PU6guiM3WXe8HYLlDi4nif-ssXMcIwzPG_kUfyINC584gBI=w960-rw-h720"></object>
+  <object data="https://lh3.googleusercontent.com/WpH5IMFHlZKoHMLkRANq5C1exzkico1FDz2XSN6ue_J8PCKgnoyuZMsdEivZ7hwl40Tl0xkZ01tBomAwpd-GycpM9ZV5PU6guiM3WXe8HYLlDi4nif-ssXMcIwzPG_kUfyINC584gBI=w960-rw-h720"></object>
   <object data="https://lh3.googleusercontent.com/f3h8QSCtovuAWZw2LMjLt-11yhs63cp4S-khOwMVZ22FD_-pmMsqcSCZP8Bmw1VhZbxQWXR0W-zreWLVuGRsk8rEjtJ44lzp9yBp0D7XbIE8iTiSUwvymIBBDKXvbrU1NvU73o8tI0w=w960-rw-h720"></object>
   <object data="https://lh3.googleusercontent.com/fybvg-lxnMuZpmuZpCAZOgwNnA3Um9vomGO2F-UVkKqjuCjCA-rs5sIKYvJx9HF7XHfYMIYBhEYv7mXnecqmYxmgYREQNSjy_Hnd-EA_76S-uhcZAZ0ej2MASdg0Q-fm14DuDWqoTo8=w960-rw-h720"></object>
   <object data="https://lh3.googleusercontent.com/lLChhOu4yWGbwXBqr8Kf2gBC5UqmQSLmlpeb97kTzqcsTbFoH6gpxtfM95ewLCAzh0DhlqoImFHsJ4EyqeMf30J4ah9MQxOnAZzVkmZmZM7_VV8gONRHFNB1qpO5SFzM-k3EvGxXRYs=w960-rw-h720"></object>

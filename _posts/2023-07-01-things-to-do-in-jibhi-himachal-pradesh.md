@@ -6,6 +6,20 @@ categories: [Trekking, Mountain, Weekend Getaway, Lake]
 image: assets/images/jibhi.webp
 rating: 4.5
 tags: [Himachal Pradesh]
+toc: true
+quick_facts:
+  state: "Himachal Pradesh"
+  best_time: "March to June & September to November"
+  duration: "3-4 Days"
+  airport: "Bhuntar Airport, Kullu (50 km)"
+  railway: "Chandigarh Railway Station (250 km)"
+faq:
+  - question: "What is Jibhi famous for?"
+    answer: "Jibhi is a peaceful hamlet in the Tirthan Valley famous for its traditional wooden pine houses, pristine pine forests, Jibhi Waterfall, and close proximity to Jalori Pass and Serolsar Lake."
+  - question: "How can I reach Jibhi?"
+    answer: "You can fly to Bhuntar Airport (50 km away) or take a train to Chandigarh Railway Station (250 km away) and then hire a taxi or take a public bus."
+  - question: "Is there snow in Jibhi?"
+    answer: "Yes, Jibhi and the nearby Jalori Pass receive significant snowfall during the winter months, especially from late December to February, transforming the region into a winter wonderland."
 ---
 Jibhi is a small village in the Banjar Valley of Himachal Pradesh, India. It is located at an altitude of 2,000 meters (6,600 feet) above sea level, and is surrounded by lush green forests, snow-capped mountains, and sparkling rivers.
 

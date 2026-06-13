@@ -6,6 +6,20 @@ categories: [ Monuments, Lake, Palaces ]
 image: assets/images/udaipur.webp
 rating: 4
 tags: [Rajasthan]
+toc: true
+quick_facts:
+  state: "Rajasthan"
+  best_time: "October to March"
+  duration: "2-3 Days"
+  airport: "Maharana Pratap Airport, Udaipur (22 km)"
+  railway: "Udaipur City Railway Station (3 km)"
+faq:
+  - question: "Why is Udaipur called the 'Venice of the East'?"
+    answer: "Udaipur earned this title due to its sophisticated network of seven interconnected freshwater lakes, historical palaces surrounding the lakes, and picturesque views of white marble buildings reflecting in the water, resembling Venetian canals."
+  - question: "Which is the best lake for a boat ride in Udaipur?"
+    answer: "Lake Pichola is the most popular lake for a boat ride, especially at sunset, as it offers views of the Lake Palace (Jag Niwas) and Jag Mandir. Fateh Sagar Lake is another excellent option, famous for speedboats and Nehru Park situated in the center."
+  - question: "Is the Monsoon Palace worth visiting?"
+    answer: "Yes, the Monsoon Palace (Sajjangarh Fort), located on a hilltop overlooking Udaipur, offers spectacular panoramic views of the city's lakes, palaces, and the surrounding Aravalli hills, and is the best spot to witness the sunset."
 ---
 Udaipur is a city in the state of Rajasthan, India. It is known for its beautiful lakes, palaces, and temples.
 

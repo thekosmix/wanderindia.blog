@@ -6,6 +6,20 @@ categories: [Hill Station, Nature, Park, Weekend Gateway]
 image: assets/images/horsley.webp
 rating: 4
 tags: [Andhra Pradesh]
+toc: true
+quick_facts:
+  state: "Andhra Pradesh"
+  best_time: "September to February"
+  duration: "2-3 Days"
+  airport: "Kempegowda International Airport, Bengaluru (135 km)"
+  railway: "Madanapalle Road Railway Station (26 km)"
+faq:
+  - question: "What is the best time to visit Horsley Hills?"
+    answer: "The best time to visit Horsley Hills is from September to February, when the weather is cool, pleasant, and the hills are often covered in mist."
+  - question: "How many days are needed to explore Horsley Hills?"
+    answer: "A 2 to 3-day trip is ideal to explore all major viewpoints, Wind Rocks (Gali Bandalu), and take a day trip to Kaigal Falls."
+  - question: "Is Horsley Hills suitable for a weekend trip?"
+    answer: "Yes, it is a very popular weekend destination from Bengaluru (140 km), Chennai (270 km), and Tirupati (120 km)."
 ---
 
 Horsley Hills, a serene hill station in the Chittoor district of Andhra Pradesh, is a quiet haven perfect for those seeking to escape the heat and chaos of the plains. 
@@ -41,7 +55,7 @@ On your final day, check out of your accommodation and drive down towards the sc
 On your way back, stop by the local cooperative stores to buy pure, locally harvested forest honey and eucalyptus oil.
 Depart for your onward journey with beautiful memories of the hills.
 
-## Tips for Visiting Horsley Hills:
+## FAQs and Tips for Visiting Horsley Hills
 
 The best time to visit is from September to February when the weather is cool and the hills are often enveloped in mist.
 Since accommodation options on the hills are limited, booking your stay at the Haritha Hill Resort in advance is highly recommended.

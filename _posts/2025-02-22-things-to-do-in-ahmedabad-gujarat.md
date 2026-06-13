@@ -6,6 +6,20 @@ categories: [Temple, River-front, Weekend Getaway, History, Park]
 image: assets/images/ahmedabad.webp
 rating: 4
 tags: [Gujarat]
+toc: true
+quick_facts:
+  state: "Gujarat"
+  best_time: "October to March"
+  duration: "2-3 Days"
+  airport: "Sardar Vallabhbhai Patel International Airport, Ahmedabad (10 km)"
+  railway: "Ahmedabad Junction Railway Station (3 km)"
+faq:
+  - question: "What is the historical significance of Ahmedabad?"
+    answer: "Founded in 1411 by Sultan Ahmad Shah, Ahmedabad served as the capital of the Gujarat Sultanate. It has a rich architectural heritage showing Indo-Islamic styles, exemplified by Sidi Saiyyed Mosque and Jama Masjid. In 2017, its historic core was declared India's first UNESCO World Heritage City. It was also a pivotal center for the Indian Independence Movement, notably home to Gandhi's Sabarmati Ashram."
+  - question: "What are the must-try Gujarati dishes in Ahmedabad?"
+    answer: "Ahmedabad is a paradise for food lovers. Do not miss a traditional Gujarati Thali containing items like Dhokla, Khandvi, Undhiyu, Thepla, Fafda-Jalebi, and Gujarati Kadhi. Popular street food hubs like Manek Chowk (which turns into a food market at night) and Law Garden offer unique delicacies like butter-loaded sandwiches, pav bhaji, and kulfi."
+  - question: "When is the best time to experience Ahmedabad's culture?"
+    answer: "The best time to experience the city's vibrant culture is during the Navratri Festival (usually in October), which features nine nights of energetic Garba dance. Additionally, the International Kite Festival (Uttarayan) held on January 14th showcases thousands of colorful kites filling the sky, offering a spectacular cultural experience."
 ---
 Ahmedabad, the vibrant heart of Gujarat, is a city that seamlessly blends ancient history with modern dynamism. 
 
@@ -26,7 +40,8 @@ Morning: Visit the Akshardham Temple, a modern marvel of Hindu architecture with
 Afternoon: Head to the Sabarmati Ashram, the former residence of Mahatma Gandhi, and gain insights into the life and philosophy of the Father of the Nation.
 Late Afternoon: Indulge in some retail therapy at SG Highway, a modern shopping district with a range of malls and boutiques.
 Evening: Conclude your trip with a relaxing riverfront stroll along the Sabarmati River, enjoying the city lights and the cool evening breeze.
-Tips for your Trip:
+
+## FAQs and Tips for Visiting Ahmedabad
 
 *Best time to visit: October to March offers pleasant weather.*
 Getting Around: Ahmedabad has a good public transportation system, including buses and auto-rickshaws. You can also hire a taxi or use ride-hailing services.

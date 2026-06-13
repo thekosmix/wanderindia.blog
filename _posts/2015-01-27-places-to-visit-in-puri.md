@@ -6,7 +6,22 @@ categories: [ Pilgrimage, Temple, Sea, Beach, History ]
 image: assets/images/puri.webp
 rating: 3.5
 tags: [Odisha]
+toc: true
+quick_facts:
+  state: "Odisha"
+  best_time: "October to February"
+  duration: "2-3 Days"
+  airport: "Biju Patnaik International Airport, Bhubaneswar (60 km)"
+  railway: "Puri Railway Station (2 km)"
+faq:
+  - question: "Are non-Hindus allowed inside the Jagannath Temple in Puri?"
+    answer: "No, non-Hindus are not permitted to enter the main temple complex of Jagannath Temple. However, they can get a view of the temple from the roof of the Raghunandan Library located opposite the temple entrance."
+  - question: "When does the famous Rath Yatra festival in Puri take place?"
+    answer: "The Rath Yatra (Chariot Festival) typically takes place in the month of June or July. The exact dates vary each year based on the Hindu lunar calendar."
+  - question: "Is it safe to swim in the sea at Puri Beach?"
+    answer: "Puri Beach has strong undercurrents and high waves, making it risky for swimming. It is highly recommended to swim only in designated areas and under the supervision of local lifeguards (Nulias) present on the beach."
 ---
+
 Puri is a pilgirmage city in the state of Odisha, India. It is located in the western part of the state, in the Ananthagiri Hills region.
 
 Puri, Odisha is a captivating coastal town adorned with rich history, cultural heritage, and scenic beauty. Nestled on the Bay of Bengal, Puri is a prime destination for spiritual seekers, beach lovers, and culture enthusiasts.

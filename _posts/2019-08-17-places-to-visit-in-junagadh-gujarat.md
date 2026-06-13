@@ -6,6 +6,20 @@ categories: [ Zoo, Wild Animals ]
 image: assets/images/junagadh.webp
 rating: 4
 tags: [Gujarat]
+toc: true
+quick_facts:
+  state: "Gujarat"
+  best_time: "October to March"
+  duration: "2-3 Days"
+  airport: "Rajkot Airport, Rajkot (102 km)"
+  railway: "Junagadh Junction Railway Station (1 km)"
+faq:
+  - question: "How many steps are there to climb Girnar Hill in Junagadh?"
+    answer: "There are approximately 9,999 steps to climb to the topmost peak of Girnar Hill, which takes about 5 to 7 hours for a round trip. Alternatively, a ropeway service is available from the base to Ambaji Temple (at 5,000 steps), which takes only 10 minutes."
+  - question: "What is Mahabat Maqbara and is there an entry fee?"
+    answer: "Mahabat Maqbara is a stunning 19th-century mausoleum known for its exquisite Indo-Islamic, Gothic, and European architecture, featuring winding external staircases on its minarets. There is no entry fee to view it from the outside, but entry inside the tomb is restricted."
+  - question: "What are the key attractions inside Uparkot Fort?"
+    answer: "Uparkot Fort features ancient Buddhist caves, the Adi Kadi Vav and Navghan Kuwo (rock-cut stepwells), massive medieval cannons (Neelam and Kadanal), and panoramic ramparts offering views of Junagadh city and Girnar Hill."
 ---
 Junagadh is a city in the western Indian state of Gujarat. Mahabat Maqbara is the huge 19th-century mausoleum of a local ruler, which showcases intricate Indo-Islamic architectural details. Uparkot Fort, founded around 300 BC, has city views from its ramparts. Within the fort are the stone-cut stepwells Adi Kadi Vav and Navghan Kuwo, plus Buddhist caves. To the west, Darbar Hall Museum is housed in a former palace.
 

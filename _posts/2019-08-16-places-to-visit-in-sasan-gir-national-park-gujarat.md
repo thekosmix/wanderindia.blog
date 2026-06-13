@@ -9,6 +9,20 @@ categories: [ Wild Animals, Forest ]
 image: assets/images/sasan.webp
 rating: 5
 tags: [Gujarat]
+toc: true
+quick_facts:
+  state: "Gujarat"
+  best_time: "December to March"
+  duration: "2 Days"
+  airport: "Keshod Airport, Keshod (38 km)"
+  railway: "Junagadh Junction Railway Station (77 km)"
+faq:
+  - question: "Is Gir National Park open throughout the year?"
+    answer: "No, Gir National Park remains closed from 16th June to 15th October every year due to the monsoon season. The best time to visit is from December to March when the weather is pleasant and wildlife sightings are more common."
+  - question: "How do I book a jungle safari in Sasan Gir?"
+    answer: "All jungle safaris in Sasan Gir must be booked online in advance through the official Gujarat Tourism portal (girlion.gujarat.gov.in). Spot bookings are not available, so it is highly recommended to book your safari slots at least 30-45 days prior to your visit."
+  - question: "What are the chances of spotting an Asiatic Lion during the safari?"
+    answer: "While wildlife sightings are never guaranteed, Sasan Gir has a high density of Asiatic Lions, making the chances of spotting them during a standard 3-hour safari quite high, especially during early morning and late afternoon safari slots."
 ---
 Sasan Gir is a wildlife sanctuary located in the Indian state of Gujarat. It is the only home of the Asiatic lion and is one of the most popular tourist destinations in India. The sanctuary covers an area of 1412 square kilometers and is home to a variety of wildlife, including leopards, hyenas, jackals, antelopes, and more than 300 species of birds. The sanctuary also has a number of ancient temples and monuments, such as the Girnar Temple and the Junagadh Fort. Additionally, the sanctuary is home to a number of activities, such as safaris, bird watching, and nature walks.
 

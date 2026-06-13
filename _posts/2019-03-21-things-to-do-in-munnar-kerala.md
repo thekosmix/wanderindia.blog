@@ -6,6 +6,20 @@ categories: [ Forest, Spices, Tea Garden ]
 image: assets/images/munnar.webp
 rating: 4
 tags: [Kerala]
+toc: true
+quick_facts:
+  state: "Kerala"
+  best_time: "October to February"
+  duration: "2-3 Days"
+  airport: "Cochin International Airport (110 km)"
+  railway: "Aluva Railway Station (110 km)"
+faq:
+  - question: "What is Munnar famous for?"
+    answer: "Munnar is famous for its vast tea plantations, picturesque valleys, misty weather, and landmarks like Eravikulam National Park (home to the Nilgiri Tahr) and Anamudi Peak (the highest peak in South India)."
+  - question: "How can I reach Munnar?"
+    answer: "Munnar does not have its own airport or railway station. The nearest airport is Cochin International Airport (approx. 110 km away) and the nearest major railway station is Aluva (approx. 110 km away). You can complete the remaining journey by hiring a taxi or taking a bus."
+  - question: "When does the Neelakurinji flower bloom in Munnar?"
+    answer: "The famous Neelakurinji flower, which covers the hills of Munnar in a vibrant blue/purple hue, blooms once every 12 years. The last bloom was in 2018, and the next one is expected in 2030."
 ---
 Munnar is amazingly beautiful and serene, covered with lush greenery. You would see miles of tea plantation here which looks mystique during winter season. 
 

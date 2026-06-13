@@ -6,6 +6,20 @@ categories: [Falls, Sunset, Sunrise, Mountain, Peak, Zoo, Safari]
 image: assets/images/shiva.webp
 rating: 4.5
 tags: [Karnataka]
+toc: true
+quick_facts:
+  state: "Karnataka"
+  best_time: "October to March"
+  duration: "2-3 Days"
+  airport: "Shivamogga Airport (15 km)"
+  railway: "Shivamogga Town Railway Station (2 km)"
+faq:
+  - question: "What is the best time to visit Jog Falls?"
+    answer: "The best time to visit Jog Falls is during the monsoon and post-monsoon months (July to October) when the Sharavathi River flows in full force, creating a spectacular sight. During dry winter and summer months, the water flow is significantly reduced, though the rocky gorge remains a scenic site."
+  - question: "What can visitors do at the Sakrebailu Elephant Camp?"
+    answer: "At Sakrebailu Elephant Camp, visitors can watch trained elephants interact, bathe in the Tunga River, and feed. The camp is an eco-tourism site designed to house and rehabilitate elephants under the care of the Karnataka Forest Department. The best time to visit is early morning (between 8:30 AM and 11:00 AM) to see their bath and feeding sessions."
+  - question: "Why is Agumbe famous, and is it safe to visit?"
+    answer: "Agumbe is a tiny village in Shivamogga district famous for receiving some of the highest rainfall in South India, earning it the title \"Cherrapunji of the South\". It is renowned for its dense rainforests, rich biodiversity (particularly as the home of the King Cobra), and scenic sunset viewpoint. It is safe to visit, but caution is advised on the winding hairpin curves of the ghat road."
 ---
 Shivamogga, often called the "Gateway to Malnad," is a treasure trove of natural beauty in Karnataka. 
 
@@ -38,14 +52,13 @@ Explore the historical Keladi and Ikkeri temples, known for their unique Dravidi
 Later, drive to Agumbe, famous for its dense rainforests and spectacular sunset views. The journey through the winding ghat roads is an experience in itself.
 Visit the Agumbe Sunset View Point to witness a mesmerizing sunset over the Western Ghats before heading back.
 
-## Tips for Visiting Shivamogga:
+## FAQs and Tips for Visiting Shivamogga
 
 The best time to visit is from June to October, during and right after the monsoon, to see the waterfalls in their full splendor.
 Carry rain gear and waterproof bags if you are traveling during the monsoon season.
 It's advisable to check the timings for the elephant camp and safari in advance.
 The roads to Jog Falls and Agumbe are scenic but can be winding. Drive cautiously.
 Book accommodations in advance, especially during the peak tourist season.
-
 
 <div class="pa-carousel-widget" style="width:100%; height:480px; display:none;"
   data-link="https://www.tripadvisor.in/Attractions-g1156205-Activities-Shimoga_Shimoga_District_Karnataka.html"
@@ -77,4 +90,5 @@ Book accommodations in advance, especially during the peak tourist season.
   <object data="https://lh3.googleusercontent.com/pw/AP1GczOzqRzC35oz3LjeN3wJm7OdFuu7W2D0TqPQ8Y746WDddeQHiasrwc4hfelY03lSbo0wL_u8Rws5lionrOU4Nzs9_qAVwJ7hSa7FkXuwyr6PjjzpVD9p=w960-rw-h720"></object>
   <object data="https://lh3.googleusercontent.com/pw/AP1GczMML6h7rpYk8jaZFglBgYiKPayDtD_YYR1p4Ka0ZI-tXJaf07KftJivDmjjuCMknvs-FsyvviJJD4YZ0KyiRgoLNUbpswvZ8_PoxRA4E4J1nMNcC053=w960-rw-h720"></object>
   <object data="https://lh3.googleusercontent.com/pw/AP1GczM85F2YRjNd4YRi1t8tG_BAZXGLe2G6oCdN7uSQRvSCTTYb6NV1gxIYvbS_z79mm8IlFvn49yhTtT5vTCW5IRrerFZzznipGB6M4BP-rFd1KWEfrywF=w960-rw-h720"></object>
-  <object data="https://lh3.googleusercontent.com/pw/AP1GczOZ7c6VIpx6JQI2Kq0urcUKfCd6rHCObzI32BrbAdXJ3T2lqbp7u-hJ1EbxenMerinrXk2jHzQYaZeYLfoVkH4vlQADSi510AcQiYqyowlidsmsArp5=w960-rw-h720">
+  <object data="https://lh3.googleusercontent.com/pw/AP1GczOZ7c6VIpx6JQI2Kq0urcUKfCd6rHCObzI32BrbAdXJ3T2lqbp7u-hJ1EbxenMerinrXk2jHzQYaZeYLfoVkH4vlQADSi510AcQiYqyowlidsmsArp5=w960-rw-h720"></object>
+</div>

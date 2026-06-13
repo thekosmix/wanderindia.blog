@@ -6,6 +6,20 @@ categories: [ Chill, Pilgrimage ]
 image: assets/images/indore.webp
 rating: 4
 tags: [Madhya Pradesh]
+toc: true
+quick_facts:
+  state: "Madhya Pradesh"
+  best_time: "October to March"
+  duration: "2 Days"
+  airport: "Devi Ahilyabai Holkar International Airport, Indore (8 km)"
+  railway: "Indore Junction Railway Station (1 km)"
+faq:
+  - question: "What is Indore most famous for?"
+    answer: "Indore is nationally famous for its culinary scene, especially street food at Sarafa Bazar (a jewelry market that turns into a night food court) and Chhappan Dukaan. It is also well known for being India's cleanest city under the Swachh Survekshan awards."
+  - question: "What should I eat at Sarafa Bazar in Indore?"
+    answer: "Must-try street food items at Sarafa Bazar include Bhutte Ka Kees (grated corn cooked in milk and spices), Garadu (fried yam with chatpata spices), Joshi Dahi Bada (famous for spices tossed in the air), and giant Jalebas (large jalebis)."
+  - question: "What is the historical significance of Rajwada Palace?"
+    answer: "Rajwada Palace is a 7-story historical palace built by the Holkars of the Maratha Empire in 1747. It exhibits a unique blend of Maratha, Mughal, and French architectural styles and features a stone structure on the lower floors and a wooden frame on the upper floors."
 ---
 Indore is the largest city in the state of Madhya Pradesh, India. It is located on the banks of the River Khan and is known for its rich cultural heritage. 
 

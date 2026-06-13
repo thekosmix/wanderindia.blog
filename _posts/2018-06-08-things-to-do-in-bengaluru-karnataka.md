@@ -8,6 +8,20 @@ categories: [ Modern Architecture, Lake, Garden ]
 image: assets/images/bengaluru.webp
 rating: 4.5
 tags: [Karnataka]
+toc: true
+quick_facts:
+  state: "Karnataka"
+  best_time: "October to February"
+  duration: "2-3 Days"
+  airport: "Kempegowda International Airport, Bengaluru (35 km)"
+  railway: "KSR Bengaluru City Railway Station (Majestic) (2 km)"
+faq:
+  - question: "What is Bengaluru famous for?"
+    answer: "Bengaluru is famous as the 'Silicon Valley of India' for being the nation's leading tech hub. It is also known as the 'Garden City' due to its lush green spaces like Cubbon Park and Lalbagh Botanical Garden, alongside historical sites like the Bangalore Palace."
+  - question: "How can one travel locally in Bengaluru?"
+    answer: "Bengaluru has an extensive public transportation network including the Namma Metro, BMTC buses (including the Vayu Vajra airport service), auto-rickshaws, and app-based taxi services like Ola and Uber."
+  - question: "What is the weather like in Bengaluru?"
+    answer: "Bengaluru enjoys a moderate and pleasant climate throughout the year. While summers (March to May) are warm but manageable, the winter months (October to February) are cool and highly comfortable."
 ---
 
 Bengaluru is India's tech hub and also known as "Garden City" Nicknamed the "Silicon Valley of India". It is also known for majestic palaces & lush greenery.

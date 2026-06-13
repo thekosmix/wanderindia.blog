@@ -6,6 +6,20 @@ categories: [ Monuments, History, Zoo, River ]
 image: assets/images/patna.webp
 rating: 3.5
 tags: [Bihar]
+toc: true
+quick_facts:
+  state: "Bihar"
+  best_time: "October to March"
+  duration: "1-2 Days"
+  airport: "Jay Prakash Narayan International Airport, Patna (6 km)"
+  railway: "Patna Junction Railway Station (1 km)"
+faq:
+  - question: "What is the historical significance of Patna?"
+    answer: "Patna, historically known as Pataliputra, is one of the oldest continuously inhabited places in the world. It was the capital of major empires like the Nanda, Mauryan, Shunga, and Gupta empires, and was a great seat of learning and culture under rulers like Ashoka the Great and Chandragupta Maurya."
+  - question: "What is Golghar and why was it built?"
+    answer: "Golghar is a massive beehive-shaped granary built by Captain John Garstin of the British Army in 1786. It was constructed as a state granary to store grain in order to prevent famines (following the devastating Bengal famine of 1770). It features a spiral staircase with 145 steps to reach the top, offering panoramic views of Patna and the Ganges."
+  - question: "What are the local delicacies one must try in Patna?"
+    answer: "The most famous local dish is Litti Chokha (wheat flour balls stuffed with sattu, roasted over coal, and served with mashed vegetables). Other popular delicacies include Khaja (a sweet layered pastry), Naivedyam (besan laddu), and Sattu-based drinks and parathas."
 ---
 [Patna](https://traveltriangle.com/blog/things-to-do-in-patna/) is an ancient city that sprawls along the south bank of the Ganges River in Bihar, northeast India. The state capital, it’s home to Bihar Museum, a contemporary landmark exhibiting bronze sculptures and old coins from the region. Nearby, Indo-Saracenic–style Patna Museum displays a casket believed to contain the Buddha’s ashes. Close to the river, the Golghar is a domed colonial granary overlooking the city.
 

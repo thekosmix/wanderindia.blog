@@ -1,11 +1,25 @@
 ---
 layout: post
-title:  "Shnongpdeng, Meghalaya"
+title: "Shnongpdeng, Meghalaya"
 author: sid
 categories: [River, Road Trip, Camping, Water Sports]
 image: assets/images/shnongpdeng.webp
 rating: 4
 tags: [Meghalaya]
+toc: true
+quick_facts:
+  state: "Meghalaya"
+  best_time: "November to February"
+  duration: "1-2 Days"
+  airport: "Shillong Airport (90 km)"
+  railway: "Guwahati Railway Station (190 km)"
+faq:
+  - question: "Why is Shnongpdeng famous?"
+    answer: "Shnongpdeng is famous for the crystal-clear waters of the Umngot River, where boats appear to float in the air. It is a major hub for water sports and riverside camping in Meghalaya."
+  - question: "What water activities can I do in Shnongpdeng?"
+    answer: "Visitors can enjoy a variety of activities including boating, kayaking, cliff jumping, scuba diving, snorkeling, and zip-lining across the Umngot River."
+  - question: "How far is Shnongpdeng from Dawki and Shillong?"
+    answer: "Shnongpdeng is situated about 8 km north of Dawki and approximately 90 km from Shillong, the capital of Meghalaya."
 ---
 Shnongpdeng is a small village located in the East Khasi Hills district of Meghalaya, India. It is known for its picturesque landscape, its stunning waterfalls, and its unique culture. 
 

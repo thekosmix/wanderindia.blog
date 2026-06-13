@@ -6,6 +6,20 @@ categories: [ Monuments, Beach, Party, Sea, Church ]
 image: assets/images/goa.webp
 rating: 4.5
 tags: [Goa]
+toc: true
+quick_facts:
+  state: "Goa"
+  best_time: "November to February"
+  duration: "4-5 Days"
+  airport: "Dabolim Airport, Goa (26 km)"
+  railway: "Madgaon Railway Station (Margao) (38 km)"
+faq:
+  - question: "What is the difference between North Goa and South Goa?"
+    answer: "North Goa is famous for its vibrant nightlife, crowded beaches, water sports, beach shacks, and popular party hubs (like Baga and Anjuna). South Goa is known for its serene, secluded beaches, luxury resorts, peace, and natural beauty (like Palolem and Varca)."
+  - question: "What is the best way to travel locally in Goa?"
+    answer: "The most popular and cost-effective way to get around Goa is by renting a two-wheeler (scooter or motorcycle). Alternatively, you can hire self-drive cars, local tourist cabs, or use the Goa Tourism hop-on-hop-off buses."
+  - question: "Are beach shacks open in Goa during the monsoons?"
+    answer: "No, beach shacks are dismantled and closed during the monsoon season (June to September) due to rough seas and heavy rain. They start operating again in late October or November as the tourist season begins."
 ---
 [Goa](https://www.justwravel.com/) is a state in western India with coastlines stretching along the Arabian Sea. Its long history as a Portuguese colony prior to 1961 is evident in its preserved 17th-century churches and the area’s tropical spice plantations. Goa is also known for its beaches, ranging from popular stretches at Baga and Palolem to those in laid-back fishing villages such as Agonda.
 

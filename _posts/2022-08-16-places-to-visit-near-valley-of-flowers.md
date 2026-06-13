@@ -1,11 +1,25 @@
 ---
 layout: post
-title:  "Valley of Flowers, Uttarakhand"
+title: "Valley of Flowers, Uttarakhand"
 author: sid
 categories: [ Chill, Snow, Mountain, Long trip]
 image: assets/images/vof.webp
 rating: 4.5
 tags: [Uttarakhand]
+toc: true
+quick_facts:
+  state: "Uttarakhand"
+  best_time: "July to September"
+  duration: "3-4 Days"
+  airport: "Jolly Grant Airport, Dehradun (290 km)"
+  railway: "Rishikesh Railway Station (270 km)"
+faq:
+  - question: "When does the Valley of Flowers open and close?"
+    answer: "The Valley of Flowers National Park is open from June 1st to October 31st each year. It remains closed for the rest of the year due to heavy snow."
+  - question: "What is the best month to see Valley of Flowers in full bloom?"
+    answer: "The best time to visit is from July to September, with July and August being the absolute peak months when the maximum number of alpine flowers are in full bloom after the monsoon rains."
+  - question: "Is the Valley of Flowers trek difficult for beginners?"
+    answer: "The trek is graded as easy to moderate. The trek from Govindghat to Ghangaria is about 14 km, and from Ghangaria to the Valley of Flowers is 4 km. It is suitable for beginners with average physical fitness, though there are steep sections, especially if you also trek to Hemkund Sahib."
 ---
 [The Valley of Flowers Trek](https://www.justwravel.com/) is nestled in the vicinity of the Nanda Devi Biosphere Reserve and its multitude of blooming flowers covering the vast expanse of land makes the valley of flowers one of the most beautiful Himalayan treks our country has to offer.
 
@@ -48,4 +62,3 @@ Valley of Flowers is a national park located in the Chamoli district of Uttarakh
   <object data="https://lh3.googleusercontent.com/uIgpin5EAKeIY4WWrkpyuHWysyYOLThzEdIMi3DxDPB0OEcu9QWrswp3R0SzgC2fB8WqKCcuZsxk2Kva49HB5TnpihZQPauSlrnwNkZBnuWdGuxhtvBupv853NAqxAU0rJFc0AAYKNg=w960-rw-h720"></object>
   <object data="https://lh3.googleusercontent.com/U3Jr469DPlck3WE63Uo7zjFMPknFkQedoG5vTMvHFhRtPgowc_6bMkxzo0b77kFaVfp1hCp6fwKyMpkwPgKlj57_9uRT7ayPlOXv0Qv-Zuv9ag2QTAozgQ9SpC2RnTwcLUTNGXUT0wI=w960-rw-h720"></object>
 </div>
-

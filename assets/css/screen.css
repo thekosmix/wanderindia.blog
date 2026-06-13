@@ -921,3 +921,25 @@ iframe {
     opacity: 0;
     transition: opacity .25s;
 }
+
+/* Quick Facts & FAQ Custom Styling */
+.quick-facts-box {
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+.quick-facts-box:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.08) !important;
+}
+.faq-section .card {
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+.faq-section .card:hover {
+    transform: translateY(-1px);
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.05) !important;
+}
+.faq-section .card-header .fa-chevron-down {
+    transition: transform 0.3s ease;
+}
+.faq-section .card-header[aria-expanded="true"] .fa-chevron-down {
+    transform: rotate(180deg);
+}

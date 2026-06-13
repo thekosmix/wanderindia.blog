@@ -6,6 +6,20 @@ categories: [ Mountain, Chill, Snow, Zoo ]
 image: assets/images/kufri.webp
 rating: 5
 tags: [Himachal Pradesh]
+toc: true
+quick_facts:
+  state: "Himachal Pradesh"
+  best_time: "April to June, and December to February"
+  duration: "1-2 Days"
+  airport: "Shimla Airport (Jubbarhatti) (34 km)"
+  railway: "Shimla Railway Station (16 km)"
+faq:
+  - question: "What is Kufri famous for?"
+    answer: "Kufri is famous for its scenic snow-capped landscapes, winter adventure sports like skiing and tobogganing, and attractions like Mahasu Peak, Kufri Fun World (one of the highest amusement parks in the world), and the Himalayan Nature Park."
+  - question: "How do I reach Kufri from Shimla?"
+    answer: "Kufri is located about 15-20 km from Shimla and can be easily reached by road. You can hire a taxi or take a local bus from Shimla, which typically takes around 45 to 60 minutes."
+  - question: "Is there snowfall in Kufri?"
+    answer: "Yes, Kufri experiences heavy snowfall during the winter months, especially from late December to February, which attracts a lot of winter sports enthusiasts."
 ---
 
 Kufri, derived from the word ‘kufr’ that means lake in the local language, is a destination to explore in India at least once in a lifetime. 

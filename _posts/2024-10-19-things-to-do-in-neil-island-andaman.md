@@ -6,6 +6,20 @@ categories: [Resorts, Nature, Sea, Long Drive, Beach, Water Sports, Island, Cora
 image: assets/images/neil-island.webp
 rating: 5
 tags: [Andaman and Nicobar Islands]
+toc: true
+quick_facts:
+  state: "Andaman and Nicobar Islands"
+  best_time: "October to May"
+  duration: "1-2 Days"
+  airport: "Veer Savarkar International Airport, Port Blair (40 km - accessible via ferry)"
+  railway: "None (Andaman Islands are not connected by rail)"
+faq:
+  - question: "What is the best time to visit Neil Island?"
+    answer: "The best time to visit Neil Island is between October and May, when the weather is pleasant, ideal for snorkeling, scuba diving, and relaxing on the beaches."
+  - question: "How to reach Neil Island?"
+    answer: "You can reach Neil Island by taking a government or private ferry (such as Makruzz or Green Ocean) from Port Blair (around 40 km away) or Havelock Island. The ferry from Port Blair takes about 60 to 90 minutes."
+  - question: "What is Neil Island famous for?"
+    answer: "Neil Island is famous for its peaceful and laid-back vibe, beautiful sandy beaches like Bharatpur and Laxmanpur, and the iconic natural rock formation known as the Natural Bridge."
 ---
 Neil Island, also known as Shaheed Dweep, is a smaller and more tranquil island compared to Port Blair and Havelock. 
 

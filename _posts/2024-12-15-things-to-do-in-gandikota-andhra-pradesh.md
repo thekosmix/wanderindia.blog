@@ -6,6 +6,20 @@ categories: [Resorts, Nature, River, Long Drive, Dam, Sunset]
 image: assets/images/gandikota.webp
 rating: 4
 tags: [Andhra Pradesh]
+toc: true
+quick_facts:
+  state: "Andhra Pradesh"
+  best_time: "September to February"
+  duration: "1-2 Days"
+  airport: "Kadapa Airport (77 km)"
+  railway: "Jammalamadugu Railway Station (18 km)"
+faq:
+  - question: "What is the best time to visit Gandikota?"
+    answer: "The best time to visit Gandikota is during the winter months, from September to February, when the weather is pleasant and cool, ideal for trekking and exploring the fort."
+  - question: "Why is Gandikota called the Grand Canyon of India?"
+    answer: "Gandikota is called the Grand Canyon of India because of the spectacular gorge formed by the Pennar River cutting through the Erramala Hills, creating dramatic red stone cliffs that closely resemble the famous Grand Canyon in the United States."
+  - question: "Can we camp inside Gandikota?"
+    answer: "Yes, camping on the cliffs near the gorge is a highly popular activity in Gandikota. There are various local adventure groups that organize tent camping, campfires, and trekking activities."
 ---
 Gandikota, often referred to as the "Grand Canyon of India," is a village in the Kadapa district of Andhra Pradesh, famous for its stunning gorge.
 

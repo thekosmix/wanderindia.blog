@@ -8,6 +8,20 @@ categories: [ Mountain, Hill Station,  Weekend Getaway ]
 image: assets/images/saputara.webp
 rating: 4.5
 tags: [Gujarat]
+toc: true
+quick_facts:
+  state: "Gujarat"
+  best_time: "October to February"
+  duration: "2-3 Days"
+  airport: "Surat Airport (160 km)"
+  railway: "Bilimora Railway Junction (50 km)"
+faq:
+  - question: "What is Saputara famous for?"
+    answer: "Saputara is famous for being the only hill station in Gujarat. It is renowned for its scenic beauty, pleasant climate, waterfalls like Gira Waterfalls, Saputara Lake, the Pushpak ropeway, and its rich tribal culture."
+  - question: "How do I reach Saputara?"
+    answer: "Saputara is well-connected by road. The nearest domestic airport is in Surat (about 160 km away), and Nashik is around 80 km away. The nearest convenient railway station is Bilimora Junction, which is roughly 50 km away."
+  - question: "Is alcohol allowed in Saputara?"
+    answer: "No, because Saputara is in the state of Gujarat, which is a dry state. Alcohol consumption and sale are prohibited without a valid permit."
 ---
 
 Nestled over the gigantic Sahyadri mountain range in Gujarat, the picture-perfect hill station of Saputara boasts of endless natural beauty. 

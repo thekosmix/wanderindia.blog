@@ -6,6 +6,20 @@ categories: [Sea, Beach, Architecture, Fort, Park, History, Monuments, Church, C
 image: assets/images/chennai.webp
 rating: 5
 tags: [Tamil Nadu]
+toc: true
+quick_facts:
+  state: "Tamil Nadu"
+  best_time: "November to February"
+  duration: "2-3 Days"
+  airport: "Chennai International Airport (15 km)"
+  railway: "Chennai Central Railway Station (1 km)"
+faq:
+  - question: "What is Chennai's Marina Beach famous for?"
+    answer: "Marina Beach is famous for being the second-longest urban beach in the world, stretching over 13 kilometers along the Bay of Bengal. It is a major gathering spot for locals and tourists, famous for its lighthouse offering panoramic views, historical statues along the promenade, and vibrant evening food stalls selling local snacks like sundal."
+  - question: "What are the key historical and cultural landmarks in Chennai?"
+    answer: "Key landmarks include the 7th-century Kapaleeshwarar Temple (a masterpiece of Dravidian architecture), the San Thome Basilica (built over the tomb of St. Thomas the Apostle), Fort St. George (the first English fortress in India), and the Government Museum in Egmore, which houses a vast collection of bronze sculptures."
+  - question: "What are the must-try local foods in Chennai?"
+    answer: "Chennai is celebrated for its South Indian culinary heritage. Must-try items include idli, dosa, vada, and sambar, as well as Chennai's iconic hot filter coffee. For lunch, a traditional South Indian meals served on a banana leaf or spicy Chettinad non-vegetarian dishes are highly recommended."
 ---
 Chennai, the vibrant capital of Tamil Nadu, is a city where tradition and modernity coexist in perfect harmony. 
 
@@ -39,7 +53,7 @@ Later, find tranquility at the Theosophical Society Adyar, a sprawling green cam
 Spend a relaxing evening at Elliot's Beach in Besant Nagar, a cleaner and quieter alternative to Marina Beach, and visit the Karl Schmidt Memorial.
 Conclude your trip with a cup of Chennai's famous filter coffee before you depart.
 
-## Tips for Visiting Chennai:
+## FAQs and Tips for Visiting Chennai
 
 The best time to visit is from November to February when the climate is cooler and more pleasant.
 The city is known for its hot and humid weather, so pack light cotton clothing.

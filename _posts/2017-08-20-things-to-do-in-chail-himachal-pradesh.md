@@ -6,6 +6,20 @@ categories: [ Mountain, Palaces, Chill, Snow ]
 image: assets/images/chail.webp
 rating: 5
 tags: [Himachal Pradesh]
+toc: true
+quick_facts:
+  state: "Himachal Pradesh"
+  best_time: "April to June"
+  duration: "2-3 Days"
+  airport: "Jubbarhatti Airport, Shimla (45 km)"
+  railway: "Kalka Railway Station (81 km)"
+faq:
+  - question: "What is Chail famous for?"
+    answer: "Chail is famous for the Chail Palace (built in 1891 by the Maharaja of Patiala) and the Chail Cricket Ground, which is the highest cricket ground in the world. It is also known for its lush deodar and pine forests, peaceful atmosphere, and wildlife sanctuary."
+  - question: "How do I reach Chail?"
+    answer: "Chail is located about 45 km from Shimla's Jubbarhatti Airport and 120 km from Chandigarh Airport. The nearest major railway station is Kalka (approx. 81 km away), which is well-connected to major cities, from where you can take a taxi or the scenic toy train towards Kandaghat."
+  - question: "Does it snow in Chail?"
+    answer: "Yes, Chail experiences snowfall in winter, particularly from late December to February, transforming the hill station into a scenic winter wonderland."
 ---
 
 Chail is a small hill station in the Shimla district of Himachal Pradesh, India. It is located at an altitude of 2,250 meters.

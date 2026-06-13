@@ -1,11 +1,25 @@
 ---
 layout: post
-title:  "Shimla, Himachal Pradesh"
+title: "Shimla, Himachal Pradesh"
 author: sid
 categories: [ Chill, Long Drive, Mountain, Snow, Long trip]
 image: assets/images/shimla.webp
 rating: 4
 tags: [Himachal Pradesh]
+toc: true
+quick_facts:
+  state: "Himachal Pradesh"
+  best_time: "March to June & October to February"
+  duration: "2-3 Days"
+  airport: "Shimla Airport, Jubbarhatti (22 km)"
+  railway: "Shimla Railway Station (2 km)"
+faq:
+  - question: "What is the best time to visit Shimla?"
+    answer: "The best time to visit Shimla is from March to June for pleasant summer weather, and from October to February if you want to experience snowfall and winter sports."
+  - question: "How can I reach Shimla by air?"
+    answer: "The nearest airport is Shimla Airport in Jubbarhatti, located about 22 km from the city center. However, Chandigarh International Airport (120 km) is the nearest major airport with better flight connectivity."
+  - question: "What are the top attractions in Shimla?"
+    answer: "Some of the must-visit places in Shimla include the Mall Road, The Ridge, Jakhoo Temple, Christ Church, and Kufri."
 ---
 [Shimla](https://www.justwravel.com/) is the capital of the Indian state of Himachal Pradesh. It is a popular hill station located in the foothills of the Himalayas. Shimla is known for its natural beauty, with lush green forests, snow-capped mountains, and beautiful lakes. It is a popular tourist destination, with many attractions such as the Mall Road, Jakhoo Hill, and the Ridge. Shimla is also home to many colonial-era buildings, such as the Viceregal Lodge and the Christ Church.
 

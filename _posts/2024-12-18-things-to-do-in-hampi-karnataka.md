@@ -6,6 +6,20 @@ categories: [Resorts, Nature, Long Drive, Water Sports, Sunset, Monuments, Histo
 image: assets/images/hampi.webp
 rating: 5
 tags: [Karnataka]
+toc: true
+quick_facts:
+  state: "Karnataka"
+  best_time: "October to March"
+  duration: "2-3 Days"
+  airport: "Jindal Vijayanagar Airport, Vidyanagar (35 km)"
+  railway: "Hosapete Junction Railway Station (13 km)"
+faq:
+  - question: "What is Hampi famous for?"
+    answer: "Hampi is famous for its stunning boulder-strewn landscapes and the extensive ruins of the Vijayanagara Empire, a UNESCO World Heritage Site. Key highlights include the functioning Virupaksha Temple, the Vittala Temple with its iconic Stone Chariot and musical pillars, the royal enclosures, and the unique geography that attracts visitors, pilgrims, and bouldering enthusiasts."
+  - question: "How do I get around in Hampi?"
+    answer: "The best ways to explore the extensive ruins of Hampi are by renting a bicycle, a scooter/moped, or hiring an auto-rickshaw for a guided tour. You can also explore sections on foot. Coracle rides are popular for crossing the Tungabhadra River to the Hippie Island side (Anegundi)."
+  - question: "Is Hampi safe for solo travelers?"
+    answer: "Yes, Hampi is generally considered very safe for solo travelers, including solo female travelers. The locals are hospitable and used to tourists. However, it is advisable to avoid trekking or exploring isolated ruins alone after dark, and to keep local emergency contacts handy."
 ---
 Hampi, a UNESCO World Heritage Site in Karnataka, India, is a mesmerizing destination that transports you back in time.
 

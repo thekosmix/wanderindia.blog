@@ -6,6 +6,20 @@ categories: [Resorts, Nature, Sea, Long Drive, Beach, Water Sports, Island, Cora
 image: assets/images/port-blair.webp
 rating: 5
 tags: [Andaman and Nicobar Islands]
+toc: true
+quick_facts:
+  state: "Andaman and Nicobar Islands"
+  best_time: "October to May"
+  duration: "2-3 Days"
+  airport: "Veer Savarkar International Airport, Port Blair (2 km)"
+  railway: "None (Andaman Islands are not connected by rail)"
+faq:
+  - question: "What is the best time to visit Port Blair?"
+    answer: "The best time to visit Port Blair is between October and May, when the weather is pleasant and dry, making it ideal for sightseeing and water activities."
+  - question: "How to reach Port Blair from mainland India?"
+    answer: "Since there is no railway connectivity to the Andaman Islands, the best way to reach Port Blair is by flight to Veer Savarkar International Airport, or by passenger ships operating from Chennai, Kolkata, and Visakhapatnam."
+  - question: "What is Cellular Jail famous for?"
+    answer: "Cellular Jail, also known as Kala Pani, is a historic colonial prison where the British exiled Indian political prisoners. It is now a national memorial showcasing India's freedom struggle, featuring a popular light and sound show in the evenings."
 ---
 Port Blair, the capital of Andaman & Nicobar Islands, is a haven for history buffs, nature lovers and Sea divers.
 

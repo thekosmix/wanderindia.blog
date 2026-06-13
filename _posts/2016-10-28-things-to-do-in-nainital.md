@@ -6,7 +6,22 @@ categories: [ Lake, Mountain, Activities ]
 image: assets/images/nainital.webp
 rating: 4.5
 tags: [Uttarakhand]
+toc: true
+quick_facts:
+  state: "Uttarakhand"
+  best_time: "March to June"
+  duration: "2-3 Days"
+  airport: "Pantnagar Airport (70 km)"
+  railway: "Kathgodam Railway Station (36 km)"
+faq:
+  - question: "What are the timings and charges for the Nainital Ropeway?"
+    answer: "The Nainital Ropeway operates daily from 10:00 AM to 4:00 PM. It connects Mallital to Snow View Point, offering panoramic views of Naini Lake and the surrounding hills. The ticket is around INR 300 for adults and INR 200 for children for a round trip."
+  - question: "Can we see snow in Nainital?"
+    answer: "Yes, Nainital receives snowfall during the winter months, typically between late December and January. Snow View Point, Kilbury, and China Peak are the best spots around Nainital to experience snow and view the snow-capped Himalayan ranges."
+  - question: "Is boating on Naini Lake safe, and what are the options?"
+    answer: "Yes, boating on Naini Lake is very safe and highly recommended. You can choose between rowboats (operated by a boatman) or pedal boats. Life jackets are mandatory and provided at the boarding points around the lake."
 ---
+
 This was just one-day trip from Delhi. We arrived early in the morning at Kathgodam railway station ~36KMs away from Nainital and started heading towards it.
 
 <h2>Places to visit in Nainital</h2>

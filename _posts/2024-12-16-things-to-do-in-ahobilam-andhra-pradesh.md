@@ -6,6 +6,20 @@ categories: [Temple, Trekking, Culture]
 image: assets/images/ahobilam.webp
 rating: 3.5
 tags: [Andhra Pradesh]
+toc: true
+quick_facts:
+  state: "Andhra Pradesh"
+  best_time: "October to March"
+  duration: "1-2 Days"
+  airport: "Cuddapah Airport, Kadapa (110 km)"
+  railway: "Nandyal Junction Railway Station (74 km)"
+faq:
+  - question: "What is the significance of the Nava Narasimha temples in Ahobilam?"
+    answer: "Ahobilam is the holy site where Lord Vishnu manifested as Narasimha, a half-man, half-lion avatar, to protect his young devotee Prahlada and slay the demon king Hiranyakashipu. It is the only place in the world where all nine distinct forms of Lord Narasimha (Nava Narasimha Kshetram) are worshipped across nine separate temples set amidst the scenic Nallamala Hills."
+  - question: "How difficult is the trek to the Nava Narasimha temples?"
+    answer: "The trekking difficulty varies across the nine temples. Lower Ahobilam temples are easily accessible by road or short walks. However, Upper Ahobilam temples like Jwala Narasimha and Pavana Narasimha require challenging treks through steep, rocky terrains and dense forests. It is recommended to hire a local guide, carry sufficient water, and wear sturdy footwear."
+  - question: "Are there accommodation options available in Ahobilam?"
+    answer: "Ahobilam has limited accommodation options. The Ahobila Math has guest houses (Malola Guest House and others) offering basic rooms. There are also a few budget lodges and vegetarian dining facilities in Lower Ahobilam. For more upscale lodging, travelers can stay in nearby towns like Nandyal or Allagadda."
 ---
 Ahobilam, nestled in the Nallamala Hills of Andhra Pradesh, is a significant pilgrimage site for Hindus, particularly devotees of Lord Narasimha. 
 

@@ -6,7 +6,22 @@ categories: [ Chill, Valley, Mountain ]
 image: assets/images/anantgiri.webp
 rating: 5
 tags: [Telangana]
+toc: true
+quick_facts:
+  state: "Telangana"
+  best_time: "October to March"
+  duration: "1-2 Days"
+  airport: "Rajiv Gandhi International Airport, Hyderabad (85 km)"
+  railway: "Vikarabad Junction Railway Station (6 km)"
+faq:
+  - question: "What is Ananthagiri Hills famous for?"
+    answer: "Ananthagiri Hills is famous for being a scenic hill station near Hyderabad, the birthplace of the Musi River, and the historic Sri Anantha Padmanabha Swamy Temple. It is also a popular destination for trekking, camping, and nature walks."
+  - question: "How far is Ananthagiri Hills from Hyderabad, and how can I reach it?"
+    answer: "Ananthagiri Hills is located about 80 km from Hyderabad. You can easily reach it by car or taxi via the Chevella road (approx. 2 hours drive), or take a train from Hyderabad to Vikarabad Junction, which is just 6 km away from the hills."
+  - question: "Can we go trekking in Ananthagiri Hills?"
+    answer: "Yes, Ananthagiri Hills offers several beginner-friendly trekking trails through the lush forests, including the popular trail starting near the Anantha Padmanabha Swamy Temple and leading down to the valley."
 ---
+
 Ananthagiri Hills is a beautiful hill station located in the Araku Valley of Andhra Pradesh. It is situated at an altitude of 900 meters above sea level.
 
 It is surrounded by lush green forests. The hills are home to a variety of flora and fauna, including rare species of birds and animals. The hills are also home to a number of waterfalls, such as the Ananthagiri Waterfall, which is one of the most popular tourist attractions in the area. The hills are also home to a number of temples, such as the Sri Venkateswara Swamy Temple and the Sri Anantha Padmanabha Swamy Temple. Ananthagiri Hills is a great destination for a relaxing holiday, with plenty of activities to keep visitors entertained.

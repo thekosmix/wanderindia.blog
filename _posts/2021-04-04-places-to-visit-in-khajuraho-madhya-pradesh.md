@@ -6,6 +6,20 @@ categories: [ Monuments, Temple ]
 image: assets/images/khajuraho.webp
 rating: 3.5
 tags: [Madhya Pradesh]
+toc: true
+quick_facts:
+  state: "Madhya Pradesh"
+  best_time: "October to March"
+  duration: "1-2 Days"
+  airport: "Khajuraho Airport, Khajuraho (4 km)"
+  railway: "Khajuraho Railway Station (5 km)"
+faq:
+  - question: "Are all sculptures in the Khajuraho temples erotic?"
+    answer: "No, contrary to popular belief, only about 10% of the carvings on the temple walls depict erotic or sexual themes. The remaining 90% depict the daily lives of common people, musicians, dancers, warriors, animals, and various Hindu deities."
+  - question: "Which is the most impressive temple in Khajuraho?"
+    answer: "The Kandariya Mahadeva Temple is widely considered the largest and most magnificent temple in Khajuraho. It is dedicated to Lord Shiva and is famous for its towering shikhara, which resembles a mountain peak, and over 800 detailed sculptures."
+  - question: "When does the famous Khajuraho Dance Festival take place?"
+    answer: "The Khajuraho Dance Festival is held annually in the last week of February (usually from February 20th to 26th). It showcases various classical Indian dance forms against the backdrop of the illuminated Chitragupta and Vishwanatha Temples."
 ---
 Khajuraho is a small town located in the state of Madhya Pradesh, India. It is known for its ancient Hindu and Jain temples, which are renowned for their intricate sculptures and carvings. The temples were built between 950 and 1050 AD and are now a UNESCO World Heritage Site. The temples are divided into three groups, the Western Group, the Eastern Group, and the Southern Group. The temples are dedicated to various Hindu gods and goddesses, including Shiva, Vishnu, and Parvati. The temples are also known for their erotic sculptures, which depict various aspects of human life. Khajuraho is also home to a number of other attractions, including the Khajuraho Dance Festival, the Khajuraho Wildlife Sanctuary, and the Khajuraho Museum.
 

@@ -6,6 +6,20 @@ categories: [ Snow, Mountain, Weekend Getaway ]
 image: assets/images/chitkul.webp
 rating: 4.5
 tags: [Himachal Pradesh]
+toc: true
+quick_facts:
+  state: "Himachal Pradesh"
+  best_time: "May to June, and September to October"
+  duration: "2-3 Days"
+  airport: "Shimla Airport (Jubbarhatti) (230 km)"
+  railway: "Kalka Railway Station (280 km)"
+faq:
+  - question: "Why is Chitkul famous?"
+    answer: "Chitkul is famous for being the last inhabited village on the Indo-Tibet border. It is renowned for its scenic beauty, traditional wooden Kinnauri houses, clear views of the Baspa River, and the iconic signboard 'Hindustan Ka Aakhri Dhabha'."
+  - question: "How can I reach Chitkul?"
+    answer: "Chitkul can be reached by road from Shimla (about 220 km away) via Sangla. The nearest airport is Shimla Airport (Jubbarhatti, approx. 230 km) and the nearest major railway station is Kalka (approx. 280 km). The road journey involves driving along the beautiful but challenging National Highway 5."
+  - question: "Is there snow in Chitkul in winter?"
+    answer: "Yes, Chitkul receives very heavy snowfall in winter, starting from December and lasting until March. The village becomes completely covered in snow, and temperatures drop below freezing, making it inaccessible for tourists during peak winter months."
 ---
 I visited Chitkul at the start of April. The temperature over there was in range [-7, 1]°C. It was way way too cold for me!! 
 
@@ -56,4 +70,4 @@ The village is also home to a number of restaurants and cafes, offering a variet
   <object data="https://lh3.googleusercontent.com/UwkMDnSAPX0XKi-Z_cWDG5mOAcEdp3XCUPZqoevH6kKXk15rMKCEMotKFvUJzgONoI3P0RERpmxE8IuRe0O_S3kxnvC-sZWVcnXJ5PCeTlK0pZjWKKIl1c8FYNw-_LLrPJY3OwqdOG4=w960-rw-h720"></object>
   <object data="https://lh3.googleusercontent.com/DHhVs9HWH8mU2GMyScbSgZeJmlintfDPOj8Zfu3ChmJszIVsi2F8CfTdsCd23y_ehWgWgTTdFzrkQohz6vj9Y13h0M8cW875fM-f9yG3W7DB_DOE9LB07V6ZrpLv3_fILz42pDtzIok=w960-rw-h720"></object>
   <object data="https://lh3.googleusercontent.com/uLiZ7JT61AQY-CdRxTdbwhZKiwoTtRGYRPYZkTEnK4_0SdVDL3Mi6yHphvMpR9p1vJhNb-bDCEbwIMGFdAN0oldvsUTxvwPZ1cQCtIl3M8CXjzZyKLMSQrt8Lpl-hLeasVTQQYsRL8M=w960-rw-h720"></object>
-</div><Br/>
+---

@@ -6,6 +6,20 @@ categories: [Hills, Temple, Sunset, Trekking, Weekend Getaway]
 image: assets/images/tumakuru.webp
 rating: 4
 tags: [Karnataka]
+toc: true
+quick_facts:
+  state: "Karnataka"
+  best_time: "October to March"
+  duration: "1-2 Days"
+  airport: "Kempegowda International Airport, Bengaluru (85 km)"
+  railway: "Tumakuru Railway Station (2 km)"
+faq:
+  - question: "What are the key attractions in Tumakuru?"
+    answer: "Tumakuru is home to several religious and historical sites. Key attractions include the renowned Siddaganga Matha (a prominent educational and spiritual center), the Devarayanadurga hill station with its twin Narasimha temples, the Jain pilgrimage site of Mandaragiri Hill, and the mystical natural spring of Namada Chilume."
+  - question: "How far is Tumakuru from Bangalore, and how do I travel there?"
+    answer: "Tumakuru is about 70 km northwest of Bangalore. It is easily accessible via the National Highway 48. You can travel by car or KSRTC buses, which run frequently and take about 1.5 to 2 hours. Trains from Bangalore City (SBC) or Yesvantpur (YPR) also connect to Tumakuru regularly."
+  - question: "Can we climb Devarayanadurga Hill, and how many steps are there?"
+    answer: "Yes, Devarayanadurga is a popular hill station that can be climbed. The Shri Yoga Narasimha Swamy Temple is situated at the hilltop. There are approximately 250 well-maintained stone steps to reach the temple at the summit, offering panoramic views of the surrounding hills and forests."
 ---
 Tumakuru, also known as Tumkur, is a city located in the southern part of Karnataka, India. It's about 70 km northwest of Bangalore. 
 

@@ -6,6 +6,20 @@ categories: [Resorts, Nature, Lake, Mountain, Long Drive, Tea Garden]
 image: assets/images/wayanad.webp
 rating: 5
 tags: [Kerala]
+toc: true
+quick_facts:
+  state: "Kerala"
+  best_time: "October to March"
+  duration: "2-3 Days"
+  airport: "Calicut International Airport, Kozhikode (90 km)"
+  railway: "Kozhikode Railway Station (85 km)"
+faq:
+  - question: "What is the best time to visit Wayanad?"
+    answer: "The best time to visit Wayanad is from October to March when the climate is cool and pleasant, ideal for trekking and exploring the wildlife sanctuaries."
+  - question: "How to reach Wayanad?"
+    answer: "The nearest airport is Calicut International Airport (90 km away) and the nearest railway station is Kozhikode Railway Station (85 km away). From there, you can hire a taxi or take a KSRTC bus to reach Wayanad."
+  - question: "What are the top attractions in Wayanad?"
+    answer: "Top attractions include Banasura Sagar Dam, Chembra Peak, Edakkal Caves, Wayanad Wildlife Sanctuary, Kuruva Island, and Pookode Lake."
 ---
 Wayanad is a hill station and wildlife sanctuary in Kerala, India, known for its lush greenery, waterfalls, and rich biodiversity.
 

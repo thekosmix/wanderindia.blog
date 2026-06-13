@@ -6,7 +6,22 @@ categories: [ Sea, Mountain, Culture, Beach, Modern Architecture ]
 image: assets/images/putrajaya.webp
 rating: 5
 is_another_country: true
+toc: true
+quick_facts:
+  state: "Federal Territory"
+  best_time: "Year-round"
+  duration: "1 Day"
+  airport: "Kuala Lumpur International Airport (KLIA), Sepang (28 km)"
+  railway: "Putrajaya Sentral ERL Station (0 km)"
+faq:
+  - question: "How can I travel from Kuala Lumpur to Putrajaya?"
+    answer: "The fastest way to travel from Kuala Lumpur to Putrajaya is by taking the KLIA Transit (ERL) train from KL Sentral to Putrajaya Sentral, which takes about 20 minutes. Alternatively, you can book an e-hailing service like Grab or take a public bus."
+  - question: "Are non-Muslims allowed to enter the Putra Mosque (Pink Mosque)?"
+    answer: "Yes, non-Muslims are allowed to enter the Putra Mosque outside of prayer times. Visitors must dress modestly, and free robes are provided at the entrance for those who need to cover up."
+  - question: "What is the best way to explore Putrajaya?"
+    answer: "Since Putrajaya is a planned city with wide avenues and spread-out attractions, walking is not recommended. The best ways to explore are by renting a bicycle, booking a sightseeing cruise on Putrajaya Lake, using Grab for point-to-point travel, or joining a guided tour."
 ---
+
 This was my first foreign trip. Everything was planned and arranged by my friends, I just had to tag along. We were heading for Bali, but had a 7 hours halt in Malasiya, so we thought why not go visit the Smart city of Putajaya and boy, oh boy, it was a marvel to admire!!
 
 <h2>Places to visit in Putrajaya</h2>

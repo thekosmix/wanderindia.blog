@@ -8,6 +8,20 @@ categories: [ Beach, History, Church ]
 image: assets/images/kochi.webp
 rating: 4
 tags: [Kerala]
+toc: true
+quick_facts:
+  state: "Kerala"
+  best_time: "October to March"
+  duration: "2-3 Days"
+  airport: "Cochin International Airport (28 km)"
+  railway: "Ernakulam Junction Railway Station (1 km)"
+faq:
+  - question: "What is Kochi famous for?"
+    answer: "Kochi, known as the 'Queen of the Arabian Sea,' is famous for its rich multicultural history, scenic backwaters, and iconic landmarks like the Chinese Fishing Nets, Fort Kochi, St. Francis Church, and Mattancherry Palace."
+  - question: "How can I travel between the airport and the city center in Kochi?"
+    answer: "Cochin International Airport is located about 28 km from the city center. You can travel via pre-paid airport taxis, app-based cabs (like Uber or Ola), or the KSRTC airport bus services connecting Nedumbassery to Ernakulam."
+  - question: "Is Kochi a good place for shopping?"
+    answer: "Yes, Kochi is a premier shopping destination in Kerala. It features Lulu Mall (one of India's largest shopping malls), and historical markets in Jew Town and Broadway, where you can buy authentic spices, handicrafts, and silk sarees."
 ---
 Located in the beautiful state of Kerala, Kochi is a major port city in India and has been a significant trade centre for centuries. 
 
@@ -55,5 +69,4 @@ Kochi is home to a number of cultural attractions, such as the Kerala Folklore M
   <object data="https://lh3.googleusercontent.com/BpgO2s72qAsuXMUb0_tJoAIDDhYrZgODnFDe9vode3JGwmlNqV11qxphQu0Xdhy_BrykZ2lh1l20HalHjxc60WcVZ8j8V3gmIwASFaBjAKgP-cvKMrrydMpzZWwTs4p9G-sXgOOzQR4=w960-rw-h720"></object>
   <object data="https://lh3.googleusercontent.com/cIVmGZouDFTARYYqKRL9QRgvK-oqUDx7inzMXdtldD4e5QeqU_XO7qlKX6DgbpkfFDMgsrWP23811Jl-ENq2QvfQzMBRo-Yr6SGYr2dQzuuKn9IxaYsU7wTKWOo97Ud5js6NsU7lAww=w960-rw-h720"></object>
   <object data="https://lh3.googleusercontent.com/EuKt1WhtdPQySDpgVfCS7CHWTPJ9H8fuDC_2-NQpppMzdDVTkl6MGiBdiNwIy40NOozHFDq1nJTWDYPF8Vo-C1uyZe7XrFBqGWT3LO243IlgUleTa78xgaeAtCXgRpRykwW0So9dzns=w960-rw-h720"></object>
-  
 </div>

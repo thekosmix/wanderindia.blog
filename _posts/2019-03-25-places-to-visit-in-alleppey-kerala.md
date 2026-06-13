@@ -8,6 +8,20 @@ categories: [ Sea, Beach, Forest, House Boat, Back Waters ]
 image: assets/images/alleppey.webp
 rating: 4
 tags: [Kerala]
+toc: true
+quick_facts:
+  state: "Kerala"
+  best_time: "October to February"
+  duration: "2-3 Days"
+  airport: "Cochin International Airport, Kochi (83 km)"
+  railway: "Alappuzha Railway Station (4 km)"
+faq:
+  - question: "What is the best time of year to stay in a houseboat in Alleppey?"
+    answer: "The best time to experience a houseboat cruise in Alleppey is from October to February. During these winter months, the weather is pleasant, and the temperatures are comfortable, ranging from 18°C to 32°C. Monsoons (June to September) should generally be avoided for houseboat stays due to heavy rainfall and potential suspension of boat services."
+  - question: "Can I visit Alleppey for a day trip, or do I need to stay overnight?"
+    answer: "While a day trip is possible to experience a 3-4 hour backwater cruise, an overnight stay in a houseboat or a resort is highly recommended. It allows you to witness the serene sunset and sunrise over the Vembanad Lake and experience local village life along the backwaters more intimately."
+  - question: "What are the top things to do in Alleppey besides houseboat cruises?"
+    answer: "In addition to houseboats, you can explore Alappuzha Beach and its historic lighthouse, visit the ancient Ambalapuzha Sree Krishna Temple, canoe or kayak through narrower backwater canals, and explore the Pathiramanal Island bird sanctuary."
 ---
 If you truly want to experience the Indian Ocean, Kerala is the place where you should be headed. It's filled with green forests, back waters, light-houses to visit and most wonderful experience of a private house boat. You can spend a day or 2 in house boat which will take you to the open sea, local market built in the back waters. In local places you would find that people use small boats for commute as well.
 

@@ -8,6 +8,20 @@ categories: [ Resorts, Restaurants, Modern Architecture, Party, Long Drive ]
 image: assets/images/gurugram.webp
 rating: 4.5
 tags: [Haryana]
+toc: true
+quick_facts:
+  state: "Haryana"
+  best_time: "October to March"
+  duration: "1-2 Days"
+  airport: "Indira Gandhi International Airport, Delhi (18 km)"
+  railway: "Gurgaon Railway Station (6 km)"
+faq:
+  - question: "What is Cyber Hub in Gurugram?"
+    answer: "DLF Cyber Hub is a unique, futuristic food-mall and entertainment destination in Gurugram. It houses a large number of premium restaurants, cafes, pubs, and co-working spaces, making it the focal point of the city's nightlife and dining culture."
+  - question: "Can you spot migratory birds at Sultanpur National Park?"
+    answer: "Yes, Sultanpur National Park is a popular bird sanctuary that attracts over 250 species of birds, including migratory species from Siberia, Europe, and Central Asia (like the Siberian Crane and Greater Flamingo) during the winter months (November to February)."
+  - question: "Is there local metro connectivity in Gurugram?"
+    answer: "Yes, Gurugram is connected to Delhi via the Delhi Metro's Yellow Line (which ends at HUDA City Centre, now Millennium City Centre). It also features its own local Rapid Metro network that connects major commercial areas like Cyber City and Golf Course Road."
 ---
 
 Gurugram, also known as Gurgaon, is a city in the northern Indian state of Haryana. It is situated near the Delhi–Haryana border, about 30 kilometres (19 mi) southwest of the national capital New Delhi and 268 km (167 mi) south of Chandigarh, the state capital. 

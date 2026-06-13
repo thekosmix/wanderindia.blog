@@ -6,7 +6,22 @@ categories: [ Modern Architecture ]
 image: assets/images/kualalumpur.webp
 rating: 5
 is_another_country: true
+toc: true
+quick_facts:
+  state: "Federal Territory"
+  best_time: "May to July"
+  duration: "2-3 Days"
+  airport: "Kuala Lumpur International Airport (KLIA), Sepang (55 km)"
+  railway: "KL Sentral Railway Station (0 km)"
+faq:
+  - question: "How can I travel from Kuala Lumpur Airport (KLIA) to the city center?"
+    answer: "The fastest way to reach the city center from KLIA is by the KLIA Ekspres train, which takes 28 minutes to reach KL Sentral. Alternatively, you can take an airport taxi or use the Grab app, which takes about 50-60 minutes depending on traffic."
+  - question: "Is there a dress code for visiting Batu Caves?"
+    answer: "Yes, Batu Caves is a religious Hindu site, so visitors must dress modestly. Knees and shoulders must be covered. Women who are wearing shorts or short skirts will be required to rent a sarong at the entrance."
+  - question: "Can we walk to the skybridge of the Petronas Twin Towers?"
+    answer: "Yes, visitors can walk to the double-decked Skybridge on the 41st and 42nd floors, as well as the Observation Deck on the 86th floor, by purchasing a ticket. It is highly recommended to buy tickets online in advance as they are limited and sell out quickly."
 ---
+
 We visited Kuala Lumpur while coming back from Bali. Kuala Lumpur was a lifetime experience to had specially due to it's moden architectures. 
 
 The might of Petronas twin tower makes you realise that petroleum is liquid gold. The greenery surrounding KLCC park was just mesmerising. You should also not miss the nearby Masjid Asy-Syakirin KLCC mosque. Almost everywhere they were accepting USD so it was very convinient for us.

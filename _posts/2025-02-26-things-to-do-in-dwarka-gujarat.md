@@ -6,6 +6,20 @@ categories: [Sunset, Sunrise, Pilgrimage, Temple, Sea, Beach, Culture]
 image: assets/images/dwarka.webp
 rating: 4
 tags: [Gujarat]
+toc: true
+quick_facts:
+  state: "Gujarat"
+  best_time: "October to March"
+  duration: "1-2 Days"
+  airport: "Porbandar Airport (110 km)"
+  railway: "Dwarka Railway Station (1.5 km)"
+faq:
+  - question: "What is the significance of the Dwarkadhish Temple?"
+    answer: "The Dwarkadhish Temple, also known as Jagat Mandir, is dedicated to Lord Krishna, who is worshipped here as the \"King of Dwarka\". It is one of the four sacred Char Dham pilgrimage sites for Hindus. The temple has a striking five-storied structure supported by 72 pillars and stands on the banks of the Gomti River."
+  - question: "How can I reach Bet Dwarka, and what is there to see?"
+    answer: "Bet Dwarka is an island located about 30 km from the main Dwarka town. To reach it, you must take a short, scenic ferry/boat ride (about 15-20 minutes) from Okha Port jetty. The island houses the historic Dwarkadhish Temple of Bet Dwarka, believed to be the actual residential place of Lord Krishna and his queen Rukmini."
+  - question: "What are the key rituals and timings at Dwarkadhish Temple?"
+    answer: "The temple is open daily from 6:00 AM to 1:00 PM and from 5:00 PM to 9:30 PM. The most significant rituals are the flag hoisting ceremony (Dhvajarochan), where the massive multi-colored temple flag is changed five times a day, and the morning Mangla Aarti. Devotees flock to witness these holy events."
 ---
 Dwarka, a coastal city in Gujarat, India, is a sacred pilgrimage site for Hindus and a city steeped in mythology and history. 
 
@@ -31,7 +45,8 @@ Evening:
 
 Enjoy a delicious Gujarati thali at one of the many restaurants in Dwarka.
 In the evening, take a stroll along the Dwarka Beach and enjoy the sunset.
-Tips for Visiting Dwarka:
+
+## FAQs and Tips for Visiting Dwarka
 
 The best time to visit Dwarka is between October and March when the weather is pleasant.
 Be sure to dress modestly when visiting the temples.
@@ -48,7 +63,6 @@ Dwarka is a beautiful city with a rich history and culture. It is a must-visit d
 There are many other temples and attractions in Dwarka, including the Rukmini Temple, the Gomti Ghat, and the Dwarka Lighthouse.
 You can also take a day trip to Okhamandal, a nearby region that is known for its beautiful beaches and temples.
 There are many hotels and guesthouses in Dwarka to suit all budgets.
-
 
 <div class="pa-carousel-widget" style="width:100%; height:480px; display:none;"
   data-link="https://www.tripadvisor.in/Attractions-g660182-Activities-Dwarka_Devbhumi_Dwarka_District_Gujarat.html"

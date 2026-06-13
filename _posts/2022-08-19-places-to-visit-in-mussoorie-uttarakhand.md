@@ -1,11 +1,25 @@
 ---
 layout: post
-title:  "Mussoorie, Uttarakhand"
+title: "Mussoorie, Uttarakhand"
 author: sid
 categories: [ Chill, Snow, Mountain, Weekend Getaway]
 image: assets/images/mussoorie.webp
 rating: 5
 tags: [Uttarakhand]
+toc: true
+quick_facts:
+  state: "Uttarakhand"
+  best_time: "March to June & September to November"
+  duration: "2-3 Days"
+  airport: "Jolly Grant Airport, Dehradun (60 km)"
+  railway: "Dehradun Railway Station (36 km)"
+faq:
+  - question: "What is Mussoorie also known as?"
+    answer: "Mussoorie is widely known as the 'Queen of the Hills' due to its spectacular scenic beauty, pleasant climate, and majestic views of the Garhwal Himalayan Range."
+  - question: "How far is Mussoorie from Dehradun, and how can I reach it?"
+    answer: "Mussoorie is located about 35 km from Dehradun. You can easily reach Mussoorie by hiring a taxi or taking a local bus from Dehradun Railway Station or Jolly Grant Airport."
+  - question: "What are the top tourist attractions to visit in Mussoorie?"
+    answer: "Some of the most popular places to visit in Mussoorie include Kempty Falls, Lal Tibba, Gun Hill, Camel's Back Road, and the Mall Road."
 ---
 [Mussoorie](https://www.justwravel.com/), located almost 35 km away from Dehradun, is nestled in the foothills of the Himalayan Range. It has been popular since colonial years of India, and is one of the most visited and admired hill stations in India. Mussoorie is best visited between mid-March to mid-November. December to February should be avoided as the rains during monsoons and the cold during the winters make it pretty inaccessible.
 

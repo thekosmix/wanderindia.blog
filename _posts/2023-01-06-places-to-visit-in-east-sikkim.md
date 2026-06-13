@@ -6,6 +6,20 @@ categories: [Mountain, Valley, Road Trip]
 image: assets/images/east-sikkim.webp
 rating: 4
 tags: [Sikkim]
+toc: true
+quick_facts:
+  state: "Sikkim"
+  best_time: "March to May & October to December"
+  duration: "3-4 Days"
+  airport: "Pakyong Airport (30 km) / Bagdogra Airport (125 km)"
+  railway: "New Jalpaiguri Railway Station, Siliguri (120 km)"
+faq:
+  - question: "What are the key attractions in East Sikkim?"
+    answer: "The key attractions in East Sikkim include Gangtok (the capital of Sikkim), the high-altitude Tsomgo Lake, Nathu La Pass (on the Indo-China border), Baba Mandir, and historical monasteries like Rumtek and Enchey."
+  - question: "Do I need permits to visit Tsomgo Lake and Nathu La Pass?"
+    answer: "Yes, both Tsomgo Lake and Nathu La Pass are located in protected areas near the international border. All visitors require a Protected Area Permit (PAP), which can be arranged through registered travel agents in Sikkim."
+  - question: "How can I reach East Sikkim by air or train?"
+    answer: "The nearest airport is Pakyong Airport (about 30 km from Gangtok), although it has limited flight operations. The nearest major airport with excellent connectivity is Bagdogra Airport (125 km), and the nearest major railway station is New Jalpaiguri (120 km) in West Bengal."
 ---
 With captivating scenery and hypnotizing scene, East Sikkim is a flawless vacationer’s destination in Sikkim. One of the four district, the south-eastern locale of this Himalayan state is the prime destination with numerous places to visit and customs and celebrations to enjoy. The capital city of Sikkim, Gangtok is the prime traveller’s hub of [East Sikkim](https://www.justwravel.com/). Aside from being the regulatory centre point of the state, East Sikkim is likewise the centre point of the tourism activities in the Himalayan area.
 
@@ -15,7 +29,7 @@ The rich greenery, entrancing valleys, delightful lakes, numerous old monasterie
 
 <h2>Things to do in East Sikkim</h2>
 
-1. Trekking: East Sikkim is home to a variety of trekking trails, making it a great place to explore the area.
+1. Trekking: East Sikkim is home to a variety of trekking trails, ranging from easy to difficult.
 2. Sightseeing: East Sikkim is home to a variety of attractions, including the Rumtek Monastery, the Tsomgo Lake, and the Nathu La Pass.
 3. Adventure Sports: East Sikkim is a great place for adventure sports, such as paragliding, rock climbing, and zip-lining.
 4. River Rafting: East Sikkim is home to a variety of rivers, making it a great place to go river rafting.

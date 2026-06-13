@@ -6,6 +6,20 @@ categories: [Resorts, Nature, Sea, Long Drive, Beach, Water Sports, Island, Cora
 image: assets/images/havelock-island.webp
 rating: 5
 tags: [Andaman and Nicobar Islands]
+toc: true
+quick_facts:
+  state: "Andaman and Nicobar Islands"
+  best_time: "October to May"
+  duration: "2-3 Days"
+  airport: "Veer Savarkar International Airport, Port Blair (70 km - accessible via ferry)"
+  railway: "None (Andaman Islands are not connected by rail)"
+faq:
+  - question: "What is the best time to visit Havelock Island?"
+    answer: "The best time to visit Havelock Island is from October to May, as the weather is pleasant and the sea is calm, making it perfect for snorkeling, scuba diving, and beach sightseeing."
+  - question: "How to reach Havelock Island from Port Blair?"
+    answer: "Havelock Island is located about 70 km from Port Blair. It can be reached by taking a private ferry (like Makruzz or Green Ocean) or a government ferry from Haddo Jetty or Phoenix Bay Jetty in Port Blair. The journey takes about 90 to 120 minutes."
+  - question: "Which is the most famous beach on Havelock Island?"
+    answer: "Radhanagar Beach (often called Beach No. 7) is the most famous beach on Havelock Island. It is widely considered one of the best beaches in Asia due to its clean, powdery white sand and turquoise blue waters."
 ---
 Havelock Island, also known as Swaraj Island, is a picturesque gem in the Andaman and Nicobar Islands. Renowned for its pristine beaches and crystal-clear waters.
 

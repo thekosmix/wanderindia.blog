@@ -6,6 +6,20 @@ categories: [Mountain, Valley, Road Trip, Monuments]
 image: assets/images/west-sikkim.webp
 rating: 4
 tags: [Sikkim]
+toc: true
+quick_facts:
+  state: "Sikkim"
+  best_time: "March to May & October to December"
+  duration: "3-4 Days"
+  airport: "Bagdogra Airport, Siliguri (135 km)"
+  railway: "New Jalpaiguri Railway Station (NJP), Siliguri (130 km)"
+faq:
+  - question: "What is the best time to visit West Sikkim?"
+    answer: "The best time to visit West Sikkim is from March to May when the spring flowers bloom, and from October to December for clear views of the Kanchenjunga range."
+  - question: "What are the main attractions in West Sikkim?"
+    answer: "Major attractions include Pelling, Pemayangtse Monastery, Rabdentse Ruins, Sangachoeling Monastery, Khecheopalri Lake, and the Singshore Bridge."
+  - question: "How can I reach West Sikkim?"
+    answer: "You can fly to Bagdogra Airport in Siliguri (135 km away) or take a train to New Jalpaiguri Railway Station (NJP) in Siliguri (130 km away), and then hire a shared or private cab to West Sikkim."
 ---
 West Sikkim is a district in the Indian state of Sikkim. It is known for its stunning views of the Himalayan Mountains, its lush green valleys, and its abundance of wildlife. The district is home to a number of tourist attractions, such as the Kanchenjunga National Park, the Pemayangtse Monastery, the Rumtek Monastery, and the Yumthang Valley. Additionally, the district is home to a number of religious sites, such as the Dubdi Monastery and the Phodong Monastery. Additionally, the district is home to a number of shopping centers, such as the M.G. Marg and the Lal Bazaar. Additionally, the district is home to a number of parks and gardens, such as the Kyongnosla Alpine Sanctuary and the Shingba Rhododendron Sanctuary.
 

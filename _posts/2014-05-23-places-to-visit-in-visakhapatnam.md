@@ -6,7 +6,22 @@ categories: [ Chill, Beach, Sea, War Memorial ]
 image: assets/images/vizag.webp
 rating: 4
 tags: [Andhra Pradesh]
+toc: true
+quick_facts:
+  state: "Andhra Pradesh"
+  best_time: "October to March"
+  duration: "2-3 Days"
+  airport: "Visakhapatnam International Airport, Visakhapatnam (8 km)"
+  railway: "Visakhapatnam Junction Railway Station (2 km)"
+faq:
+  - question: "What is the best time of day to visit Kailasagiri Hill?"
+    answer: "The best time to visit Kailasagiri Hill is in the late afternoon (around 4:30 PM) so you can enjoy the toy train ride, catch a beautiful sunset over the Bay of Bengal, and see the city illuminated at night."
+  - question: "How can I visit the Araku Valley from Visakhapatnam?"
+    answer: "Araku Valley is located about 115 km from Vizag. The best way to travel is by taking the morning Vistadome train (Kirandul Passenger) which offers scenic views through tunnels and hills, and returning by booking a private cab or bus."
+  - question: "Is the INS Kursura Submarine Museum open every day?"
+    answer: "No, the INS Kursura Submarine Museum is closed on Mondays. On other days, it is open from 2:00 PM to 8:30 PM (and from 10:00 AM on Sundays and holidays). It is a unique museum housed inside a real decommissioned submarine on RK Beach."
 ---
+
 Visakhapatnam, also known as Vizag, is a port city located in the Indian state of Andhra Pradesh. It's also the largest city. 
 
 Vizag is known for its beautiful beaches, lush green hills, and stunning views of the Bay of Bengal. Visakhapatnam is home to a number of historical sites, such as the Dutch Fort, the Simhachalam Temple, and the Visakha Museum. The city is also known for its many parks, such as the Kailasagiri Hill Park and the Indira Gandhi Zoological Park. Visakhapatnam is also home to a number of educational institutions, such as the Andhra University and the Indian Institute of Management. The city is also known for its many festivals, such as the Visakha Utsav and the Visakha Music Festival. Visakhapatnam is a great destination for a relaxing holiday, with plenty of activities to keep visitors entertained.

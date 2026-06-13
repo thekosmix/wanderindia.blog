@@ -6,6 +6,20 @@ categories: [ Lake, Mountain, Chill, Weekend Getaway ]
 image: assets/images/parashar.webp
 rating: 5
 tags: [Himachal Pradesh]
+toc: true
+quick_facts:
+  state: "Himachal Pradesh"
+  best_time: "April to July, and September to November"
+  duration: "1-2 Days"
+  airport: "Kullu-Manali Airport, Bhuntar (60 km)"
+  railway: "Joginder Nagar Railway Station (50 km)"
+faq:
+  - question: "What is Parashar Lake famous for?"
+    answer: "Parashar Lake is famous for its three-storied pagoda-style temple dedicated to Sage Prashar, which dates back to the 13th century. It is also well-known for its mysterious floating island that moves within the lake and whose exact depth remains unfathomed."
+  - question: "How can I reach Parashar Lake?"
+    answer: "The lake is located about 50 km from Mandi. The nearest airport is Kullu-Manali Airport in Bhuntar (approx. 60 km), and the nearest railhead is Joginder Nagar Railway Station (approx. 50 km). From Mandi, you can take a taxi or bus to Baggi village and trek for about 7 km, or drive directly up to the lake via a motorable road."
+  - question: "Can we camp near Parashar Lake?"
+    answer: "Yes, camping is a highly popular activity near Parashar Lake. There are multiple campsites and dome tents set up by local vendors around the meadows, offering stunning views of the starry night sky and surrounding mountains."
 ---
 
 Located in Mandi village, Himachal Pradesh, the iconic attraction apart from the lake is the three stories pagoda like temple structure near the lake.

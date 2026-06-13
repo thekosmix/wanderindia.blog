@@ -6,6 +6,20 @@ categories: [ Sea, Beach, Activities]
 image: assets/images/pattaya.webp
 rating: 4.5
 is_another_country: true
+toc: true
+quick_facts:
+  state: "Chonburi Province"
+  best_time: "November to February"
+  duration: "3-4 Days"
+  airport: "Suvarnabhumi Airport, Bangkok (120 km)"
+  railway: "Pattaya Railway Station (4 km)"
+faq:
+  - question: "What is Pattaya famous for?"
+    answer: "Pattaya is famous for its vibrant nightlife, beautiful beaches, water sports activities, and unique family-friendly attractions like the Sanctuary of Truth, Nong Nooch Tropical Garden, and the Pattaya Floating Market."
+  - question: "How can I reach Pattaya from Bangkok?"
+    answer: "Pattaya is located about 120 km from Bangkok's Suvarnabhumi Airport. It is highly accessible by road; you can easily take a public bus, airport shuttle, or private taxi, which takes around 1.5 to 2 hours."
+  - question: "Which is the nearest airport to Pattaya?"
+    answer: "The nearest airport is U-Tapao International Airport, located about 30 km away. However, most international travelers fly into Bangkok's Suvarnabhumi Airport (120 km away) due to its superior flight connectivity."
 ---
 Pattaya is a popular beach resort city located on the east coast of the Gulf of Thailand. It is known for its vibrant nightlife, beautiful beaches, and more. 
 

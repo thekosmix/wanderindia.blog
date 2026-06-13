@@ -6,6 +6,20 @@ categories: [Dam, Reservoir, Park]
 image: assets/images/bhavanisagar.webp
 rating: 4
 tags: [Tamil Nadu]
+toc: true
+quick_facts:
+  state: "Tamil Nadu"
+  best_time: "October to February"
+  duration: "1 Day"
+  airport: "Coimbatore International Airport, Coimbatore (70 km)"
+  railway: "Mettupalayam Railway Station (35 km)"
+faq:
+  - question: "What is the best time to visit Bhavanisagar Dam?"
+    answer: "The best time to visit Bhavanisagar Dam is between October and February, when the weather is pleasant and ideal for outdoor activities, and the surrounding scenery is lush green."
+  - question: "What are the key attractions in Bhavanisagar?"
+    answer: "The main attraction is the Bhavanisagar Dam, which is one of the largest earthen dams in Asia, along with its scenic reservoir and a well-maintained park located next to the dam."
+  - question: "How far is Bhavanisagar from Coimbatore?"
+    answer: "Bhavanisagar is located about 70 km away from Coimbatore. It can be easily reached by road in approximately 1.5 to 2 hours via taxi or local buses."
 ---
 Bhavanisagar is a small town in Tamil Nadu, but has a huge reservoir and is famous for Bhavanisagar dam and reservoir.
 

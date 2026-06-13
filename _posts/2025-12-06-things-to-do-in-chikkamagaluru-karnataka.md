@@ -6,6 +6,20 @@ categories: [Sunset, Sunrise, Mountain, Peak]
 image: assets/images/chikka.webp
 rating: 4
 tags: [Karnataka]
+toc: true
+quick_facts:
+  state: "Karnataka"
+  best_time: "September to May"
+  duration: "2-3 Days"
+  airport: "Mangalore International Airport (150 km)"
+  railway: "Kadur Junction Railway Station (40 km)"
+faq:
+  - question: "Why is Chikkamagaluru called the 'Coffee Land of Karnataka'?"
+    answer: "Chikkamagaluru is famous for being the place where coffee was first cultivated in India. According to legend, the 17th-century Sufi saint Baba Budan brought seven coffee seeds from Yemen and planted them in the hills here. Today, the slopes are covered in lush coffee estates, producing some of India's finest Arabica and Robusta beans."
+  - question: "What is the height of Mullayanagiri, and can you trek to the top?"
+    answer: "Mullayanagiri is the highest peak in Karnataka, standing at an altitude of 1,930 meters (6,330 feet) above sea level. Visitors can drive up close to the peak and climb about 500 stone steps to reach the temple at the summit, or embark on a trekking trail from Sarpadhari for a more adventurous experience."
+  - question: "What are the popular tourist spots to visit in Chikkamagaluru?"
+    answer: "Popular attractions include the scenic Mullayanagiri Peak, Baba Budangiri (sacred shrine and hills), the picturesque Jhari (Buttermilk) Waterfalls, Hebbe Falls, the serene Hirekolale Lake, and the Coffee Museum, which documents the rich history and production of coffee in the region."
 ---
 Chikkamagaluru, also known as the "Coffee Land of Karnataka," is a serene hill station nestled in the Western Ghats. 
 
@@ -33,15 +47,13 @@ Explore Baba Budangiri, a sacred mountain range for both Hindus and Muslims, kno
 In the afternoon, relax by the serene Hirekolale Lake, a man-made lake surrounded by hills, offering a picturesque sunset view.
 Conclude your trip with some local coffee tasting and shopping for freshly ground coffee powder.
 
-## Tips for Visiting Chikkamagaluru:
+## FAQs and Tips for Visiting Chikkamagaluru
 
 The best time to visit is from September to May when the weather is pleasant.
 Wear comfortable shoes, especially if you plan to trek.
 Book your accommodation in advance, particularly during peak season and weekends.
 Hiring a local jeep is recommended for visiting Mullayanagiri and other remote spots as the roads can be narrow and steep.
 Don't forget to carry a light jacket as the evenings can get chilly.
-
-
 
 <div class="pa-carousel-widget" style="width:100%; height:480px; display:none;"
   data-link="https://www.tripadvisor.in/Attractions-g297629-Activities-Chikmagalur_Chikkamagaluru_District_Karnataka.html"
@@ -74,3 +86,4 @@ Don't forget to carry a light jacket as the evenings can get chilly.
   <object data="https://lh3.googleusercontent.com/pw/AP1GczOV5VkOQ4xjZNMc3KrsC1MH-hob2exJvFcRo-tRvQzoOpH7QjdV8sVAZyXZTTxWC0ME5oBhKO7Zb2zC6NZ3aRgh_-38Shd9f6oOHqYytE9xMQT9XoAx=w960-rw-h720"></object>
   <object data="https://lh3.googleusercontent.com/pw/AP1GczPiwo0xhjUDCeAVbykWQxxVoo68qs5iBf6qm0cyowIFJKVkSVXx16khlUNMejpS5SY3EKoSJBk3BB7JxG-GqSNNXd-FaScc-jQq112_jPjH5QcNw2Yi=w960-rw-h720"></object>
   <object data="https://lh3.googleusercontent.com/pw/AP1GczN7hmLYGcKe0skpnCCUJjye3zuOLZlutxGKWJdH7tBo1Z-N0ffu-Kd0Jduayu0y_-_6tLFyfrQYyj4q7rEJhrucEy9aEyPxa-NqmenclcUa57M3TZWC=w960-rw-h720">
+</div>

@@ -1,11 +1,25 @@
 ---
 layout: post
-title:  "Nako, Himachal Pradesh"
+title: "Nako, Himachal Pradesh"
 author: sid
 categories: [Chill, Long Drive, Mountain, Snow, Long trip, Monasteries]
 image: assets/images/nako.webp
 rating: 5
 tags: [Himachal Pradesh]
+toc: true
+quick_facts:
+  state: "Himachal Pradesh"
+  best_time: "April to October"
+  duration: "1 Day"
+  airport: "Shimla Airport (310 km)"
+  railway: "Shimla Railway Station (305 km)"
+faq:
+  - question: "Do I need a permit to visit Nako?"
+    answer: "Yes, Nako is located close to the Indo-Tibetan border, so foreign nationals need an Inner Line Permit (ILP) to visit. Indian nationals do not require an Inner Line Permit but must carry valid government-issued photo ID proofs."
+  - question: "What are the main attractions in Nako?"
+    answer: "The main attractions in Nako are Nako Lake, the 11th-century Nako Monastery (Gompa), and the Nako scenic viewpoint offering panoramic views of the village and surrounding peaks."
+  - question: "Is Nako open during winter?"
+    answer: "Nako remains extremely cold during winters (November to March) with temperatures dropping below freezing. Heavy snowfall can block roads, so visiting during these months is generally not recommended unless you are prepared for extreme conditions and limited services."
 ---
 One of India's best-kept secrets, Nako village is situated on the Indo-Tibetan border, 3600 m above sea level in the Himalayan range of Kinnaur District in Himachal Pradesh. Nako Village can be considered as the last spot on your way to the famous Nalling Mullah and acts as a halting stop for tourists heading there. As Nako lies really close to the Tibetan border, visitors need to have an Inner Line permit to visit and stay in any part of this secluded village. Due to the small extent of this beautifully remote village, all the major attractions there can be explored on foot itself.
 

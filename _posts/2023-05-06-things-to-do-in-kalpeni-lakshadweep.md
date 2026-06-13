@@ -6,6 +6,20 @@ categories: [Sea, Beach, Coral, Island, Sunset]
 image: assets/images/kalpeni.webp
 rating: 5
 tags: [Lakshadweep]
+toc: true
+quick_facts:
+  state: "Lakshadweep"
+  best_time: "October to May"
+  duration: "2-3 Days"
+  airport: "Agatti Airport, Agatti (78 km)"
+  railway: "Ernakulam Junction Railway Station, Kochi (287 km)"
+faq:
+  - question: "What is Kalpeni Island famous for?"
+    answer: "Kalpeni is renowned for its vast and beautiful lagoon, the scenic islets of Tilakkam and Pitti, and the unique storm bank of coral debris along its eastern shoreline."
+  - question: "How can I reach Kalpeni from the mainland?"
+    answer: "You can take a passenger ship (like the MV Kavaratti) from Kochi port as part of the Coral Reef package, or fly to Agatti Airport and take a boat or helicopter to Kalpeni."
+  - question: "What water activities can I do in Kalpeni?"
+    answer: "Visitors can enjoy snorkeling, scuba diving, reef walking in the shallow lagoon, kayaking, and sailing on sailboats or pedal boats at Koomel Beach."
 ---
 Kalpeni is an inhabited Atoll in the Union Territory of Lakshadweep, India. It has a distance of 287 km (178 mi) west of the city of Kochi.
 

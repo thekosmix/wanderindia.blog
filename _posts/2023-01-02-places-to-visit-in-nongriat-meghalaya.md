@@ -1,11 +1,25 @@
 ---
 layout: post
-title:  "Nongriat, Meghalaya"
+title: "Nongriat, Meghalaya"
 author: sid
 categories: [Trekking, Root Bridge, Nature]
 image: assets/images/nongriat.webp
 rating: 4
 tags: [Meghalaya]
+toc: true
+quick_facts:
+  state: "Meghalaya"
+  best_time: "October to April"
+  duration: "1-2 Days"
+  airport: "Shillong Airport (90 km)"
+  railway: "Guwahati Railway Station (170 km)"
+faq:
+  - question: "How do I reach Nongriat village?"
+    answer: "Nongriat is only accessible on foot. You must drive to Tyrna village (about 20 km from Cherrapunji) and then trek down approximately 3,500 concrete steps (about 3 km) to reach Nongriat."
+  - question: "What is the Double Decker Living Root Bridge?"
+    answer: "It is a unique living suspension bridge made by the local Khasi tribe by training the aerial roots of Ficus elastica (rubber trees) across a stream. It has two decks stacked vertically and is estimated to be over 150-200 years old."
+  - question: "How far is Rainbow Falls from the Double Decker Root Bridge?"
+    answer: "Rainbow Falls is located about a 1 to 1.5-hour trek (approx. 3 km) further ahead from Nongriat village. The trail is steep but rewarding, with a stunning waterfall that creates rainbows on sunny afternoons."
 ---
 [Nongriat](https://www.justwravel.com/) is about a lot more than just the double decker root bridge. You have to walk about more than three kilometres and through a series of 3,500 stone-hewn on the trail to Nongriat. On reaching the place, you will find that the place is filled with natural pools, waterfalls, lagoons and many more wonderful natural beauties which will captivate your eyes throughout. Another hour from the area, you will find yourself amidst one of the place’s breathtaking gems — the Rainbow Falls.
 
@@ -38,7 +52,7 @@ Additionally, the village is home to a number of adventure activities, such as t
   <object data="https://lh3.googleusercontent.com/nsM0ygNVvUQbcVgGz4TeBN4t8tC478cJYOs77bf-lxyOe4sn6WSpaU1ZLP2EZKTN5Hlp5-mJOm5g_GPZlnwr1E8a5_W1srUQ6On-hijUPN5Bo_MBxdlq3-AMP6vooML3oxFzYvkniyw=w960-rw-h720"></object>
   <object data="https://lh3.googleusercontent.com/X_B7cqBuWQyI-nU9Spaot-QmOx8hq_nbnqxf_dfKQvWNGOahxPQ2s_aX-xklesV3l8NaqlJWWbMsK0HJaa7YrKsNnEMkaL9duWlYU2A0bTWlJ5XlksHJH_-XfBOhJRBpBg9rsmiAB5c=w960-rw-h720"></object>
   <object data="https://lh3.googleusercontent.com/XyrXXhxKyE62eieQvNnpigUJbXWl_-GRZS_bwsJ_5Nf5a7IxhrpiBqv_rS1xVIKaflcK-NhjGp-zSQRJ9wX0E391VVqZ9WKUhgy8IB6xGVCVjZ45InVwBjp-LKkWeQBAiRo2gl1t50M=w960-rw-h720"></object>
-  <object data="https://lh3.googleusercontent.com/G-L2g3gaFD0EIIpIAdda_FzLVrOSQajWBw7AYrpFzBxH7aRUvTnIZ-h96XSZ4t_XiP_PeoB5JVSEQsVmyfTMEjkkmkEp508VYrIrUN9YbYlfHljtnE_0xHDxdKL9Q6-_SRYLaQAGl6I=w960-rw-h720"></object>
+  <object data="https://lh3.googleusercontent.com/G-L2g3gaFD0EIIpIAdda_FzLVrOSajWBw7AYrpFzBxH7aRUvTnIZ-h96XSZ4t_XiP_PeoB5JVSEQsVmyfTMEjkkmkEp508VYrIrUN9YbYlfHljtnE_0xHDxdKL9Q6-_SRYLaQAGl6I=w960-rw-h720"></object>
   <object data="https://lh3.googleusercontent.com/yxb54xfbKu4FBQw4Yidlpo4QzngaqD0mVlympVd-V4wW1tc1oXKQLCBC4yolHVnJ-0I2ov3tb0-FCivgdH3KujYH1LP8nvW3qpg_utMzRUviL74daj0qgn1Q-wRRArmhzcMYHZXvZ-c=w960-rw-h720"></object>
   <object data="https://lh3.googleusercontent.com/H5Jhgs6eqJkVsIuE2rReNhLB3yN1w5CYacCf5r3J8ALJ6A4-Ins8ZASaWYBuNkdYKo-_w7oMaUaRFXl6QeVPSYjcvcErB-ILNVgfVPhzhsDAaJWlGrl26XdGNdEn0MyK9CeDufulTAk=w960-rw-h720"></object>
   <object data="https://lh3.googleusercontent.com/_JrnwyJMRRKmcA6U3VAkw00UOz1Ll3-JEM3jBMfu_BvKH0NJHoIa1h8l96YQ-uhcy_Psftx04NBcBAkUaAja4oEjmBc_WuoPppXlXz-TsGhRo3CF2U9Wdlln6S5IRolLgjArjDrPqLg=w960-rw-h720"></object>

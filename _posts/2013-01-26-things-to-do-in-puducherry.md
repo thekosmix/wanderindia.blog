@@ -6,7 +6,22 @@ categories: [ Chill, Beach, Sea, History, Church ]
 image: assets/images/puducherry.webp
 rating: 4.5
 tags: [Puducherry]
+toc: true
+quick_facts:
+  state: "Puducherry"
+  best_time: "October to March"
+  duration: "2-3 Days"
+  airport: "Puducherry Airport, Puducherry (4 km)"
+  railway: "Puducherry Railway Station (2 km)"
+faq:
+  - question: "What is the best way to travel around Puducherry?"
+    answer: "The most convenient way to explore Puducherry, especially the French Quarter (White Town), is by renting a bicycle or a two-wheeler. Auto-rickshaws are also widely available, but it is recommended to negotiate the fare beforehand."
+  - question: "Can visitors enter the Matrimandir in Auroville?"
+    answer: "Yes, visitors can see the Matrimandir from the outside at the viewing point. To go inside the Matrimandir's inner chamber for meditation, you must make a booking in person at the Auroville Visitors' Centre at least a day in advance."
+  - question: "Is Puducherry a safe destination for solo travelers?"
+    answer: "Yes, Puducherry is generally considered one of the safest destinations in India for solo travelers, including women. However, standard precautions like avoiding poorly lit areas at night and keeping an eye on your belongings should be followed."
 ---
+
 Puducherry, a former French colony in India, is known for its beaches, colonial architecture and Auroville spiritual center.
 
 I experienced vastness of the ocean for the first time in my life at the paradise beach of Puducherry. At first, I couldn't believe that there can be endless water at one place. But, after a few minutes, I realized that it's just a small part of the ocean. I went inside the water and tried to swim and when I swallowed the sea-water for the first time, it was so salty that I couldn't breathe for a moment. But I was there in the water till the evening. It was an unforgettable experience.
@@ -46,7 +61,7 @@ I experienced vastness of the ocean for the first time in my life at the paradis
   <object data="https://lh3.googleusercontent.com/pw/AP1GczN_w8N59I77GdBT2qetBAmQG3OPR-eSyBEvPxNeq-2i_e9VyFmjEuoA0AifUR0ZpmNb83t6VEEfcwjQAOAbjb0v1FBERWd0Y-Oiz9R3SpW_d8A4M-UK=w960-rw-h720"></object>
   <object data="https://lh3.googleusercontent.com/pw/AP1GczNLA8iAGh5_EERbWj6dIAXHFW9Vym3RyuFr92YjJZHUPzpFP3Q_qnA2LNlf3xA7P7BNGqwGaKD3rimW3iaxCqhO6Bf3m9tcmqOUT2iMy4mtpzYqyRA9=w960-rw-h720"></object>
   <object data="https://lh3.googleusercontent.com/pw/AP1GczOaK2fhfpI3nXhognCszcjMUN6ECH1Zlu4sxm31gOBmYzpO82wxLcX3PFyW83ugAKnCs3qmi9wTXQQ-evmeyx41T3hU_gBHrbWIJb0C2-aHF6e1FpFY=w960-rw-h720"></object>
-  <object data="https://lh3.googleusercontent.com/pw/AP1GczOeV33l0NPu-K9SrPI0v2TWr9ML2-EY-I0Gw-rfBBYUBMp9b35NWnSXkY6zMf4zljzew6jp5EL1dA0UXcT0ploKZVu_Ck4yUO0ve3dIoLXg8BdiR-4n=w960-rw-h720"></object>
+  <object data="https://lh3.googleusercontent.com/pw/AP1GczOeV33l0NPu-K9SrPI0v2TWr9ML2-EY-I0Gw-rfBBYUBMp9b35NWnSXkY6zMf4zljzew6jp5EL1dA0UXcT0ploKZVu_Ck4yUO0ve3dIoLXg8BdiR-4n"></object>
   <object data="https://lh3.googleusercontent.com/pw/AP1GczMnEIdRd0rVaA_F0VKdM-q_fp8tCoBv2XzUxOrQTudf3uA5P6nXfJE8Ln6VMWaZLaxnDIar2BZIdX4GmXkUOL0mriZ8HAkSz2PwmsXxM42JLNzPsZQe=w960-rw-h720"></object>
   <object data="https://lh3.googleusercontent.com/pw/AP1GczMO2yxnZhIB3tChviUQL2Ighlt0veD4n7D8mi8LsaG6uPJ54pShIzphThfkfphFSyprDGqh6mSBktPPkTefRwv16df_AlFelEK1GDqdDdmt8guwitd4=w960-rw-h720"></object>
   <object data="https://lh3.googleusercontent.com/pw/AP1GczNCQ7dDXEKFPShLT63GhPfEI---m2lvBOmcWaBfPWfEfJfo_9Z8IoSq_waLgvm1stSo_l6pSv_fNuG77Iv85cKsOn3b69V8NwFreWA0yXVYIn-pvEg7=w960-rw-h720"></object>
@@ -58,4 +73,3 @@ I experienced vastness of the ocean for the first time in my life at the paradis
   <object data="https://lh3.googleusercontent.com/pw/AP1GczNaRBdVmiDDlvSbUeYyOR9V3MKm4QEc6gHyulQ-ds7I8R7FrNuNlEAhq4QjM4_041xsumOaBVaxEskO_7KxDoISAzq2xdfmyjp-MsBN0auUxpxYub-h=w960-rw-h720"></object>
   <object data="https://lh3.googleusercontent.com/pw/AP1GczOwApfZk1ymxLdtVz3w5OFbyo1bIuRqCJd90ueCFH39wKpT_bpxAb3m90gEB6jdz2dmKAegYB8-aimtC_1-1zPrTUBw7cYCFkO9hRoaIhb-p-5cURzg=w960-rw-h720"></object>
 </div>
-

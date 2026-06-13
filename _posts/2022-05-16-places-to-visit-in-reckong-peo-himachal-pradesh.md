@@ -1,11 +1,25 @@
 ---
 layout: post
-title:  "Reckong Peo, Himachal Pradesh"
+title: "Reckong Peo, Himachal Pradesh"
 author: sid
 categories: [ Chill, Long Drive, Mountain, Snow, Long trip]
 image: assets/images/reckong-peo.webp
 rating: 4
 tags: [Himachal Pradesh]
+toc: true
+quick_facts:
+  state: "Himachal Pradesh"
+  best_time: "March to June & September to October"
+  duration: "1-2 Days"
+  airport: "Shimla Airport (225 km)"
+  railway: "Shimla Railway Station (220 km)"
+faq:
+  - question: "What is Reckong Peo famous for?"
+    answer: "Reckong Peo is famous as the administrative headquarters of Kinnaur district and for its breathtaking, unobstructed views of the sacred Kinner Kailash peak."
+  - question: "How can I reach Reckong Peo?"
+    answer: "Reckong Peo can be reached by road via NH-5 from Shimla (about 220 km). The nearest airport and railway station are also in Shimla, around 220-225 km away."
+  - question: "Is a permit required to visit Reckong Peo?"
+    answer: "Indian tourists do not require an Inner Line Permit to visit Reckong Peo. However, foreign nationals must obtain an Inner Line Permit to travel beyond Reckong Peo towards areas near the Tibetan border like Nako and Khab."
 ---
 Reckong Peo is a small town in the Kinnaur district of Himachal Pradesh, India. It is located at an altitude of 2,290 meters and is the administrative center of the district. The town is known for its scenic beauty and is a popular tourist destination. It is home to several ancient temples and monasteries, including the famous Kalpa Monastery. The town is also known for its apple orchards and is a great place to enjoy the local cuisine. Other attractions in Reckong Peo include the Sangla Valley, the Baspa Valley, and the Kinner Kailash mountain range.
 

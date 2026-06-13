@@ -9,6 +9,20 @@ categories: [Hill Station, Resorts, Weekend Getaway, Waterfalls]
 image: assets/images/coorg.webp
 rating: 4.5
 tags: [Karnataka]
+toc: true
+quick_facts:
+  state: "Karnataka"
+  best_time: "October to March"
+  duration: "3-4 Days"
+  airport: "Kannur International Airport (115 km) or Mysore Airport (120 km)"
+  railway: "Mysore Railway Station (115 km)"
+faq:
+  - question: "Why is Coorg known as the \"Scotland of India\"?"
+    answer: "Coorg earned this moniker due to its striking resemblance to the Scottish Highlands—characterized by rolling green hills, misty weather, sprawling coffee plantations, and beautiful valleys."
+  - question: "What are the top things to do in Coorg?"
+    answer: "Visitors can tour aromatic coffee plantations, visit cascading waterfalls like Abbey and Iruppu Falls, see elephants at the Dubare Elephant Camp, visit the Namdroling Monastery (Golden Temple), and trek to Tadiandamol Peak."
+  - question: "How can I reach Coorg?"
+    answer: "Since Coorg has no railway station or airport, you can fly to Kannur International Airport (115 km away) or Mysore Airport (120 km away), or take a train to Mysore Railway Station (115 km away), and then hire a taxi or take a bus."
 ---
 Coorg, also known as Kodagu, is a beautiful hill station in Karnataka, India, nestled in the Western Ghats mountain range. Often referred to as the "Scotland of India" for its lush greenery, rolling hills, and misty climate, Coorg is a popular destination for nature lovers, adventure seekers, and anyone looking for a relaxing escape.
 

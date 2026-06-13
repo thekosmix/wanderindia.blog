@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Joshimath-Ghangaria, Uttarakhand"
+title: "Joshimath-Ghangaria, Uttarakhand"
 redirect_from:
   - /places-to-visit-in-joshimath-uttarakhand/
   - /places-to-visit-near-ghangaria-uttarakhand/
@@ -9,6 +9,20 @@ categories: [Chill, Snow, Mountain, Long trip, Trekking]
 image: assets/images/joshimath.webp
 rating: 4
 tags: [Uttarakhand]
+toc: true
+quick_facts:
+  state: "Uttarakhand"
+  best_time: "April to June & September to November"
+  duration: "3-4 Days"
+  airport: "Jolly Grant Airport, Dehradun (270 km)"
+  railway: "Yog Nagari Rishikesh Railway Station (250 km)"
+faq:
+  - question: "What is the relation between Joshimath and Ghangaria?"
+    answer: "Joshimath is a major gateway town in Uttarakhand, while Ghangaria is a small village located 36 km further ahead (22 km by road to Govindghat + 14 km trek). Ghangaria serves as the base camp for trekking to the Valley of Flowers and Hemkund Sahib."
+  - question: "When are Valley of Flowers and Hemkund Sahib open for tourists?"
+    answer: "Both Valley of Flowers and Hemkund Sahib are open from late May or early June to October. The best time to see the flowers in full bloom is from July to September."
+  - question: "How can I reach Joshimath?"
+    answer: "Joshimath is well-connected by road from Rishikesh, Haridwar, and Dehradun. The nearest airport is Jolly Grant Airport in Dehradun (270 km), and the nearest railway station is Rishikesh (250 km)."
 ---
 Ghangaria is a small village located in the Chamoli district of Uttarakhand, India. It is situated at an altitude of 3,050 meters and is known for its breathtaking views of the Himalayas. The village is a popular destination for trekkers and pilgrims, as it is the base camp for the Char Dham Yatra. Ghangaria is also home to a number of ancient temples and monasteries, including the famous Hemkund Sahib Gurudwara. Other attractions in Ghangaria include the Valley of Flowers National Park, the Pushpawati River, and the nearby hot springs. The village is also a great place to enjoy the local cuisine and culture.
 

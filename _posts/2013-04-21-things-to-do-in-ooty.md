@@ -6,7 +6,22 @@ categories: [ Chill, Long Drive, Mountain ]
 image: assets/images/ooty.webp
 rating: 4
 tags: [Tamil Nadu]
+toc: true
+quick_facts:
+  state: "Tamil Nadu"
+  best_time: "October to June"
+  duration: "2-3 Days"
+  airport: "Coimbatore International Airport (88 km)"
+  railway: "Mettupalayam Railway Station (52 km)"
+faq:
+  - question: "How can I book tickets for the Nilgiri Mountain Railway toy train?"
+    answer: "You can book tickets for the Ooty Toy Train online through the official IRCTC website in advance, as tickets sell out quickly. A small quota of tickets is also sold at the station ticket counters on the day of travel, but lines can be very long."
+  - question: "Is Ooty very cold in winter?"
+    answer: "Yes, during winter (December to February), temperatures in Ooty can drop to 5°C or lower, especially during the night and early morning. It is highly recommended to carry heavy woolens, sweaters, and jackets if you are visiting during this time."
+  - question: "What are some must-try local specialties in Ooty?"
+    answer: "When visiting Ooty, you must try the locally produced Nilgiri teas, homemade chocolates, Ooty varkey (a crispy pastry), and fresh fruits like peaches, plums, and pears grown in the local orchards."
 ---
+
 Ooty, also known as Udhagamandalam, is a beautiful hill station located in the Nilgiri Hills of Tamil Nadu, India. 
 
 It is one of the most popular tourist destinations in South India, known for its stunning views of the surrounding hills and valleys, lush green tea plantations, and colonial-era architecture. Ooty is also home to a variety of wildlife, including elephants, tigers, and leopards. The area is also known for its many waterfalls, such as the Pykara Falls and the Avalanche Falls. Ooty is also home to a number of beautiful gardens, such as the Botanical Garden and the Government Rose Garden. The area is also known for its many festivals, such as the Tea and Tourism Festival and the Summer Festival.

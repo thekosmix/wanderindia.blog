@@ -1,11 +1,25 @@
 ---
 layout: post
-title:  "Spiti Valley, Himachal Pradesh"
+title: "Spiti Valley, Himachal Pradesh"
 author: sid
 categories: [ Chill, Long Drive, Mountain, Snow, Long trip]
 image: assets/images/spiti.webp
 rating: 5
 tags: [Himachal Pradesh]
+toc: true
+quick_facts:
+  state: "Himachal Pradesh"
+  best_time: "May to October & January to March"
+  duration: "5-7 Days"
+  airport: "Kullu-Manali Airport, Bhuntar (230 km)"
+  railway: "Shimla Railway Station (300 km)"
+faq:
+  - question: "What is the best route to reach Spiti Valley in winter?"
+    answer: "In winter, the route via Shimla (Hindustan-Tibet Highway) is the safest and most reliable, as it remains open almost throughout the year. The Manali route via Rohtang and Kunzum Pass is closed in winter due to heavy snowfall."
+  - question: "Do I need any permits to visit Spiti Valley?"
+    answer: "Indian tourists do not need a permit to visit Spiti Valley. However, foreign nationals must obtain an Inner Line Permit (ILP), which can be acquired from Shimla, Rekong Peo, or Kaza."
+  - question: "How cold does it get in Spiti Valley during winter?"
+    answer: "Winter in Spiti is extremely harsh, with temperatures frequently dropping between -10°C to -30°C. Visitors should carry heavy woolen clothing, thermal layers, and ensure they are prepared for freezing temperatures and basic amenities."
 ---
 Spiti Valley is a high-altitude desert mountain valley located in the northern Indian state of Himachal Pradesh.
 
@@ -44,7 +58,7 @@ It’s no secret that the best route for Spiti valley in winter is via Shimla be
   <object data="https://lh3.googleusercontent.com/U0pYSnJVyfEdFyh1myxWN5BDz37WCztF9fpkU4WmDij-VWGDLSVu_vLeE28zXMp9t87p70sM8ExrRXc4DWey0CtriJvhgXT0anZa4w24APulnt3uxGpG8RhZYJH8qdxxFW8sSKN2Q8c=w960-rw-h720"></object>
   <object data="https://lh3.googleusercontent.com/oUdteB26q_gfYLXiHdvXer7_q9Y2hJ94b86cFaQUlddgNSwVOaqTaGYvDqbwz08Alp74SFxM0ZxZ4DBl9bPV9PBP5U7DjKE-9kovtU97bLgQEEJv31S-jLYV4W_OxrciAoyI1ieg2gE=w960-rw-h720"></object>
   <object data="https://lh3.googleusercontent.com/tkJ1_1vauOeUGPlUvyhXLc6O56km3AhSwmWw8AnxtpDs5E9zCozOc-GLz3zEdnPXy1FLPbMg53Xc7-SjrmoXj0i6CV3hezjiBDW25K1m94dtwdPlcHqQDlCOtQJd2B1tEvkcRL81hC0=w960-rw-h720"></object>
-  <object data="https://lh3.googleusercontent.com/MWELbiRIGZmcj47gk78_JnHNW6o2ePXaEBc8-dQ1aMNdl1dGVfMPVK36GuMT_HxMyd9H6qP34H5tNI_feqagP7DYT90z9GzBmZrqt93Nen3E2R49kjzywcA1k2L3nLGGjL8Z1uAkmUE=w960-rw-h720"></object>
+  <object data="https://lh3.googleusercontent.com/MWELbiRIGZmcj47gk78_JnHNW6o2ePXaEBc8-dQ1aMNdl1dGVfMPVK36GuMT_HxMyd9H6qP34H5tNI_feagP7DYT90z9GzBmZrqt93Nen3E2R49kjzywcA1k2L3nLGGjL8Z1uAkmUE=w960-rw-h720"></object>
   <object data="https://lh3.googleusercontent.com/66QbiD7rNbOmdDdHOK4ij1ZcjtkjCAlch0V8r2H_Pkka3Mkz1enCctFcW1c-iUvcFMBrmK1az3i_cxxa6DCwMi8oSN4gKTNiQ7edkW5w0T4N11URBsxujNfY3Jy1IFlDiptIQgE56Rc=w960-rw-h720"></object>
   <object data="https://lh3.googleusercontent.com/duygNlgl4UfuvK5j86HGTR8manUx2HT0eg0amN2si6tRBVf19IhdNRS7kzOUO8nNneBEiNsuK9jg_9ohXdjACHm6_PMeVDOUhIGh0HiFOH8AsMxycuMxLVJl7LIqyMTgiRL6MBZAMtA=w960-rw-h720"></object>
   <object data="https://lh3.googleusercontent.com/pmLCkJDJPt2oy0CdwCQgCL0bhTgidMhTLBN2DmY11w8AulcZuD9Jqi4qlUhqKSOi9QHJlLG5gX98rVoafmjmfdWA8azKrcD6zk8IvbYud0UwD_ZDl4FfJtcaToYwszd86z1EagJ0PIQ=w960-rw-h720"></object>
@@ -93,6 +107,6 @@ It’s no secret that the best route for Spiti valley in winter is via Shimla be
   <object data="https://lh3.googleusercontent.com/aZLqswdesSsy3LaeKEyZ941Ky7xGDuUx0R7_AK3IgbdUw8Is9wXWFNO5E12fDwQxqIEfnrgiCx9Fij4xXdFE4jXe7dyZjhRho_XshdSYJhtzLO9qJo_29QkuBWoxrRArBSnu5gRvCQo=w960-rw-h720"></object>
   <object data="https://lh3.googleusercontent.com/TGz7SSUSS0LbBt9p58C1qc5eV8Q2cIlqMEYGdu-jIBXqcY1flRYP0eSod2SdDgdxgKg0ghEVKoOA5DLKRtCb7tOspc1pVYSU2QDFMM6JuVWEPXCXsJqMocxcOu4yr3GgqYUqm8tPY44=w960-rw-h720"></object>
   <object data="https://lh3.googleusercontent.com/tiMzbp2lYG3ii-YD2cilfhlQqgRf9f-Yb1JWThQwSoLUh1VbD4kCdHIEHR3I3lsCUZhu2lgyDbfK6fnHol3vXioUC87OhfVONRlCmWIc9pANlQhKgAdedYxuRYZOu5rLg5Qhmqg8Fz0=w960-rw-h720"></object>
-  <object data="https://lh3.googleusercontent.com/r3OkIAjO-XlKZ3RNZdJPRpQagwDIHlOJ9F_MOmVFhIf-vIPbWTY6f-odwfWRuuXZSkAktqiTN2PMoMTvkadlaR2JoSHn8eXVItAFLXePxHwafy1dqxShk76qmNlrAxANPozeLR3Accw=w960-rw-h720"></object>
+  <object data="https://lh3.googleusercontent.com/r3OkIAjO-XlKZ3RNZdJPRpQagwDIHlOJ9F_MOmVFhIf-vIPbWTY6f-odwfWRuuXZSkAktqiTN2PMoMTvkadlaR3JoSHn8eXVItAFLXePxHwafy1dqxShk76qmNlrAxANPozeLR3Accw=w960-rw-h720"></object>
   <object data="https://lh3.googleusercontent.com/4NMfeUyxb_9MAXcPKP5gFuBSHMR8RMj-RWzG7cGBMq_CHrux3PrihFrT-1ltsAC8PhWRjEkXhQrMKUH_TCbDUNKljzSVUCkEpjILduSC1eI3iApNIgp2d0eKt5sWAsq-8ZT5INYUabc=w960-rw-h720"></object>
 </div>

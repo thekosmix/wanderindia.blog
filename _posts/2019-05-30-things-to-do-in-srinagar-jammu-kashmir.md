@@ -6,6 +6,20 @@ categories: [ Monuments, Peaks, Valley, Garden ]
 image: assets/images/srinagar.webp
 rating: 5
 tags: [Jammu and Kashmir]
+toc: true
+quick_facts:
+  state: "Jammu and Kashmir"
+  best_time: "April to October"
+  duration: "3-4 Days"
+  airport: "Sheikh ul-Alam International Airport, Srinagar (12 km)"
+  railway: "Srinagar Railway Station, Nowgam (10 km)"
+faq:
+  - question: "What is the best time to see the tulips in Srinagar?"
+    answer: "The Tulip Festival in Srinagar is held at the Indira Gandhi Memorial Tulip Garden, usually from late March to late April. The flowers are in full bloom for about 3-4 weeks, making April the perfect time to visit if you want to see the vibrant gardens."
+  - question: "What is the difference between staying in a hotel and a houseboat in Srinagar?"
+    answer: "Staying in a hotel offers standard modern amenities and ease of commute. A houseboat stay on Dal Lake or Nigeen Lake offers a unique, traditional Kashmiri experience with wood-carved interiors, stunning views of the water, and personalized hospitality, though it is stationary and requires a shikara ride to get to land."
+  - question: "Is Srinagar safe for family vacations?"
+    answer: "Yes, Srinagar is generally safe for tourists and is one of the most popular family destinations in India. Standard travel precautions should be taken, and it is advisable to check local news and follow travel advisories before planning your trip."
 ---
 Gar firdaus bar-rue zamin ast, hami asto, hamin asto, hamin ast.” “If there is a heaven on earth, it’s here, it’s here, it’s here.” 
 
@@ -42,7 +56,7 @@ Srinagar is the summer capital of the Indian state of Jammu and Kashmir. It is l
   <object data="https://lh3.googleusercontent.com/pw/AJFCJaUv8flPo5pz6PkUwd9Ake6FeCsNAljILmFUQ28_Pn1RlLcJf9NsPiyxS27IZvSBly5DanKTapm8uNghRM-Rab0H7ZvHYkG-GXTZYWYq7hZsodJ5x7tW=w960-rw-h720"></object>
   <object data="https://lh3.googleusercontent.com/pw/AJFCJaXxGKg7bALM7X7Lo_3dCCfm8DWRX6krL0R8K2TsTPSFpSRaib9ZfoHyrICWHhllvFwXAKMuis7R26rg1TszEELm9iP8l5asBj1i3v1s3sp4O6cKo7VA=w960-rw-h720"></object>
   <object data="https://lh3.googleusercontent.com/pw/AJFCJaWnhQldopYLHy_9wTNDYIG191CRlYByvCOxDJlO5-4u0-V9qDIexak9eMdj1M26aktWKoQqmtlh64NwXGNSnI7lmX0TEzzYYLvDLUlmXVWG29DGx58N=w960-rw-h720"></object>
-  <object data="https://lh3.googleusercontent.com/pw/AJFCJaUahEk62gcEbfkbM5U-YZXImSfL4OSRoo8mAwFQkgWkMzlf85SVaxQr-cwMGl0PFEC8pddp10dQBPAtRPpxIJEUmvHG1wC_nDgmYZEWkvsGC597v3Y-=w960-rw-h720"></object>
+  <object data="https://lh3.googleusercontent.com/pw/AJFCJaUahEk62gcEbfkbM5U-YZXImSfL4OSRoo8mAwFQkgWkMzlf85SVaxQr-cwMGl0PFEC8pddp10dQBPAtRPpxIJEUmvHG1wC_nDgmYZEWkvsGC597v3Y-="></object>
   <object data="https://lh3.googleusercontent.com/pw/AJFCJaWLg1eeyJClvxXVwvjKEnL_WyqA7M7okYbP9tAt0CcaNPRewJ3QkIK-McORZYuoS1Ntp-0gUzmyxtOy6aPgpMUSavlgnjvpdQQrWhU6AENmPV8_8pML=w960-rw-h720"></object>
   <object data="https://lh3.googleusercontent.com/pw/AJFCJaV35YRC_NALvlhoODvh27yC8UQrylSKdsUTUrt2hb6b1qkXr5neS9uVQAUg66CBRUB1xDbDXbHxSvQVLdUPK4DZPTi9oJ3mVz1NYyoeCiJjkIJHmNpJ=w960-rw-h720"></object>
   <object data="https://lh3.googleusercontent.com/pw/AJFCJaVhA0H4zo4wMewMWFffR9p0f1FwqUlVTukt_CBMpV9usQCTYlSTAE1DVj7Jz-COhyocvX-COqkppOmtGVwDutWpl0vGTorLClGMMenkEIbwCb3wLKrT=w960-rw-h720"></object>

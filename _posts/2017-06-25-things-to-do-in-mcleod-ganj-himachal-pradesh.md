@@ -6,6 +6,20 @@ categories: [ Trekking, Mountain, Weekend Getaway, Monasteries ]
 image: assets/images/mcleodganj.webp
 rating: 4.5
 tags: [Himachal Pradesh]
+toc: true
+quick_facts:
+  state: "Himachal Pradesh"
+  best_time: "March to June"
+  duration: "2-3 Days"
+  airport: "Gaggal Airport, Dharamshala (18 km)"
+  railway: "Pathankot Cantt Railway Station (90 km)"
+faq:
+  - question: "What is McLeod Ganj famous for?"
+    answer: "McLeod Ganj is famous for being the spiritual home of the Dalai Lama and the Tibetan government-in-exile. It is known for its rich Tibetan culture, stunning Buddhist monasteries, beautiful waterfalls, and trekking spots like Triund."
+  - question: "How to reach McLeod Ganj?"
+    answer: "McLeod Ganj is easily accessible by air via Gaggal Airport in Dharamshala (about 18 km away). The nearest major broad-gauge railway station is Pathankot Cantt (approx. 90 km away). It is also well-connected by road, with regular overnight luxury buses running from Delhi and Chandigarh."
+  - question: "Is there snowfall in McLeod Ganj?"
+    answer: "Yes, McLeod Ganj experiences snowfall during the peak winter months, usually from late December through January and February."
 ---
 My second solo trip was to McLeod Ganj, Himachal Pradesh. In 3 days, I was able to cover a lot of places, including Dharmshala, Bhagsunag waterfall and more. 
 

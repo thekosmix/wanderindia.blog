@@ -6,6 +6,20 @@ categories: [Temple, War Memorial, Nature]
 image: assets/images/guwahati.webp
 rating: 4
 tags: [Assam]
+toc: true
+quick_facts:
+  state: "Assam"
+  best_time: "October to March"
+  duration: "2-3 Days"
+  airport: "Lokpriya Gopinath Bordoloi International Airport, Guwahati (20 km)"
+  railway: "Guwahati Railway Station (2 km)"
+faq:
+  - question: "What is Guwahati famous for?"
+    answer: "Guwahati is famous as the gateway to Northeast India, its location on the banks of the Brahmaputra River, the sacred Kamakhya Temple, and being a hub for visiting Assam's famous wildlife sanctuaries."
+  - question: "How far is the Kamakhya Temple from Guwahati city center?"
+    answer: "The Kamakhya Temple, situated atop Nilachal Hills, is located approximately 8 km from the Guwahati railway station and city center."
+  - question: "What is the best time to visit Guwahati?"
+    answer: "The best time to visit Guwahati is from October to March, when the weather is pleasant and ideal for outdoor sightseeing and river cruises on the Brahmaputra."
 ---
 The capital city of Assam and home to the world famous one-horned rhinoceros, Guwahati is one of the best places to visit in the northeast of India. With the mighty Brahmaputra River flowing through it and nature’s abundant beauty, you’ll be spoilt for choice in this charming city. It’s recommended to choose from the hotels in [Guwahati](https://www.justwravel.com/) located in the centre of the city so that travelling and sightseeing is simpler and hassle-free.
 

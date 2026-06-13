@@ -6,6 +6,20 @@ categories: [Sunset, Sunrise, Dunes, Camping, Resorts, Culture]
 image: assets/images/rann-of-kutch.webp
 rating: 4.5
 tags: [Gujarat]
+toc: true
+quick_facts:
+  state: "Gujarat"
+  best_time: "November to February"
+  duration: "2-3 Days"
+  airport: "Bhuj Airport (80 km)"
+  railway: "Bhuj Railway Station (80 km)"
+faq:
+  - question: "What is the Rann Utsav and when does it happen?"
+    answer: "Rann Utsav is a vibrant festival celebrating the art, crafts, music, dance, and culture of Kutch, set against the backdrop of the white salt desert. It is typically held from November to February each year, during which a massive Tent City is erected near Dhordo village to house travelers."
+  - question: "How do I visit the White Rann, and do I need a permit?"
+    answer: "Yes, since the White Rann is located close to the international border, all visitors need a written permit to visit it. Permits can be obtained online through the official Gujarat Tourism portal or at the physical checkpost in Bhirandiyara village by presenting a valid government ID (like Aadhaar, Passport, or Driving License)."
+  - question: "What are the must-try experiences in the Rann of Kutch?"
+    answer: "Must-try experiences include watching the sunset and sunrise over the white salt desert, taking a camel cart safari, experiencing cultural folk performances under a full moon night, shopping for traditional Kutchi embroidery and handicrafts, and taking a day trip to the ancient Indus Valley site of Dholavira."
 ---
 The Rann of Kutch, a vast expanse of salt marshes in Gujarat, India, is a land of stark beauty and unparalleled experiences. 
 
@@ -34,7 +48,7 @@ Take a hot air balloon ride over the Rann for a bird's-eye view of this unique l
 Visit the Kutch Desert Wildlife Sanctuary, home to a variety of wildlife including the Indian wild ass.
 Enjoy a farewell dinner at the Rann Utsav, bidding adieu to this magical land.
 
-## Tips for your Trip:
+## FAQs and Tips for Visiting Rann of Kutch
 
 The best time to visit the Rann of Kutch is between November and February when the weather is pleasant and the Rann Utsav is in full swing.
 Be sure to pack warm clothes as the nights can get cold in the desert.
@@ -70,7 +84,7 @@ Learn about the traditional crafts of Kutch, such as embroidery and pottery.
   <object data="https://lh3.googleusercontent.com/pw/AP1GczPmw1eJ107D0M30fbH1CkaI5qmlvyEtBcwLl3a11jvzTkOfUZ1zRLcniOLFUT9lj8yIPhRnrvICgKNUJYdvD1kOYh97eRAPe2Re2zp1Qf6RMwXSBFVp=w960-rw-h720"></object>
   <object data="https://lh3.googleusercontent.com/pw/AP1GczOtfEyDDx6MSPm35z22BwxFrRyUv3ZWDWBXypK0OZM40Kc-ubctTkjGLIEQ5S7v5BfaZfF8r5RMebAqwE2mfcLsTLKQxE-uOcdxPiDZj4tO4d-7BxPg=w960-rw-h720"></object>
   <object data="https://lh3.googleusercontent.com/pw/AP1GczONhrb0iNF2j0lrF5zJT3fEAiBwGOPjGnI5pEuzXRB3otc3Gj-mKKCls69hSkaB9zxJD5iKd8vXrT_zlopbdkBeCq7xmI5yWU52KMG3h00ZYvTfvSeD=w960-rw-h720"></object>
-  <object data="https://lh3.googleusercontent.com/pw/AP1GczMxlPYuCbfFEXOdzDFzTPCss5qYo4J0d-Q9DY65zbHgRu5aT7wWsB_lcDXffwO_NAaK2-HYCholh6Dlpudb9nU8Qrngy0gl0VzY0FxPWUCZwGIQYjUS=w960-rw-h720"></object>
+  <object data="https://lh3.googleusercontent.com/pw/AP1GczMxlPYuCbfFEXOdzDFzTPCss5qYo4J0d-Q9DY56zbHgRu5aT7wWsB_lcDXffwO_NAaK2-HYCholh6Dlpudb9nU8Qrngy0gl0VzY0FxPWUCZwGIQYjUS=w960-rw-h720"></object>
   <object data="https://lh3.googleusercontent.com/pw/AP1GczPGtPJJAgrURFsB0va36LpYImZvIBd7OIUn3JhgUkPQ34_BT0m2SV4fQgmIKJoDKXkRpsIlILOEmS_pLPpZ6NJHsI5v0XzsKbT-GANhaGuHBwY8z1w_=w960-rw-h720"></object>
   <object data="https://lh3.googleusercontent.com/pw/AP1GczM6mXKAOeTl1v0yAyIXVQqVqTOZbpZSkScYc5Sq98z8K6VqlA7G58KWyIxUuybvGZb8MhzitaXXCFzX33WN6EKFCFtzDmFv0AEdpV98H0Zjju7PssYB=w960-rw-h720"></object>
   <object data="https://lh3.googleusercontent.com/pw/AP1GczN4yYJYUMRxVDwimTt9_PMJ5jWqji37tUjOIzopxXMg8anrs8oxMOie4eXugB8Od05fP4NPW-lo4Wo2-6_u2E3PBwSsVcI30Xyn3OEddyC8ghpLgJ2L=w960-rw-h720"></object>

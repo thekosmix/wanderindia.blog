@@ -6,6 +6,20 @@ categories: [ History, Monuments, Pilgrimage, Temple ]
 image: assets/images/amritsar.webp
 rating: 4
 tags: [Punjab]
+toc: true
+quick_facts:
+  state: "Punjab"
+  best_time: "October to March"
+  duration: "2-3 Days"
+  airport: "Sri Guru Ram Dass Jee International Airport, Amritsar (11 km)"
+  railway: "Amritsar Junction Railway Station (2 km)"
+faq:
+  - question: "What is the best time to visit the Golden Temple?"
+    answer: "The best time to visit the Golden Temple is during the cooler months from October to March, when the weather in Amritsar is pleasant for sightseeing. Visiting during early morning (for the Palki Sahib ceremony) or late evening when the temple is beautifully illuminated offers a highly spiritual and serene experience."
+  - question: "Is there a dress code for visiting the Golden Temple?"
+    answer: "Yes, visitors must cover their heads with a scarf or bandana (provided for free at the entrance) and remove their footwear before entering the temple complex. It is also recommended to dress modestly, covering shoulders and knees."
+  - question: "How far is the Wagah Border from Amritsar, and how can I reach it?"
+    answer: "The Wagah Border is located about 30 km from Amritsar city center. You can easily reach it by booking a private taxi, taking a shared cab, or hopping on the hop-on-hop-off tourist buses that depart from the Golden Temple area in the afternoon."
 ---
 
 Amritsar, the holy city in Punjab, is famous for the Harmandir Sahib, also known as the Golden Temple, a major pilgrimage site for Sikhs.

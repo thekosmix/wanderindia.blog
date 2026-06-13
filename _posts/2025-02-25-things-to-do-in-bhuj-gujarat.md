@@ -6,6 +6,20 @@ categories: [Sunset, Sunrise, Temple, Culture, Palaces, Fort, Monuments]
 image: assets/images/bhuj.webp
 rating: 4
 tags: [Gujarat]
+toc: true
+quick_facts:
+  state: "Gujarat"
+  best_time: "November to February"
+  duration: "2-3 Days"
+  airport: "Bhuj Airport (5 km)"
+  railway: "Bhuj Railway Station (1 km)"
+faq:
+  - question: "What are the top historical monuments to visit in Bhuj?"
+    answer: "The top historical attractions in Bhuj include the Aina Mahal (Palace of Mirrors), known for its exquisite glass and mirror decorations, the Prag Mahal, an Italian Gothic style palace, and the historic Bhujia Fort situated on Bhujia Hill which offers panoramic views of the city."
+  - question: "What handicrafts is Bhuj famous for?"
+    answer: "Bhuj and its surrounding villages are globally renowned for Kutchi handicrafts. These include Bandhani (tie-and-dye), Ajrakh block printing, Rogan art, leather crafts, copper bell making, and intricate Kutchi embroidery. Travelers can buy these directly from artisans in nearby villages like Bhujodi and Ajrakhpur."
+  - question: "Is Bhuj a good base for visiting the Rann of Kutch?"
+    answer: "Yes, Bhuj is the primary gateway and an excellent base for exploring the Rann of Kutch. It is located about 80 km from the White Rann (Dhordo). Most travelers land or arrive at Bhuj, explore the city's palaces and museums, and then travel to the desert or use Bhuj as a base for day trips."
 ---
 Bhuj, the vibrant capital of the Kutch district in Gujarat, India, is a city steeped in history, culture, and natural beauty.
 
@@ -32,7 +46,8 @@ Night: Enjoy a traditional Kutchi dinner at a local restaurant.
 Morning: Embark on a day trip to the White Rann of Kutch, a vast expanse of salt marshes that stretches as far as the eye can see.
 Afternoon: Visit the Dholavira, an ancient Harappan civilization site.
 Evening: Enjoy a camel ride through the Rann of Kutch and witness a breathtaking sunset.
-Tips for Visiting Bhuj:
+
+## FAQs and Tips for Visiting Bhuj
 
 The best time to visit Bhuj is between November and February when the weather is pleasant.
 Be sure to dress modestly when visiting temples and other religious sites.

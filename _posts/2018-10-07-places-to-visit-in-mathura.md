@@ -6,6 +6,20 @@ categories: [ Pilgrimage, History ]
 image: assets/images/mathura.webp
 rating: 3.5
 tags: [Uttar Pradesh]
+toc: true
+quick_facts:
+  state: "Uttar Pradesh"
+  best_time: "October to March"
+  duration: "2-3 Days"
+  airport: "Indira Gandhi International Airport, Delhi (150 km)"
+  railway: "Mathura Junction Railway Station (1 km)"
+faq:
+  - question: "What is Mathura famous for?"
+    answer: "Mathura is famous as the birthplace of Lord Krishna. It is a highly sacred city for Hindus, known for the Shri Krishna Janmabhoomi temple complex, the historical Dwarkadhish Temple, the beautiful ghats along the Yamuna River like Vishram Ghat, and its iconic Mathura peda."
+  - question: "How do I reach Mathura?"
+    answer: "Mathura is well-connected by train, and Mathura Junction is a major railway station. The nearest international airport is Indira Gandhi International Airport in Delhi, located about 150 km away, from where you can take a taxi, train, or bus."
+  - question: "When is the best time to experience Mathura's culture?"
+    answer: "While the winter months (October to March) offer pleasant weather, the best time to experience Mathura's vibrant culture is during Krishna Janmashtami (August/September) or Holi (March), when the city comes alive with grand celebrations."
 ---
 Mathura is a sacred city in Uttar Pradesh. The deity Lord Krishna is said to have been born on the site of Sri Krishna Janma Bhoomi, a Hindu temple.
 

@@ -6,6 +6,20 @@ categories: [ River, Pilgrimage, Temple ]
 image: assets/images/ujjain.webp
 rating: 4
 tags: [Madhya Pradesh]
+toc: true
+quick_facts:
+  state: "Madhya Pradesh"
+  best_time: "October to March"
+  duration: "1-2 Days"
+  airport: "Devi Ahilyabai Holkar Airport, Indore (55 km)"
+  railway: "Ujjain Junction Railway Station (1 km)"
+faq:
+  - question: "What is Ujjain famous for?"
+    answer: "Ujjain is famous for being home to the Mahakaleshwar Temple, which houses one of the 12 sacred Jyotirlingas of Lord Shiva. It is also famous as one of the four hosts of the Simhastha Kumbh Mela on the banks of the Shipra River."
+  - question: "How can I reach Ujjain?"
+    answer: "Ujjain has its own major railway station (Ujjain Junction), which is well-connected to all major cities in India. The nearest airport is Devi Ahilyabai Holkar International Airport in Indore, about 55 km away, from where taxis and buses are easily available."
+  - question: "What is the significance of the Bhasma Aarti in Ujjain?"
+    answer: "The Bhasma Aarti at the Mahakaleshwar Temple is a world-famous, unique ritual performed every morning before sunrise, where the deity is worshipped with sacred ash. It is highly recommended to book tickets in advance online."
 ---
 Ujjain is beleived to be the city of birth of Chandra (moon god). This holy city is situated at the banks of Kshipra River. 
 

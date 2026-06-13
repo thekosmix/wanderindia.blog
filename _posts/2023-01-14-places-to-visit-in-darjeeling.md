@@ -6,6 +6,20 @@ categories: [Monuments, Hill Station, Tea Garden]
 image: assets/images/darjeeling.webp
 rating: 4
 tags: [West Bengal]
+toc: true
+quick_facts:
+  state: "West Bengal"
+  best_time: "March to May & October to November"
+  duration: "2-3 Days"
+  airport: "Bagdogra Airport, Siliguri (70 km)"
+  railway: "New Jalpaiguri Junction Railway Station, Siliguri (75 km)"
+faq:
+  - question: "What is Darjeeling famous for?"
+    answer: "Darjeeling is world-famous for its aromatic tea gardens, the UNESCO World Heritage Darjeeling Himalayan Railway (Toy Train), and stunning views of Mount Kanchenjunga."
+  - question: "How can I reach Darjeeling?"
+    answer: "You can fly to Bagdogra Airport (70 km away) or take a train to New Jalpaiguri Junction (NJP) (75 km away) in Siliguri, and then travel to Darjeeling by private taxi, shared cab, or the Toy Train."
+  - question: "When can I see the best views of Mount Kanchenjunga in Darjeeling?"
+    answer: "The autumn months of October and November offer the clearest skies and most spectacular views of the Kanchenjunga range, especially from viewpoints like Tiger Hill."
 ---
 Darjeeling is a hill station in the Indian state of West Bengal. It is known for its tea plantations, colonial architecture, and stunning views of the Himalayan Mountains. The city is home to a number of tourist attractions, such as the Tiger Hill, the Batasia Loop, the Himalayan Mountaineering Institute, and the Padmaja Naidu Himalayan Zoological Park. Additionally, the city is home to a number of religious sites, such as the Mahakal Temple, the Ghoom Monastery, and the Bhutia Busty Monastery. Additionally, the city is home to a number of shopping centers, such as the Chowrasta Mall and the Mall Road. Additionally, the city is home to a number of parks and gardens, such as the Rock Garden and the Observatory Hill.
 

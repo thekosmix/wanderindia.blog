@@ -6,6 +6,20 @@ categories: [Sunset, Sunrise, Pilgrimage, Temple, Sea, Beach, Culture]
 image: assets/images/somnath.webp
 rating: 4
 tags: [Gujarat]
+toc: true
+quick_facts:
+  state: "Gujarat"
+  best_time: "October to March"
+  duration: "1-2 Days"
+  airport: "Keshod Airport (50 km)"
+  railway: "Somnath Railway Station (1 km)"
+faq:
+  - question: "Why is the Somnath Temple highly revered?"
+    answer: "Somnath Temple is of immense spiritual significance as it houses the first of the twelve sacred Jyotirlinga shrines of Lord Shiva. According to Hindu mythology, the temple was originally built by the Moon God (Soma) in gold, and it has been destroyed and rebuilt multiple times throughout history, representing the eternal power of creation."
+  - question: "What is Bhalka Tirth and where is it located?"
+    answer: "Bhalka Tirth is a highly sacred pilgrimage spot located about 5 km from Somnath Temple. It is believed to be the exact location where Lord Krishna was resting under a banyan tree when he was mistakenly struck in the foot by an arrow shot by a hunter named Jara, leading to Lord Krishna's departure from his mortal body."
+  - question: "What is the Sound and Light Show at Somnath Temple?"
+    answer: "Every evening, the Somnath Temple hosts a spectacular Sound and Light Show (Jay Somnath) from 8:00 PM to 9:00 PM. The show uses the temple's majestic facade as a screen and narrates the history, legends, and architectural transitions of the temple in the voice of legendary actor Amitabh Bachchan."
 ---
 Somnath, a coastal town in Gujarat, India, is a sacred pilgrimage site for Hindus and a city steeped in mythology and history. 
 
@@ -32,7 +46,7 @@ Evening:
 Enjoy a delicious Gujarati thali at one of the many restaurants in Somnath.
 In the evening, take a stroll along the Somnath Beach and enjoy the sunset.
 
-## Tips for Visiting Somnath:
+## FAQs and Tips for Visiting Somnath
 
 The best time to visit Somnath is between October and March when the weather is pleasant.
 Be sure to dress modestly when visiting the temples.

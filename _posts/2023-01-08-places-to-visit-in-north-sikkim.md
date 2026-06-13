@@ -6,6 +6,20 @@ categories: [Mountain, Valley, Road Trip]
 image: assets/images/north-sikkim.webp
 rating: 4
 tags: [Sikkim]
+toc: true
+quick_facts:
+  state: "Sikkim"
+  best_time: "April to June & October to December"
+  duration: "3-4 Days"
+  airport: "Pakyong Airport (150 km) / Bagdogra Airport (220 km)"
+  railway: "New Jalpaiguri Railway Station (215 km)"
+faq:
+  - question: "What are the most famous places to visit in North Sikkim?"
+    answer: "The most famous attractions in North Sikkim include the sacred Gurudongmar Lake (one of the highest lakes in the world), Yumthang Valley (the valley of flowers), Lachen and Lachung villages, and Zero Point."
+  - question: "Is a special permit required to visit North Sikkim?"
+    answer: "Yes, because of its proximity to the international border, all tourists (both Indian and foreign nationals) require a Protected Area Permit (PAP) to visit North Sikkim. This must be applied for in Gangtok through a registered travel agency."
+  - question: "How is the weather in North Sikkim during winter?"
+    answer: "Winters (November to February) in North Sikkim are extremely cold, with temperatures regularly dropping below freezing. Heavy snowfall is common and can block roads to Gurudongmar Lake and Yumthang Valley, so travel plans must be flexible."
 ---
 India has earned itself a slice of heaven in the form of North Sikkim. Snuggling the Himalayas, this beautiful part of a Northeastern Indian state is a place unlike any other in the country. The breathtaking view of Mount Khangchendzonga, the fragrance of a variety of flowers, the quietness of sparkling lakes and the gurgling of rivers like Teesta make [North Sikkim](https://www.justwravel.com/) a destination that no nature lover should miss. So, whether you are looking for some adventure or peace of mind, solace or romance, North Sikkim is a destination that you must plan to visit.
 
@@ -55,7 +69,7 @@ Additionally, the district is home to a number of shopping centers, such as the 
   <object data="https://lh3.googleusercontent.com/v98GZcA_3UUi8koIqhkTtLiUEbQ7TzBfz4NahRIXspZKS7HUaqgiRTp_z4i2ZZ2vqGiWdgxHvLAJasuV75nVk2qBF652e5SfymYZYlo-j0XcZaQn8SAZanS7azpdZ1QlqwmF0TI7nFQ=w960-rw-h720"></object>
   <object data="https://lh3.googleusercontent.com/fMa5_YPFkqtKbvSD07W8HnQzJmBl4_TZjwEqhQDXHH_zpqaKdZUnd1FxgGpEhhru4l2juwZ9_FxWcimYpHuiUPoVljWBjaYSLzT-zSKvN3VZMhKoIgKUFcxzruj4PFAkEDcJykmAHVg=w960-rw-h720"></object>
   <object data="https://lh3.googleusercontent.com/_bn0drxXtqW1wSx-Y4fZGV1YOga9UmCHnlNAsSvJMRC8MAjwSQ_lwBUhYMnQTwk1RAGAaE0rdIA7chKvc9UHr30yzkwFEgywVaOgbwbtr7VZ_hMHsA3HsncM6xOkiVMhpx9dEJdmjqk=w960-rw-h720"></object>
-  <object data="https://lh3.googleusercontent.com/H9wpHj8h-v9rcRAYKdYSPtkuPJ66NnMp4hldVb0i3kcy4ifDSXFv_bEPbXlLYiSl0xQzHr1ro5UHIN0CHwhxu8WnDNeaY5yLwebdM0PsQb1uLOFkP5cL1zrRM7Nbxa_nnj4JqO5iWB8=w960-rw-h720"></object>
+  <object data="https://lh3.googleusercontent.com/H9wpHj8h-v9rcRAYKdYSPtkuPJ66NnMp4hldVb0i3kcy4ifDSXFv_bEPbXlLYiSl0xQzHr1ro5UHIN0CHwhwhxu8WnDNeaY5yLwebdM0PsQb1uLOFkP5cL1zrRM7Nbxa_nnj4JqO5iWB8=w960-rw-h720"></object>
   <object data="https://lh3.googleusercontent.com/s2Uo3tD6_2UbO14N0uLxhJjgQ3DzOMtpulKwUoAoT5an4LUL_6iGiKpYbuXBdIAvbg2Eqoe1Al3Jk--9-pcgPmdXGSjJh0tLG0RezounXDh5hdWKNM4n4BFPFs2UwrHiOMmdjOhsME4=w960-rw-h720"></object>
   <object data="https://lh3.googleusercontent.com/9MHO2Z-bdlb1vNIDOBDKY8XIoNlKNlkSj78aVjR74F875KUisYeGiGnXA3sC2b4Nl9pcJyYDCRX5WajM2Fo3y62kex8jUs7xYJeMY1EYGQTc95sXbp7XEkb1DWZIYrVNt5jgsTZTY10=w960-rw-h720"></object>
   <object data="https://lh3.googleusercontent.com/asWM_VA4fc36i9bwKLtXe7mx5K066b-ALewiBXzUxFWjNnVfSW80mmyThUaq14M45ucEV4RPkmlxYbqiU9CHf2yfp_lA-vQpvs4qLX-NaMYha1DvjV6zcdtMLdSyaoJqd4C7JYgQ0dg=w960-rw-h720"></object>

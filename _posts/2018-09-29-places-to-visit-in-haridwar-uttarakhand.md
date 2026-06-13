@@ -6,6 +6,20 @@ categories: [ River, Temple, Pilgrimage ]
 image: assets/images/haridwar.webp
 rating: 3.5
 tags: [Uttarakhand]
+toc: true
+quick_facts:
+  state: "Uttarakhand"
+  best_time: "October to February"
+  duration: "2-3 Days"
+  airport: "Jolly Grant Airport, Dehradun (38 km)"
+  railway: "Haridwar Junction Railway Station (1 km)"
+faq:
+  - question: "What is Haridwar famous for?"
+    answer: "Haridwar is famous as one of the seven holiest places in Hinduism. It is known for Har Ki Pauri ghat, where the spectacular Ganga Aarti is held every evening, and for hosting the Kumbh Mela every 12 years. It is also the gateway to the Chota Char Dham pilgrimage."
+  - question: "How can I reach Haridwar?"
+    answer: "Haridwar has its own railway station (Haridwar Junction) that connects it directly to major Indian cities. The nearest airport is Jolly Grant Airport in Dehradun, which is about 38 km away, from where taxis and buses are easily available."
+  - question: "Is non-vegetarian food and alcohol allowed in Haridwar?"
+    answer: "No, Haridwar is a holy pilgrimage city. The sale and consumption of non-vegetarian food and alcohol are strictly prohibited by law within the town limits."
 ---
 Haridwar is situated on the right bank of the Ganges river, at the foothills of the Shivalik ranges. Haridwar is regarded as a holy place for Hindus.
 
@@ -17,7 +31,7 @@ According to Puranic legend, Haridwar, along with Ujjain, Nashik and Prayagraj (
 
 Haridwar is a holy city located in the state of Uttarakhand in India. It is one of the seven holiest places for Hindus and is located on the banks of the Ganges River. The city is home to numerous temples, ashrams, and ghats, which are visited by pilgrims from all over the world. Haridwar is also home to a number of festivals and fairs, such as the Kumbh Mela, which is held every 12 years. The city is also home to a number of adventure activities, such as river rafting, trekking, and camping. Additionally, the city is home to a number of restaurants and cafes, offering a variety of local and international cuisines.
 
-Haridwar presents a kaleidoscope of Indian culture and development. In sacred writings, it has been differently specified as Kapilsthan, Gangadwar and Mayapuri. It is additionally a passage for the Chota Char Dham (the four principal pilgrim destinations in Uttarakhand). Subsequently, Shaivites (devotees of Shiva) and Vaishavites (devotees of Vishnu) call the city Hardwar and Haridwar, respectively, Har meaning Shiva and Hari Vishnu.
+Haridwar presents a kaleidoscope of Indian culture and development. In sacred writings, it has been differently specified as Kapilsthan, Gangadwar and Mayapuri. It is additionally a gateway for the Chota Char Dham (the four principal pilgrim destinations in Uttarakhand). Subsequently, Shaivites (devotees of Shiva) and Vaishavites (devotees of Vishnu) call the city Hardwar and Haridwar, respectively, Har meaning Shiva and Hari Vishnu.
 
 
 <div class="pa-carousel-widget" style="width:100%; height:480px; display:none;"
@@ -29,7 +43,7 @@ Haridwar presents a kaleidoscope of Indian culture and development. In sacred wr
   <object data="https://lh3.googleusercontent.com/kds6lz9V169G49pr3-b897hAG4s711tTzh9GIRjuH0hftusaWnr-eY3j4_GPHu2kNnutXMUbyIDeetMTWS0Gkzb3fzlHf_JeDa_VTb6yVswflm9UipT83HOmNi80GIHat0hmXB4TYiY=w960-rw-h720"></object>
   <object data="https://lh3.googleusercontent.com/QVAT_nQYDrh6GUUB_CWiQft_epVlevVMOn6Kc5wn5PI01S0xasyDV2j23H8sECenWvZJ8idS0poSZY_l7vHMGrKcsOhYe4I9GjJfkzl8z9jxPTnMpAbcb3Sy3rT4KDKrnbHPC3FMA6I=w960-rw-h720"></object>
   <object data="https://lh3.googleusercontent.com/um8MkXoronlWnPAOeEc8bMhls1erSuAr6mfE3RxBM_5MAIdAFSfc4CL40Ol4vEYrOsEm3p7se7dC8pBaWvBXCTRriMABK1JZ2k-7NX8__9psC1obh4kcW5Epl7_kgl0ENuhYO3hVynY=w960-rw-h720"></object>
-  <object data="https://lh3.googleusercontent.com/GYAMLMnvCSVg0sNSAhO6fY1nEsx4tiN8-fU9iXFJPlYcugApkH7wuolJzNuH-moLb0HMnvCicoyxd3SNTQBf8FcMcuwtYpGJ_qpv6q1lV7KBZOhsGMzEttJGzMJ5-fk8D13U66yKjtk=w960-rw-h720"></object>
+  <object data="https://lh3.googleusercontent.com/GYAMLMnvCSVg0sNSAhO6fY1nEsx4tiN8-fU9iXFJPlYcugApkH7wuolJzNuH-moLb0HMnvCicoyxd3SNTREFf8FcMcuwtYpGJ_qpv6q1lV7KBZOhsGMzEttJGzMJ5-fk8D13U66yKjtk=w960-rw-h720"></object>
   <object data="https://lh3.googleusercontent.com/K5Sr3HrUfNSogtaeQxj2kkQmpifVmbG2MtTikiZW5g6vDW0LXYGR5j6yy2H6LDBgdEmQlX2is22Q3pZcW_vPyeqT8MTLBXnisGAeD-P7qPVts6pkoWk0mFLjwh3CMtxjvaJeeyUlDv0=w960-rw-h720"></object>
   <object data="https://lh3.googleusercontent.com/fA-Ue3XrAOY1BwO1pIwco-neAwSQSIkghuqHpbwVo9vhAaX5hyGkHAhG5PhwwwG189sii-zfYMFdWNLYq3f8FCwN74jcvxmOdZTWQkBQ7zK-AbwkwziPVVyGgjiV9G5mEWMdoXPBy4c=w960-rw-h720"></object>
   <object data="https://lh3.googleusercontent.com/zXn5khn2hjOZxJ4R0SUYKOeDkRawti3uTXVjGTZPbRVUmLlseGE6UjJy3AxJMXBUOcDnMvPMBeQiYQPCJTLyoPnNy8wWlSSj0l3VKXzAkbpWISQRzZsfjprBW8eAB51jyKVFfaEmlTQ=w960-rw-h720"></object>

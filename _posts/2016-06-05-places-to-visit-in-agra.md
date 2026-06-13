@@ -6,7 +6,22 @@ categories: [ Monuments, Long Drive, History ]
 image: assets/images/agra.webp
 rating: 3.5
 tags: [Uttar Pradesh]
+toc: true
+quick_facts:
+  state: "Uttar Pradesh"
+  best_time: "October to March"
+  duration: "1-2 Days"
+  airport: "Agra Airport (8 km) / Indira Gandhi International Airport, Delhi (220 km)"
+  railway: "Agra Cantt Railway Station (5 km)"
+faq:
+  - question: "What are the rules and prohibited items when entering the Taj Mahal?"
+    answer: "To preserve the monument, strict security is maintained. Prohibited items include drone cameras, tripods, cell phone chargers, iPads, tobacco/cigarettes, knives, food items, and large bags. You can only carry a mobile phone, a small water bottle, a wallet, and a camera. Drone photography is strictly prohibited."
+  - question: "Is the Taj Mahal open every day of the week?"
+    answer: "No, the Taj Mahal is closed to the general public on Fridays. It is open from Saturday to Thursday, from sunrise to sunset. On Fridays, it is only accessible to local Muslims for afternoon prayers."
+  - question: "Can we view the Taj Mahal at night?"
+    answer: "Yes, night viewing of the Taj Mahal is permitted on five nights of the month: the night of the full moon, and two nights before and after the full moon (except on Fridays and during the month of Ramzan). Tickets must be booked a day in advance from the Archaeological Survey of India office in Agra."
 ---
+
 
 Agra is a city in the Uttar Pradesh. It is home to the iconic Taj Mahal, a mausoleum built for the Mughal emperor Shah Jahan’s wife, Mumtaz Mahal.
 

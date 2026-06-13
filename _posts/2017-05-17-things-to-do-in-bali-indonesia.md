@@ -6,7 +6,22 @@ categories: [ Sea, Mountain, Culture, Beach ]
 image: assets/images/bali.webp
 rating: 5
 is_another_country: true
+toc: true
+quick_facts:
+  state: "Bali"
+  best_time: "April to October"
+  duration: "5-7 Days"
+  airport: "Ngurah Rai International Airport, Denpasar (13 km)"
+  railway: "None"
+faq:
+  - question: "Do Indian citizens need a visa to visit Bali?"
+    answer: "Yes, Indian citizens visiting Bali (Indonesia) require a Visa on Arrival (VoA), which is valid for up to 30 days. It can be obtained at the airport upon arrival or applied for online (e-VoA) beforehand. The fee is IDR 500,000 (approx. USD 35 / INR 2,700)."
+  - question: "What is the best way to travel around Bali?"
+    answer: "Renting a scooter is the most popular and budget-friendly way to get around Bali for couples or solo travelers. For families or groups, hiring a private car with a local driver is highly recommended, as traffic can be chaotic and public transport is virtually non-existent. Ride-hailing apps like Grab and Gojek are also widely used."
+  - question: "What is the dress code for visiting temples in Bali?"
+    answer: "When visiting temples in Bali, both men and women must wear a sarong and a sash around the waist, covering their knees and shoulders. Most temples provide or rent these at the entrance for a small fee or for free."
 ---
+
 Bali is the best place to chill on a vacation. Economic, clean, hospitable people, great food, great view, places to party hard or relax, adventurous sports and activities. Everything you can hope for from a trip. Bali is the complete package. This small island nation of Indonesia is Hindu dominated and they embrace their culture with modernity. You can see small temples at the gate of every home,shop. They are very welcoming and very hospitable.
 
 You can rent a scooty over there and stroll all day long and then return to party hard at sky garden.

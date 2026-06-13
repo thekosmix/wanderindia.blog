@@ -6,6 +6,20 @@ categories: [ Shrine, Mountain, Trekking, Resorts ]
 image: assets/images/patnitop.webp
 rating: 4.5
 tags: [Jammu and Kashmir]
+toc: true
+quick_facts:
+  state: "Jammu and Kashmir"
+  best_time: "May to June and December to February"
+  duration: "2 Days"
+  airport: "Jammu Airport (Satwari), Jammu (115 km)"
+  railway: "Udhampur Railway Station (45 km)"
+faq:
+  - question: "Does it snow in Patnitop and when can we see it?"
+    answer: "Yes, Patnitop experiences heavy snowfall during the winter season. The best time to see snow and enjoy winter sports like skiing or sledding is from late December to February."
+  - question: "What adventure activities are available in Patnitop?"
+    answer: "Patnitop offers adventure activities such as paragliding at Nathatop or Sanasar, zip-lining (Skyview by Empyrean), trekking to Shiva Ghar, and zorbing. Skyview also features one of India's highest ropeways."
+  - question: "How far is Patnitop from Katra (Vaishno Devi)?"
+    answer: "Patnitop is located approximately 85 km from Katra. The drive takes about 2 to 2.5 hours via the Chenani-Nashri Tunnel (Dr. Syama Prasad Mookerjee Tunnel), making it a popular side-trip for pilgrims visiting Vaishno Devi."
 ---
 
 Patnitop is a hill station located in the Udhampur district of Jammu and Kashmir. It is known for its scenic beauty and is a popular tourist destination. 
@@ -40,7 +54,7 @@ You can also go for Paragliding and other adventures activities happening in Pat
   <object data="https://lh3.googleusercontent.com/pw/AJFCJaUDJMsSU25rsR8V3NDkBf0_BHf-OGlwTWgB54ZGjLtIdeD5RW62EnqPcXIpciECjacu9krxgxVjUG0osGFU5VoeSTeQNERZRFrAft2lSkE9WLf5lXek=w960-rw-h720"></object>
   <object data="https://lh3.googleusercontent.com/pw/AJFCJaXJqhmDm1HOAZOuofLavFxL-6u49yHZoNRfqhfSWyZRzJHQeQ0J8jfuhZ7dWHHuV9dZ47tAnzW9FIRvT6r_bz22JXDQKr4bkwYP-8dU3KPp2xcyFfAi=w960-rw-h720"></object>
   <object data="https://lh3.googleusercontent.com/pw/AJFCJaXp1giMr8a1bq44FJqZ9kecOqjVHM9R6kRpB8rIZT2bmFJLxcwF5U_yUMJ_e69ueOKLmZTjRNFx5OhuAugDnf_bvlZGtsJyKdbCL7IGKuJTXDBA6qtF=w960-rw-h720"></object>
-  <object data="https://lh3.googleusercontent.com/pw/AJFCJaV6gQXqI_tABXrVo6bJo2WxN-U755prCktlA_s3Qlj6R1i90azcO2mHyiDBCy_wK64LI-1_VOP2hW7pi_Se-ktZdNnTam3-pdRCER_uDNVHk2ITuY7-=w960-rw-h720"></object>
+  <object data="https://lh3.googleusercontent.com/pw/AJFCJaV6gQXqI_tABXrVo6bJo2WxN-U755prCktlA_s3Qlj6R1i90azcO2mHyiDBCy_wK64LI-1_VOP2hW7pi_Se-ktZdNnTam3-pdRCER_uDNVHk2ITuY7-="></object>
   <object data="https://lh3.googleusercontent.com/pw/AJFCJaXema1CQwEqwrIiMrKA3x_FNSr4yudnI45elgMTzd2Ca952lsyI0NTqmgYxWqDJ8TvBqauTTrKdu_LrAmW06pLmEQLIlCn4eqY3XlRjWjqtR7eHDrFA=w960-rw-h720"></object>
   <object data="https://lh3.googleusercontent.com/pw/AJFCJaXimvxF-qCvBIq9Btm0S7d9ENBcaaj4Owa9rVq2jkrRaMQH7V1JmRChBZI8xlALE2Ev1ujt34Lnfs9tnPw4Ps4vcfZhbyFvaLpkKzv5xWf5sHje41ow=w960-rw-h720"></object>
   <object data="https://lh3.googleusercontent.com/pw/AJFCJaUqfoNeUHURVdxqHfQWu_iiexzlHwkrE6_VCOLuMNoO_WNsiqpy61o0XoE8bYOmT-iTB8rWDzsTskrxUs4Uvp374fn_K20H1Lkm1BHg4KC8g2PM3Ks0=w960-rw-h720"></object>

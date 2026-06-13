@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Dhanaulti-Tehri, Uttarakhand"
+title: "Dhanaulti-Tehri, Uttarakhand"
 redirect_from:
   - /places-to-visit-in-dhanaulti-uttarakhand/
   - /places-to-visit-near-tehri-uttarakhand/
@@ -9,6 +9,20 @@ categories: [Man-made Lake, Chill, Mountain, Weekend Getaway, Dam, Reservoir]
 image: assets/images/dhanaulti.webp
 rating: 4
 tags: [Uttarakhand]
+toc: true
+quick_facts:
+  state: "Uttarakhand"
+  best_time: "April to June & September to December"
+  duration: "2 Days"
+  airport: "Jolly Grant Airport, Dehradun (85 km)"
+  railway: "Dehradun Railway Station (60 km)"
+faq:
+  - question: "How far is Dhanaulti from Mussoorie?"
+    answer: "Dhanaulti is located approximately 24 km from Mussoorie and can be easily reached via a scenic 1-hour drive along the Mussoorie-Chamba Road."
+  - question: "What are the main attractions in Dhanaulti?"
+    answer: "The main attractions in Dhanaulti include the Eco Parks (Amber and Dhara), Surkanda Devi Temple, and Dhanaulti Adventure Park. The massive Tehri Dam and Tehri Lake are also situated nearby (about 40 km away)."
+  - question: "Does it snow in Dhanaulti?"
+    answer: "Yes, Dhanaulti experiences heavy snowfall during the winter months, especially from late December to February, turning the town into a winter wonderland."
 ---
 [Dhanaulti](https://www.justwravel.com/) is a small town near Mussoorie, beautifully nestled amid the lofty Himalayan peaks. It can be a destination in itself, but it’s more of a serene pit stop for travellers heading for longer journeys or leisure Uttarakhand holiday. Thus, places to visit in Dhanaulti are not any grand attractions, but small and beautiful places that offer solitude and peace, close to nature.
 

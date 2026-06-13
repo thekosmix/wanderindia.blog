@@ -6,6 +6,20 @@ categories: [Hill Station, Lake, Trekking, Nature, Park]
 image: assets/images/yelagiri.webp
 rating: 4
 tags: [Tamil Nadu]
+toc: true
+quick_facts:
+  state: "Tamil Nadu"
+  best_time: "November to February"
+  duration: "2 Days"
+  airport: "Kempegowda International Airport, Bengaluru (190 km)"
+  railway: "Jolarpettai Junction Railway Station (21 km)"
+faq:
+  - question: "What are the top things to do in Yelagiri Hills?"
+    answer: "Top activities include boating on Punganoor Lake and exploring the adjacent Nature Park, taking a moderate trek to Swamimalai Peak (the highest point in Yelagiri), visiting Fundera Park to interact with exotic birds and small animals, seeing the Jalagamparai Waterfalls, and enjoying scenic sunset views from Velavan Temple."
+  - question: "How difficult is the Swamimalai Trek in Yelagiri?"
+    answer: "The Swamimalai Trek is of easy to moderate difficulty. The trail is about 2.5 to 3 km long (round trip) and passes through villages and forests, taking about 1 to 1.5 hours to reach the peak. The summit is marked by a small temple and offers panoramic views of the surrounding hills and plains."
+  - question: "Is Yelagiri Hills crowded compared to Ooty or Kodaikanal?"
+    answer: "No, Yelagiri Hills is far less commercialized and crowded than Ooty or Kodaikanal. It retains a peaceful, rustic charm, making it a perfect weekend getaway for travelers from Bengaluru and Chennai looking for a quiet, relaxing retreat amidst nature without the typical tourist crowds and heavy traffic."
 ---
 Yelagiri Hills, a serene hill station in the Tirupattur district of Tamil Nadu, is a perfect getaway for those seeking a quiet retreat from the bustle of city life. 
 
@@ -39,7 +53,7 @@ On your final day, take a short trip (about 35 km) to the **Vainu Bappu Observat
 On your way back, visit Nilavoor Lake, another tranquil spot where you can enjoy boating or simply relax by the water.
 Before heading back, explore the local markets for pure honey, jackfruit, and other forest produce that Yelagiri is famous for.
 
-## Tips for Visiting Yelagiri Hills:
+## FAQs and Tips for Visiting Yelagiri Hills
 
 The best time to visit is between November and February, although the weather is pleasant throughout the year.
 Yelagiri is known for its pure mountain honey; make sure to buy some from the local cooperative stores.

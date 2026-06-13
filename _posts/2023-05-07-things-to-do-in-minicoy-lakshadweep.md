@@ -6,6 +6,20 @@ categories: [Sea, Beach, Coral, Island, Sunset]
 image: assets/images/minicoy.webp
 rating: 5
 tags: [Lakshadweep]
+toc: true
+quick_facts:
+  state: "Lakshadweep"
+  best_time: "October to May"
+  duration: "2-3 Days"
+  airport: "Agatti Airport, Agatti (290 km)"
+  railway: "Ernakulam Junction Railway Station, Kochi (398 km)"
+faq:
+  - question: "What makes Minicoy Island unique compared to other islands in Lakshadweep?"
+    answer: "Minicoy is the southernmost island of Lakshadweep and is culturally distinct, showing strong Maldivian influences in language (Mahl), customs, and architecture. It is also home to a historic British-built lighthouse from 1885."
+  - question: "How can I travel to Minicoy?"
+    answer: "You can travel to Minicoy by passenger ship from Kochi port (a 14–20 hour journey), or you can fly to Agatti Airport and travel by boat or helicopter to Minicoy, subject to permit approval and weather conditions."
+  - question: "What are the main tourist activities on Minicoy Island?"
+    answer: "Visitors can explore the 1885 British lighthouse, tour the local villages and tuna canning factory, and enjoy water sports such as kayaking, sailing, pedal boating, and snorkeling in its massive lagoon."
 ---
 The Minicoy Island is the southern-most island of Lakshadweep, situated at a distance of 398 km (215 nautical miles) south-west of Kochi between 8° 15′ and 8° 20′ N latitude and 73° 01′ and 73° OS’ E longitude, having an area of 4.80 sq km.
 

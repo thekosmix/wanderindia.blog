@@ -6,7 +6,22 @@ categories: [ History, Temple, Monuments, Culture, Modern Architecture, War Memo
 image: assets/images/delhi.webp
 rating: 5
 tags: [Delhi]
+toc: true
+quick_facts:
+  state: "Delhi"
+  best_time: "October to March"
+  duration: "3-4 Days"
+  airport: "Indira Gandhi International Airport, Delhi (14 km)"
+  railway: "New Delhi Railway Station (0 km)"
+faq:
+  - question: "What is the best way to travel within Delhi?"
+    answer: "The Delhi Metro is the best, fastest, and most cost-effective way to travel around the city. It is fully air-conditioned and covers almost all major tourist attractions. For last-mile connectivity, you can use auto-rickshaws, e-rickshaws, or ride-hailing services like Uber, Ola, and BluSmart."
+  - question: "Are photography and mobile phones allowed inside the Akshardham Temple?"
+    answer: "No, mobile phones, cameras, smartwatches, and all other electronic items are strictly prohibited inside the Akshardham Temple complex. You must deposit them at the free security cloakroom at the entrance before entering."
+  - question: "What are the key differences between Old Delhi and New Delhi?"
+    answer: "Old Delhi is characterized by crowded, narrow lanes, historic markets like Chandni Chowk, and Mughal-era architecture like the Red Fort and Jama Masjid. New Delhi, designed during the British colonial era, features wide tree-lined avenues, planned circles (like Connaught Place), and modern government buildings like Rashtrapati Bhavan and India Gate."
 ---
+
 Delhi is the capital of India and a cultural hub. You can find traces of ancient India like forts and palaces and also modern architectures.
 
 Delhi has something to offer for everyone. If you're a history buff, you'll find a lot of palaces, forts, museums etc. If you're a fan of modern architecture, you'll find a lot of newly built structures such as waste-to-wonder park, Pradhanmantri-Sangrahalaya. If you're a party person, you'll find lots of bars and pubs. If you're a nature lover, you'll find a lot of gardens and jungle. If you're a foodie, then Delhi is a paradise for you. 
@@ -51,7 +66,7 @@ Delhi has something to offer for everyone. If you're a history buff, you'll find
   <object data="https://lh3.googleusercontent.com/pw/AP1GczPTVTstNCG0t5h3M2q1HM5Nwb0OhaIHP33NjfeYVii9e63Ohg9kyTKvLOgEc44bfgBvv9FUJxDUzVGHu3wqGQfyZI0IzlseJqAtkhHqPS07qBzl_FUN=w960-rw-h720"></object>
   <object data="https://lh3.googleusercontent.com/pw/AP1GczNA6na-bGmPNi-1BdASoozfgkpw85b9iPqf-YKSvcJFly1hoUzawB94sqAyXHpj-HKlo7tNcu7DAv37Rno-m3jbcNUJGu-pJJqgHukXaW0P6xbJ1BqK=w960-rw-h720"></object>
   <object data="https://lh3.googleusercontent.com/pw/AP1GczM110OcUo75tqFKNOMeS96bSklFuTpx41HJtV17eL3esQuUmROAJB4AQ_gYyvwcSnBz9LsaNSksHEwuZP0cdfHyjqBLinkuH2ZcDqK9SvCQJXCLUDrl=w960-rw-h720"></object>
-  <object data="https://lh3.googleusercontent.com/pw/AP1GczO_YVvX_y3EwwGoujcXC02DTN94FOrrJKbHgKonTWvMW4Kxkocw3EqCrmGyf_KfsEuSWAzv5L0qoFAhJfO6yk1peu4PnwHHAya5j_SP-WZ2B0weJW28=w960-rw-h720"></object>
+  <object data="https://lh3.googleusercontent.com/pw/AP1GczO_YVvX_y3EwwGoujcXC02DTN94FOrrJKbHgKonTWvMW4Kxkocw3EqCrmGyf_KfsEuSWAzv5L0qoFAhJfO6yk1peu4PnwHHAya5j_SP-WZ2B0weJW28"></object>
   <object data="https://lh3.googleusercontent.com/pw/AP1GczM5SBKJ7GAqK3SR0a4j1mBFQHKNYPRwMmmQgrWYlQvyrOjtak4FbvntdM6p6i7T-IseU2DfhHeoHJW0-STHT_r9keFaecxgZM6I-0wgq1f5lHNsYugd=w960-rw-h720"></object>
   <object data="https://lh3.googleusercontent.com/pw/AP1GczNLiwfuxLDuSBbAYkd4K0LBLPJLSydC-f7gCO5Xj5MLX-zS_TyFujl08Q_gmqUCP8VpOCqlr5TQIMhFFuGLNlM1uW1baeTUgMAlvqzAqpeUVcr7P4Sl=w960-rw-h720"></object>
   <object data="https://lh3.googleusercontent.com/pw/AP1GczPnRqRdF_Vx78_YgEoRcBITltFJQ_au-HbBmQSb4ZLjtRaOGC56EPyTyvOA6QPuZAVFrpPlEbPIVcx97kxkNcSqyh6NLhY_DB8OpD_kb4vJZIIKpG0B=w960-rw-h720"></object>

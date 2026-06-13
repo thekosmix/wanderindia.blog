@@ -6,6 +6,20 @@ categories: [ Monuments, Palaces ]
 image: assets/images/jaipur.webp
 rating: 4
 tags: [Rajasthan]
+toc: true
+quick_facts:
+  state: "Rajasthan"
+  best_time: "October to March"
+  duration: "3 Days"
+  airport: "Jaipur International Airport, Jaipur (12 km)"
+  railway: "Jaipur Junction Railway Station (3 km)"
+faq:
+  - question: "Why is Jaipur known as the Pink City?"
+    answer: "Jaipur is called the Pink City because in 1876, Maharaja Sawai Ram Singh ordered the entire city to be painted pink (traditionally associated with hospitality) to welcome Albert Edward, Prince of Wales. The law is still maintained to keep the historical buildings pink."
+  - question: "What is the best way to get around Jaipur for sightseeing?"
+    answer: "The most convenient way to tour Jaipur is by hiring an auto-rickshaw or taxi for the day. For budget travelers, the Jaipur Metro and local buses connect major spots, while e-rickshaws are ideal for navigating the narrow lanes of the walled Pink City."
+  - question: "Are there composite tickets available for monuments in Jaipur?"
+    answer: "Yes, Rajasthan Tourism offers a composite ticket valid for two days. It covers entry to major attractions like Amber Fort, Albert Hall Museum, Hawa Mahal, Jantar Mantar, Nahargarh Fort, and Sisodia Rani Garden, which is much cheaper than buying individual tickets."
 ---
 Jaipur is the capital and the largest city of Rajasthan. It is also known as the Pink City, due to the dominant colour scheme of its buildings. 
 
@@ -33,7 +47,7 @@ Jaipur is home to a number of tourist attractions, such as the City Palace, the 
   <object data="https://lh3.googleusercontent.com/_Zx3413WdqCMWC2rZtAnFIj8paWeKMDXZFHwwwmyeSBd4TKL-i-RI9PDRpaDWxwiV5q4ashD6aw1R56jVmtzFqo6O6GK3I6bpeHsdk2x2hsqsKmGLChMNeN_ZBGbdad95iGThhHz5AY=w960-rw-h720"></object>
   <object data="https://lh3.googleusercontent.com/dn5i-CmwowA9OAGK2RK_-O9Mqftc_RLpcevbqQ3chltGmodCAjYlS7XdEdxXp9wzZQvrvc3_xe_XWltWaHmrnMHr-cg8oUKgG08HYLfQv2wRNbdng3NU5433QHYyU5Fm9-8CFZEIaug=w960-rw-h720"></object>
   <object data="https://lh3.googleusercontent.com/A4U5EXwNLriDRP7vvpbgqOcghiVFeXk9S8gYBxETZmUAegYu3OjBC-XmkHs4SlT1E-WM2baML-_MRd3d8DPL8-lj0mTgZ42PN7GejcmXnwttVetLbYpfBInOrjHt8c06xpshG7jaIAY=w960-rw-h720"></object>
-  <object data="https://lh3.googleusercontent.com/pfN82Ty2wgZJN4NY5AgkXrh7gj7KcSC0hSNBCnr7cGhTCBxN5h50uPAq785MVEew8rzAMbFI_2XoGqs8GljXy2S0Z50On1CXfdlCCSwIOKR8-AFFW--kg_Y7zoI89yxDFfag0CHdLf8=w960-rw-h720"></object>
+  <object data="https://lh3.googleusercontent.com/pfN82Ty2wgZJN4NY5AgkXrh7gj7KcSC0hSNBCnr7cGhTCBxN5h50uPAq785MVEew8rzAMbFI_2XoGqs8GljXy2S0Z50On1CXfdlCCSwIOKR8-AFFW--kg_Y7zoI89yxDFag0CHdLf8=w960-rw-h720"></object>
   <object data="https://lh3.googleusercontent.com/Hf9TBaA76rU9zFL2SNrFur52AcVTsHRPWmcxF9qzz9zahML4ueDy9P8TDcrSTjFt0NIr9WoL2U33yvkrAlXsnhzg71LUwM2nR6VrIWAGvKFhBIjrazqQgSLHhB548T-7_7g1NQNqN7s=w960-rw-h720"></object>
   <object data="https://lh3.googleusercontent.com/JiHQE1tAKRO_jil_gfDbMQ4hrWIsDMculXL1plrbg30LyIHqyz9fCeQteZ7QlPcFJlp6WxDvIlNTRDQ8T54Z6l8NmSmQc6IRQJ3rVwyRApNh1_p0m6VL81ZTHXj7kzzuWhpn1UAHNGU=w960-rw-h720"></object>
   <object data="https://lh3.googleusercontent.com/kqkJg8xwdFpQrPp6WBnZhKftz8xhHp-q4p4lcPk9FipbY1UitCfreyVuHkXSQq_behb436SqB0HUBzDOv9aUZXJ6YHyJH0SzAFulk5DGNdijopwSkL6Ngodp52P-lXEoByXvEkGDdIQ=w960-rw-h720"></object>

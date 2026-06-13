@@ -6,6 +6,20 @@ categories: [Sunset, Sunrise, Church, Sea, Beach, Culture, History, Island, Monu
 image: assets/images/diu.webp
 rating: 5
 tags: [Dadra and Nagar Haveli and Daman and Diu]
+toc: true
+quick_facts:
+  state: "Dadra and Nagar Haveli and Daman and Diu"
+  best_time: "October to March"
+  duration: "2-3 Days"
+  airport: "Diu Airport (7 km)"
+  railway: "Veraval Junction Railway Station (87 km)"
+faq:
+  - question: "What are the main tourist attractions in Diu?"
+    answer: "Diu offers a variety of attractions, including the massive 16th-century Portuguese Diu Fort, St. Paul's Church (a masterpiece of Baroque architecture), the naturally carved Naida Caves, the Gangeshwar Mahadev Temple (where Shiva Lingas are washed by sea waves), and pristine beaches like Nagoa and Ghoghla."
+  - question: "Is alcohol legal in Diu?"
+    answer: "Yes, unlike the neighboring state of Gujarat where alcohol consumption is strictly banned, Diu is a Union Territory where alcohol is legal and widely available. This makes Diu a popular weekend destination for travelers looking to relax and enjoy the coastal vibe."
+  - question: "What are the best beaches in Diu for water sports and swimming?"
+    answer: "Nagoa Beach is the most popular beach in Diu, known for its unique Hoka trees, horseshoe shape, and calm waters perfect for swimming, jet-skiing, parasailing, and banana boat rides. Ghoghla Beach is another excellent option, which is cleaner, quieter, and has also been awarded the prestigious Blue Flag certification."
 ---
 Diu, a small island off the coast of Gujarat, India, is a captivating blend of Portuguese colonial charm and Indian vibrancy.
 
@@ -39,7 +53,7 @@ Visit the Gangeshwar Mahadev Temple, an ancient temple dedicated to Lord Shiva, 
 Spend the afternoon exploring the local markets, browsing through handicrafts and souvenirs.
 Conclude your trip with a memorable sunset at a secluded spot along the coast.
 
-## Tips for Visiting Diu:
+## FAQs and Tips for Visiting Diu
 
 The best time to visit Diu is between October and March when the weather is pleasant.
 Be sure to dress modestly when visiting religious sites.

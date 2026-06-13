@@ -6,6 +6,20 @@ categories: [Sea, Beach, Coral, Island]
 image: assets/images/agatti.webp
 rating: 5
 tags: [Lakshadweep]
+toc: true
+quick_facts:
+  state: "Lakshadweep"
+  best_time: "October to May"
+  duration: "4-5 Days"
+  airport: "Agatti Airport, Agatti (0 km)"
+  railway: "Ernakulam Junction Railway Station, Kochi (460 km)"
+faq:
+  - question: "Do I need a permit to visit Agatti Island?"
+    answer: "Yes, a mandatory Entry Permit issued by the Lakshadweep Administration is required for all tourists (both Indian and foreign nationals) to visit Agatti."
+  - question: "How can I reach Agatti Island?"
+    answer: "The most convenient way to reach Agatti is by taking a flight from Cochin International Airport (COK) to Agatti Airport (AGX), which is the only airport in Lakshadweep. Alternatively, passenger ships operate from Kochi port."
+  - question: "What water sports are popular in Agatti?"
+    answer: "Agatti is famous for its stunning coral reefs and calm lagoons. Popular water sports include scuba diving, snorkeling, kayaking, glass-bottom boat rides, and windsurfing."
 ---
 Agatti has one of the most beautiful lagoons in Lakshadweep. The airport is built on this island. From the aircraft, as one approaches for a landing, one gets a breath-taking view of the airstrip on the island. Agatti is the virtual gateway to the islands. A 20-bed tourist complex with all modern amenities has been set up here. Indian Airlines operate flight to Agatti making it one of the most accessible islands in Lakshadweep
 

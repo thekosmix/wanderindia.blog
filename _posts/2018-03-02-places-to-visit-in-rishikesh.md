@@ -6,6 +6,20 @@ categories: [ River, Water Sports ]
 image: assets/images/rishikesh.webp
 rating: 4
 tags: [Uttarakhand]
+toc: true
+quick_facts:
+  state: "Uttarakhand"
+  best_time: "October to March"
+  duration: "2-3 Days"
+  airport: "Jolly Grant Airport, Dehradun (20 km)"
+  railway: "Yog Nagari Rishikesh Railway Station (2 km)"
+faq:
+  - question: "What is Rishikesh famous for?"
+    answer: "Rishikesh is internationally known as the 'Yoga Capital of the World' and is famous for its spiritual ashrams, temples, the evening Ganga Aarti, and adventure sports like white-water rafting and bungee jumping."
+  - question: "How do I reach Rishikesh?"
+    answer: "Rishikesh is well-connected by road, rail, and air. The nearest airport is Jolly Grant Airport in Dehradun (about 20 km away). It also has its own railway station (Yog Nagari Rishikesh), and the major railhead Haridwar Junction is just 25 km away."
+  - question: "Is alcohol and non-vegetarian food allowed in Rishikesh?"
+    answer: "No, Rishikesh is a holy pilgrimage town. By law, both alcohol and non-vegetarian food are strictly banned within the city limits. Only vegetarian food is served."
 ---
 Rishikesh, also spelt as Hrishikesh, is a town in Dehradun district of Uttarakhand. It's Located in the foothills of the Himalayas in northern India.
 

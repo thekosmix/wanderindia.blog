@@ -6,6 +6,20 @@ categories: [ Monuments, Peaks, Monasteries, Valley ]
 image: assets/images/leh.webp
 rating: 5
 tags: [Ladakh]
+toc: true
+quick_facts:
+  state: "Ladakh"
+  best_time: "June to September"
+  duration: "5-7 Days"
+  airport: "Kushok Bakula Rimpochee Airport, Leh (4 km)"
+  railway: "Jammu Tawi Railway Station (680 km)"
+faq:
+  - question: "How many days are needed to acclimatize in Leh before starting activities?"
+    answer: "It is highly recommended to rest completely for the first 24 to 36 hours after arriving in Leh (especially if flying in) to adapt to the high altitude of 3,500 meters. This prevents Acute Mountain Sickness (AMS) and ensures a safe trip."
+  - question: "What is the best time of year to visit Leh Ladakh?"
+    answer: "The best time to visit Leh is from June to September. During this period, the snow on high-altitude passes has melted, road routes like Manali-Leh and Srinagar-Leh highway are open, and the temperature is pleasant, ranging from 15°C to 30°C."
+  - question: "Do Indian tourists need permits to visit Pangong Lake and Nubra Valley?"
+    answer: "Yes, all tourists, including Indian nationals, require an Inner Line Permit (ILP) or Protected Area Permit (PAP) to visit restricted areas like Nubra Valley, Pangong Tso, and Tso Moriri. These permits can be applied for online or obtained from the DC Office in Leh."
 ---
 You'll truly experience the mamoth Himalayas in Leh. The Valleys are so vast that you can actually feel the emptiness and calmness between two peaks.
 
