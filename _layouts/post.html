@@ -60,7 +60,7 @@ post_class: post-template
             <!-- Post Featured Image -->
             {% if page.image %}
 
-            <img fetchpriority="high" class="featured-image img-fluid" src="{% if page.image contains " ://" %}{{
+            <img fetchpriority="high" class="featured-image img-fluid mx-auto" src="{% if page.image contains " ://" %}{{
                 page.image }}{% else %}{{ site.baseurl }}/{{ page.image }}{% endif %}" alt="{{ page.title }}">
 
             {% endif %}

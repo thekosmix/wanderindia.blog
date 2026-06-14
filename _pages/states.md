@@ -4,27 +4,204 @@ title: States to visit in India
 permalink: /states/
 ---
 
-<div class="row listrecent">
-{% assign sorted_tags = site.tags | sort %}
-{% for category in sorted_tags %}
-<div class="section-title col-md-12 mt-4">
-<h2 id="{{ category[0] | replace: " ","-" }}"> <span class="text-capitalize"><a class="smoothscroll" href="{{site.baseurl}}/places-to-visit-in-{{ category[0] | downcase | replace: " ","-" }}/">{{ category[0] }}</a></span></h2>
-</div>
-
-
-{% comment %}
-    {% assign pages_list = category[1] %}
-    {% for post in pages_list %}
-    {% if post.title != null %}
-    {% if group == null or group == post.group %}
-    {% include postbox.html %}
-    {% endif %}
-    {% endif %}
+<div class="row state-grid mt-4">
+  {% assign sorted_tags = site.tags | sort %}
+  {% for tag in sorted_tags %}
+    {% assign state_name = tag[0] %}
+    {% assign posts = tag[1] %}
+    {% assign post_count = posts | size %}
+    
+    {% comment %} Find the first post with an image to use as the card image {% endcomment %}
+    {% assign state_image = nil %}
+    {% for post in posts %}
+      {% if post.image %}
+        {% assign state_image = post.image %}
+        {% break %}
+      {% endif %}
     {% endfor %}
-    {% assign pages_list = nil %}
-{% endcomment %}
-
-
-{% assign group = nil %}
-{% endfor %}
+    
+    <div class="col-lg-4 col-md-6 mb-4 col-sm-12">
+      <div class="card-state-container">
+        <a href="{{ site.baseurl }}/places-to-visit-in-{{ state_name | downcase | replace: ' ', '-' }}/" class="card-state-link">
+          <div class="card-state-image-box">
+            {% if state_image %}
+              <img src="{% if state_image contains '://' %}{{ state_image }}{% else %}{{ site.baseurl }}/{{ state_image }}{% endif %}" alt="{{ state_name }}" class="card-state-img" loading="lazy" />
+            {% else %}
+              <div class="card-state-img-fallback"></div>
+            {% endif %}
+            <div class="card-state-overlay"></div>
+            <div class="card-state-badge">{{ post_count }} {% if post_count == 1 %}Place{% else %}Places{% endif %}</div>
+          </div>
+          <div class="card-state-content">
+            <h3 class="card-state-title text-capitalize">{{ state_name }}</h3>
+            <div class="card-state-footer">
+              <span class="card-state-explore">Explore State</span>
+              <span class="card-state-arrow">
+                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+                  <line x1="5" y1="12" x2="19" y2="12"></line>
+                  <polyline points="12 5 19 12 12 19"></polyline>
+                </svg>
+              </span>
+            </div>
+          </div>
+        </a>
+      </div>
+    </div>
+  {% endfor %}
 </div>
+
+<style>
+/* Modern CSS Custom variables for States Grid */
+:root {
+  --brand-primary: #00ab6b;
+  --brand-hover: #038252;
+}
+
+.state-grid {
+  margin-top: 1.5rem;
+}
+
+.card-state-container {
+  background: #ffffff;
+  border-radius: 16px;
+  overflow: hidden;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.04);
+  border: 1px solid rgba(0, 0, 0, 0.06);
+  transition: transform 0.3s cubic-bezier(0.25, 0.8, 0.25, 1), box-shadow 0.3s cubic-bezier(0.25, 0.8, 0.25, 1), border-color 0.3s ease;
+  height: 100%;
+}
+
+.card-state-container:hover {
+  transform: translateY(-8px);
+  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.08);
+  border-color: rgba(0, 171, 107, 0.3);
+}
+
+.card-state-link {
+  text-decoration: none !important;
+  color: inherit;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+.card-state-image-box {
+  position: relative;
+  width: 100%;
+  padding-top: 56.25%; /* 16:9 Aspect Ratio */
+  overflow: hidden;
+  background-color: #f7f9fa;
+}
+
+.card-state-img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.6s cubic-bezier(0.25, 0.8, 0.25, 1);
+}
+
+.card-state-container:hover .card-state-img {
+  transform: scale(1.08);
+}
+
+.card-state-img-fallback {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(135deg, var(--brand-primary) 0%, var(--brand-hover) 100%);
+}
+
+.card-state-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(to bottom, rgba(0,0,0,0) 60%, rgba(0,0,0,0.15) 100%);
+  opacity: 0.85;
+  transition: opacity 0.3s ease;
+}
+
+.card-state-badge {
+  position: absolute;
+  top: 14px;
+  right: 14px;
+  background: rgba(255, 255, 255, 0.9);
+  color: #111111;
+  padding: 4px 12px;
+  border-radius: 30px;
+  font-size: 0.75rem;
+  font-weight: 700;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+  letter-spacing: 0.3px;
+  z-index: 2;
+  transition: background 0.3s ease, color 0.3s ease;
+}
+
+.card-state-container:hover .card-state-badge {
+  background: var(--brand-primary);
+  color: #ffffff;
+}
+
+.card-state-content {
+  padding: 1.5rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  flex-grow: 1;
+}
+
+.card-state-title {
+  font-family: inherit;
+  font-size: 1.35rem;
+  font-weight: 700;
+  color: #2c3e50;
+  margin-bottom: 1.25rem;
+  line-height: 1.25;
+  transition: color 0.2s ease;
+}
+
+.card-state-container:hover .card-state-title {
+  color: var(--brand-primary);
+}
+
+.card-state-footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: auto;
+  border-top: 1px solid #f0f0f0;
+  padding-top: 1rem;
+}
+
+.card-state-explore {
+  font-size: 0.85rem;
+  font-weight: 700;
+  color: #7f8c8d;
+  letter-spacing: 0.5px;
+  text-transform: uppercase;
+  transition: color 0.2s ease;
+}
+
+.card-state-container:hover .card-state-explore {
+  color: var(--brand-primary);
+}
+
+.card-state-arrow {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  color: #7f8c8d;
+  transition: transform 0.3s ease, color 0.3s ease;
+}
+
+.card-state-container:hover .card-state-arrow {
+  color: var(--brand-primary);
+  transform: translateX(5px);
+}
+</style>
