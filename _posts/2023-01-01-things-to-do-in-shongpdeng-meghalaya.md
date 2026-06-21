@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Shnongpdeng, Meghalaya"
+description: "Visit Shnongpdeng, Meghalaya. Explore the crystal-clear Umngot River, water sports, riverside camping, and the unique culture of East Khasi Hills."
 author: sid
 categories: [River, Road Trip, Camping, Water Sports]
 image: assets/images/shnongpdeng.webp

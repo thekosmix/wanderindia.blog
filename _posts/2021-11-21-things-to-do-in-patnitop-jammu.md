@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Patnitop, Jammu and Kashmir"
+description: "Explore Patnitop, a scenic hill station in Jammu and Kashmir. Plan trekking, paragliding, skiing, and visit Sanasar Lake and Nathatop."
 author: sid
 categories: [ Shrine, Mountain, Trekking, Resorts ]
 image: assets/images/patnitop.webp

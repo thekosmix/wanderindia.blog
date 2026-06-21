@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Horsley Hills, Andhra Pradesh"
+description: "Discover Horsley Hills, the Ooty of Andhra Pradesh. Plan a relaxing getaway to enjoy scenic viewpoints, pleasant weather, and lush forests."
 author: sid
 categories: [Hill Station, Nature, Park, Weekend Gateway]
 image: assets/images/horsley.webp

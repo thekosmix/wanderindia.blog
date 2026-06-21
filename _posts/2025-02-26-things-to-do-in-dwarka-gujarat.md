@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Dwarka, Gujarat"
+description: "Plan your pilgrimage to Dwarka, Gujarat. Visit the ancient Dwarkadhish Temple, Beyt Dwarka, Nageshwar Jyotirlinga, and sacred coastal sites."
 author: sid
 categories: [Sunset, Sunrise, Pilgrimage, Temple, Sea, Beach, Culture]
 image: assets/images/dwarka.webp

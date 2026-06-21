@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Bali, Indonesia"
+description: "Plan your ultimate vacation to Bali, Indonesia. Explore beautiful beaches, rich Hindu culture, ancient temples, adventure sports, and nightlife."
 author: sid
 categories: [ Sea, Mountain, Culture, Beach ]
 image: assets/images/bali.webp

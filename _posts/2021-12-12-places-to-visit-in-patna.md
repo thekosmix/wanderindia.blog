@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Patna, Bihar"
+description: "Discover Patna, Bihar. Explore historical sites along the Ganges River, the Bihar Museum, Golghar, and learn about the region's ancient heritage."
 author: sid
 categories: [ Monuments, History, Zoo, River ]
 image: assets/images/patna.webp

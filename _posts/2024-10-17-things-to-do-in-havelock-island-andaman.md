@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Havelock Island, Andaman and Nicobar Islands"
+description: "Discover Havelock Island (Swaraj Dweep), Andaman. Visit Radhanagar Beach, try scuba diving, snorkeling, and explore pristine tropical waters."
 author: sid
 categories: [Resorts, Nature, Sea, Long Drive, Beach, Water Sports, Island, Coral, Sunset]
 image: assets/images/havelock-island.webp

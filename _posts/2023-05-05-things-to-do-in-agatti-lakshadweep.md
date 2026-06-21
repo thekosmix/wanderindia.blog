@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Agatti, Lakshadweep"
+description: "Explore Agatti Island, the scenic gateway to Lakshadweep. Enjoy pristine lagoons, white sand beaches, coral reefs, and water adventures."
 author: sid
 categories: [Sea, Beach, Coral, Island]
 image: assets/images/agatti.webp

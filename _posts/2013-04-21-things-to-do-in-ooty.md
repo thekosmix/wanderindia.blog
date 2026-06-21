@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Ooty, Tamil Nadu"
+description: "Guide to Ooty, Tamil Nadu: Explore the Nilgiri hills, lush green tea plantations, colonial architecture, botanical gardens, and scenic viewpoints."
 author: sid
 categories: [ Chill, Long Drive, Mountain ]
 image: assets/images/ooty.webp

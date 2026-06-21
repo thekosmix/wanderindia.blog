@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Jibhi, Himachal Pradesh"
+description: "Discover the hidden gem of Jibhi, Himachal Pradesh. Hike through pine forests, visit Jalori Pass, Jibhi Waterfall, and relax by freshwater streams."
 author: sid
 categories: [Trekking, Mountain, Weekend Getaway, Lake]
 image: assets/images/jibhi.webp

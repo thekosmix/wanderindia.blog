@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Gandikota, Andhra Pradesh"
+description: "Explore Gandikota, the 'Grand Canyon of India' in Andhra Pradesh. Marvel at the stunning gorge of Penna River and the historic Gandikota Fort."
 author: sid
 categories: [Resorts, Nature, River, Long Drive, Dam, Sunset]
 image: assets/images/gandikota.webp

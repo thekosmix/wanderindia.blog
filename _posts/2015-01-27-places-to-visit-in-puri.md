@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Puri, Odisha"
+description: "A comprehensive travel guide to Puri, Odisha. Explore the holy Jagannath Temple, the beautiful golden beach, local handicrafts, and cultural heritage."
 author: sid
 categories: [ Pilgrimage, Temple, Sea, Beach, History ]
 image: assets/images/puri.webp

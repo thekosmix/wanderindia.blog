@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Kochi, Kerala"
+description: "Explore Kochi (Cochin), Kerala. A historic port city offering a blend of beautiful backwaters, beaches, Chinese fishing nets, and colonial history."
 redirect_from:
   - /places-to-visit-in-cochin-kerala/
 author: sid

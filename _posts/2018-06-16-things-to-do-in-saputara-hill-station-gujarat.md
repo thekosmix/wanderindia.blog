@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Saputara, Gujarat"
+description: "Explore Saputara, the picturesque hill station of Gujarat nestled in the Sahyadri range. Discover misty hills, lakes, and gardens."
 redirect_from:
   - /places-to-visit-near-saputara-Gujarat/
 author: sid

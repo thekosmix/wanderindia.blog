@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Visakhapatnam, Andhra Pradesh"
+description: "Plan your trip to Visakhapatnam (Vizag), Andhra Pradesh. Discover pristine beaches, scenic hills, war memorials, and local temples."
 author: sid
 categories: [ Chill, Beach, Sea, War Memorial ]
 image: assets/images/vizag.webp

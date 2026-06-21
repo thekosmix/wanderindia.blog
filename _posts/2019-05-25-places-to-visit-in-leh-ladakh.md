@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Leh, Ladakh"
+description: "Plan your adventure to Leh, Ladakh. Experience the mighty Himalayas, deep valleys, high-altitude motorable roads, monasteries, and lakes."
 author: sid
 categories: [ Monuments, Peaks, Monasteries, Valley ]
 image: assets/images/leh.webp

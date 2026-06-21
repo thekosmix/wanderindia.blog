@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Port Blair, Andaman and Nicobar Islands"
+description: "Explore Port Blair, Andaman. Discover the historic Cellular Jail, Ross Island ruins, local museum exhibits, and exciting water sports."
 author: sid
 categories: [Resorts, Nature, Sea, Long Drive, Beach, Water Sports, Island, Coral]
 image: assets/images/port-blair.webp

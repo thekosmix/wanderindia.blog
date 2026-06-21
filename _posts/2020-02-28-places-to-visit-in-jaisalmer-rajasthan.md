@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Jaisalmer, Rajasthan"
+description: "Discover Jaisalmer, the Golden City of Rajasthan. Explore the living sandstone fort, Thar desert camel safaris, Jain temples, and ornate havelis."
 author: sid
 categories: [ Monuments, Palaces ]
 image: assets/images/jaisalmer.webp

@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Amritsar, Punjab"
+description: "Plan your trip to Amritsar, Punjab. Read our guide on visiting the Golden Temple, Wagah Border, Jallianwala Bagh, and tasting local Punjabi food."
 author: sid
 categories: [ History, Monuments, Pilgrimage, Temple ]
 image: assets/images/amritsar.webp

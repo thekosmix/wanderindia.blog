@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Guwahati, Assam"
+description: "Plan your trip to Guwahati, Assam. Discover Kamakhya Temple, cruise the Brahmaputra River, and explore the gateway to Northeast India's wildlife."
 author: sid
 categories: [Temple, War Memorial, Nature]
 image: assets/images/guwahati.webp

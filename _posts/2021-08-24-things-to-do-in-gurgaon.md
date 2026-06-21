@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Gurugram, Haryana"
+description: "Discover the best things to do in Gurugram (Gurgaon), Haryana. Explore modern architectures, luxury resorts, restaurants, and active nightlife."
 redirect_from:
   - /things-to-do-in-gurugram-haryana/
 author: sid

@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Junagadh, Gujarat"
+description: "Explore the historic city of Junagadh, Gujarat. Discover the magnificent Mahabat Maqbara, Uparkot Fort, Buddhist caves, and Girnar hills."
 author: sid
 categories: [ Zoo, Wild Animals ]
 image: assets/images/junagadh.webp

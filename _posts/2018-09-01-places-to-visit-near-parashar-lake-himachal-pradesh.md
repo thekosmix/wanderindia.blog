@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Parashar Lake, Himachal Pradesh"
+description: "Discover the mystical Parashar Lake in Himachal Pradesh, featuring a floating island and an ancient three-story temple dedicated to Sage Prashar."
 author: sid
 categories: [ Lake, Mountain, Chill, Weekend Getaway ]
 image: assets/images/parashar.webp

@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Minicoy, Lakshadweep"
+description: "Visit Minicoy Island, the southernmost gem of Lakshadweep. Experience its unique Maldivian culture, historic lighthouse, and turquoise lagoons."
 author: sid
 categories: [Sea, Beach, Coral, Island, Sunset]
 image: assets/images/minicoy.webp

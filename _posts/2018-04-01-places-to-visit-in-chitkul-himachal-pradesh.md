@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Chitkul, Himachal Pradesh"
+description: "Travel guide to Chitkul, the last inhabited village near the Indo-Tibetan border in Himachal Pradesh. Experience snow, valleys, and river vistas."
 author: sid
 categories: [ Snow, Mountain, Weekend Getaway ]
 image: assets/images/chitkul.webp

@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "East Sikkim, Sikkim"
+description: "Explore East Sikkim, featuring Gangtok, Tsomgo Lake, Nathula Pass, and stunning viewpoints of the Himalayan peaks. Read our full travel guide."
 author: sid
 categories: [Mountain, Valley, Road Trip]
 image: assets/images/east-sikkim.webp

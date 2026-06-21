@@ -1,12 +1,12 @@
 ---
 layout: post
 title:  "Trip planning with JustWravel"
+description: "Explore the advantages of planning your group travel, treks, and weekend getaways with JustWravel for a hassle-free experience."
 author: sid
 #categories: [ Travel, Road Trip, Trekking, Weekend Getaway ]
 image: assets/images/justwravel.webp
 featured: true
 hidden: true
-desc: Benefits of planning a trip with Justwravel
 rating: 5
 ---
 

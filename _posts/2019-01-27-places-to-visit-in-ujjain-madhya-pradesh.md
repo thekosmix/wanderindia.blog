@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Ujjain, Madhya Pradesh"
+description: "Plan your pilgrimage to Ujjain, Madhya Pradesh. Visit the holy Mahakaleshwar Jyotirlinga temple, Kshipra River ghats, and other ancient sacred sites."
 author: sid
 categories: [ River, Pilgrimage, Temple ]
 image: assets/images/ujjain.webp

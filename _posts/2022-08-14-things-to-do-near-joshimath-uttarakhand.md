@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Joshimath-Ghangaria, Uttarakhand"
+description: "Guide to Joshimath and Ghangaria, Uttarakhand. Perfect base camps for trekking to the Valley of Flowers and Hemkund Sahib in the Himalayas."
 redirect_from:
   - /places-to-visit-in-joshimath-uttarakhand/
   - /places-to-visit-near-ghangaria-uttarakhand/

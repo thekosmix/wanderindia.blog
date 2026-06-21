@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Jaipur, Rajasthan"
+description: "Plan your trip to Jaipur, Rajasthan. Explore the historic Pink City's grand palaces, Amer Fort, Hawa Mahal, local bazaars, and rich heritage."
 author: sid
 categories: [ Monuments, Palaces ]
 image: assets/images/jaipur.webp

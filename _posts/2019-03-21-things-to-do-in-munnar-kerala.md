@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Munnar, Kerala"
+description: "Experience the lush green tea plantations, misty mountains, waterfalls, and exotic wildlife in Munnar, the famous hill station of Kerala."
 author: sid
 categories: [ Forest, Spices, Tea Garden ]
 image: assets/images/munnar.webp

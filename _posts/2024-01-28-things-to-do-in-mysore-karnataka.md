@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Mysuru, Karnataka"
+description: "Explore Mysuru (Mysore), the cultural capital of Karnataka. Visit the grand Mysore Palace, Chamundi Hills, Brindavan Gardens, and heritage sites."
 redirect_from:
   - /things-to-do-in-mysuru-karnataka/
 author: sid

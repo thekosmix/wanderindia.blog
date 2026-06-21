@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Rishikesh, Uttarakhand"
+description: "Explore Rishikesh, Uttarakhand, the Yoga Capital of the World. Find the best places for rafting, spiritual ashrams, temples, and Ganga Aarti."
 author: sid
 categories: [ River, Water Sports ]
 image: assets/images/rishikesh.webp

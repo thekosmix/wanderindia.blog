@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Sasan Gir, Gujarat"
+description: "Visit Sasan Gir National Park in Gujarat, the last refuge of the Asiatic Lion. Discover wildlife safaris, diverse flora, fauna, and jungle resorts."
 redirect_from:
   - /places-to-visit-in-sasan-gir-Gujarat/
   - /things-to-do-in-gir-national-park-Gujarat/

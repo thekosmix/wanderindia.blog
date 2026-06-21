@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Udaipur, Rajasthan"
+description: "Explore Udaipur, the City of Lakes in Rajasthan. Visit the majestic City Palace, Lake Pichola, Jag Mandir, and other historic monuments."
 author: sid
 categories: [ Monuments, Lake, Palaces ]
 image: assets/images/udaipur.webp

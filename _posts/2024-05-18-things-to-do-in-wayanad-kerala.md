@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Wayanad, Kerala"
+description: "Guide to Wayanad, Kerala: Plan wildlife safaris at Wayanad Sanctuary, trek to Chembra Peak, visit Edakkal Caves, and enjoy scenic waterfalls."
 author: sid
 categories: [Resorts, Nature, Lake, Mountain, Long Drive, Tea Garden]
 image: assets/images/wayanad.webp

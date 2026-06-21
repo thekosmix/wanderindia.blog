@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Dhanaulti-Tehri, Uttarakhand"
+description: "Escape to Dhanaulti-Tehri, Uttarakhand. A peaceful pit stop near Mussoorie surrounded by dense pine forests and offering serene mountain views."
 redirect_from:
   - /places-to-visit-in-dhanaulti-uttarakhand/
   - /places-to-visit-near-tehri-uttarakhand/

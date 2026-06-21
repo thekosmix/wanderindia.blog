@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Nainital, Uttarakhand"
+description: "A complete guide to Nainital, Uttarakhand. Explore the scenic Naini Lake, snow viewpoints, lush hills, and top local tourist attractions."
 author: sid
 categories: [ Lake, Mountain, Activities ]
 image: assets/images/nainital.webp

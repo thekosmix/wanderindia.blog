@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Neil Island, Andaman and Nicobar Islands"
+description: "Find peace on Neil Island (Shaheed Dweep), Andaman. Relax at Bharatpur and Laxmanpur beaches, witness natural rock bridges, and enjoy sea views."
 author: sid
 categories: [Resorts, Nature, Sea, Long Drive, Beach, Water Sports, Island, Coral, Sunset]
 image: assets/images/neil-island.webp

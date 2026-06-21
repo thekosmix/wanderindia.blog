@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Coorg, Karnataka"
+description: "Discover Coorg (Kodagu), Karnataka—the 'Scotland of India'. Explore coffee plantations, Abbey Falls, Raja's Seat, and experience local Kodava culture."
 redirect_from:
   - /things-to-do-in-madikeri-karnataka/
   - /things-to-do-in-kodagu-karnataka/

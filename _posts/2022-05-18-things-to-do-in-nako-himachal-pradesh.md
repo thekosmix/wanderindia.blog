@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Nako, Himachal Pradesh"
+description: "Discover Nako, a quiet village on the Indo-Tibetan border in Himachal Pradesh. Explore Nako Lake, the ancient monastery, and pristine mountain views."
 author: sid
 categories: [Chill, Long Drive, Mountain, Snow, Long trip, Monasteries]
 image: assets/images/nako.webp

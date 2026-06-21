@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "North Sikkim, Sikkim"
+description: "Discover North Sikkim. Experience breathtaking views of Gurudongmar Lake, Yumthang Valley of Flowers, Lachen, Lachung, and snow-clad mountains."
 author: sid
 categories: [Mountain, Valley, Road Trip]
 image: assets/images/north-sikkim.webp

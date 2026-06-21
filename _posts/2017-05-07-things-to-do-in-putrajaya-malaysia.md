@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Putrajaya, Malaysia"
+description: "Explore the smart administrative city of Putrajaya, Malaysia. Marvel at the stunning modern architecture, pink Putra Mosque, and scenic bridges."
 author: sid
 categories: [ Sea, Mountain, Culture, Beach, Modern Architecture ]
 image: assets/images/putrajaya.webp

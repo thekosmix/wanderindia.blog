@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Bengaluru, Karnataka"
+description: "Discover Bengaluru, Karnataka—the Silicon Valley of India. Explore majestic palaces, beautiful parks like Lalbagh, and a vibrant cafe culture."
 redirect_from:
   - /places-to-visit-in-bangalore-karnataka/
 author: sid

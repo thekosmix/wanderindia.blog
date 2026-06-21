@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Alleppey, Kerala"
+description: "Discover the backwaters of Alleppey (Alappuzha), Kerala. Experience stay in traditional houseboats, beautiful beaches, and peaceful village life."
 redirect_from:
   - /places-to-visit-in-alappuzha-kerala/
 author: sid

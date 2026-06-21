@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Darjeeling, West Bengal"
+description: "Discover Darjeeling, West Bengal. Plan visits to lush green tea plantations, Tiger Hill sunrise, the heritage Toy Train, and botanical gardens."
 author: sid
 categories: [Monuments, Hill Station, Tea Garden]
 image: assets/images/darjeeling.webp

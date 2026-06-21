@@ -1,12 +1,12 @@
 ---
 layout: post
 title:  "Trip planning with Travel Triangle"
+description: "Discover the benefits, pros, and cons of planning your customized family holidays and tours using the Travel Triangle marketplace."
 author: sid
 #categories: [ Travel, Road Trip, Weekend Getaway ]
 image: assets/images/tt.webp
 featured: true
 hidden: true
-desc: Benefits of planning a trip with Travel Triangle
 rating: 4
 ---
 

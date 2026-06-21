@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Bhavanisagar, Tamil Nadu"
+description: "Visit Bhavanisagar in Tamil Nadu. Explore the massive Bhavanisagar Dam, its vast reservoir with Ooty mountain backdrops, and scenic rural drives."
 author: sid
 categories: [Dam, Reservoir, Park]
 image: assets/images/bhavanisagar.webp

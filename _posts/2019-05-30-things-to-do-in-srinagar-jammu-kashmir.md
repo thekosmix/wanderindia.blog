@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Srinagar, Jammu and Kashmir"
+description: "Explore Srinagar, Jammu and Kashmir. Discover the beautiful Dal Lake, Mughal gardens, shikara rides, houseboats, and snow-capped valley views."
 author: sid
 categories: [ Monuments, Peaks, Valley, Garden ]
 image: assets/images/srinagar.webp
