@@ -281,14 +281,6 @@ https://search.google.com/structured-data/testing-tool/u/0/
       "@id": "{{ site.url }}{{ site.baseurl }}{{ page.url }}#destination",
       "name": {{ page.title | split: ',' | first | strip | jsonify }},
       "description": {% if page.description %}{{ page.description | jsonify }}{% else %}{{ content | strip_html | truncate: 160 | strip_newlines | jsonify }}{% endif %},
-      {% if page.rating %}
-      "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "{{ page.rating }}",
-        "bestRating": "5",
-        "ratingCount": "100"
-      },
-      {% endif %}
       "containedInPlace": {
         "@type": "AdministrativeArea",
         "name": {{ page.tags | first | default: 'India' | jsonify }}
