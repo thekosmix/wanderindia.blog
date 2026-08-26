@@ -7,8 +7,7 @@
             <a href="{{ site.baseurl }}{{ post.url }}">
                 {% if post.image %}
 
-                <img class="img-fluid" src="{% if post.image contains " ://" %}{{ post.image }}{% else %}{{ site.baseurl
-                    }}/{{ post.image }}{% endif %}" alt="{{ post.title }}">
+                <img class="img-fluid" src="{% if post.image contains "://" %}{{ post.image }}{% elsif site.cdnurl %}{{ site.cdnurl }}/{{ post.image }}{% else %}{{ site.baseurl }}/{{ post.image }}{% endif %}" alt="{{ post.title }}">
 
                 {% endif %}
             </a>

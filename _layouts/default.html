@@ -18,14 +18,14 @@
     <meta name="robots" content="max-snippet:20, max-image-preview:large">
     <meta name="robots" content="max-snippet:20, max-image-preview:large">
 
-    <link rel="icon" href="{{ site.baseurl }}/{{ site.favicon }}">
+    <link rel="icon" href="{% if site.cdnurl %}{{ site.cdnurl }}/{{ site.favicon }}{% else %}{{ site.baseurl }}/{{ site.favicon }}{% endif %}">
 
     {% seo %}
 
     {% if page.image %}
     {% else %}
-    <meta property="og:image" content="{{ site.baseurl }}/assets/images/google-location-marker.webp" />
-    <meta name="twitter:image" content="{{ site.baseurl }}/assets/images/google-location-marker.webp" />
+    <meta property="og:image" content="{% if site.cdnurl %}{{ site.cdnurl }}/assets/images/google-location-marker.webp{% else %}{{ site.baseurl }}/assets/images/google-location-marker.webp{% endif %}" />
+    <meta name="twitter:image" content="{% if site.cdnurl %}{{ site.cdnurl }}/assets/images/google-location-marker.webp{% else %}{{ site.baseurl }}/assets/images/google-location-marker.webp{% endif %}" />
     {% endif %}
 
 
@@ -108,7 +108,7 @@
 
             <!-- Begin Logo -->
             <a class="navbar-brand" href="{{ site.baseurl }}/">
-                <img src="{{ site.baseurl }}/{{ site.logo }}" alt="{{ site.name }}" fetchpriority="high"
+                <img src="{% if site.cdnurl %}{{ site.cdnurl }}/{{ site.logo }}{% else %}{{ site.baseurl }}/{{ site.logo }}{% endif %}" alt="{{ site.name }}" fetchpriority="high"
                     loading="eager">
             </a>
             <!-- End Logo -->
@@ -175,7 +175,7 @@
 ================================================== -->
             <div class="alertbar">
                 <div class="container text-center">
-                    <span><img src="{{ site.baseurl }}/{{ site.logo }}" alt="{{site.title}}"> &nbsp; Never miss a
+                    <span><img src="{% if site.cdnurl %}{{ site.cdnurl }}/{{ site.logo }}{% else %}{{ site.baseurl }}/{{ site.logo }}{% endif %}" alt="{{site.title}}"> &nbsp; Never miss a
                         <b>story</b> from us, subscribe to our newsletter</span>
                     <form action="{{site.mailchimp-list}}" method="post" name="mc-embedded-subscribe-form"
                         class="wj-contact-form validate" target="_blank" novalidate>

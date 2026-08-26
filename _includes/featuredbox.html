@@ -8,8 +8,7 @@
                     <div class="wrapthumbnail">
                         <a aria-label="{{ post.title }}" href="{{ site.baseurl }}{{ post.url }}">
                             <img alt="{{ post.title }}" class="featured-box-img-cover" align="left"
-                                src="{% if post.image contains " ://" %}{{ post.image }}{% else %}{{ site.baseurl }}/{{
-                                post.image }}{% endif %}" fetchpriority="high" loading="eager">
+                                src="{% if post.image contains "://" %}{{ post.image }}{% elsif site.cdnurl %}{{ site.cdnurl }}/{{ post.image }}{% else %}{{ site.baseurl }}/{{ post.image }}{% endif %}" fetchpriority="high" loading="eager">
                         </a>
                     </div>
                 </div>
