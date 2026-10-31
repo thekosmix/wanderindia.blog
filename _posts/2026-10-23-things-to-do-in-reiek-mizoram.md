@@ -62,7 +62,7 @@ Carry light woolens or windcheater jackets, as the winds atop the peak can get b
 Mizoram Tourism's cafeteria at the resort serves freshly prepared meals, tea, and snacks; ordering in advance upon arrival is recommended.
 
 <div class="pa-carousel-widget" style="width:100%; height:480px; display:none;"
-  data-link="https://photos.app.goo.gl/Ag3dLbstyha8Cs488"
+  data-link="https://mizoramtourism.com/top-destination/118"
   data-title="Reiek, Mizoram"
   data-description="Experience Reiek, Mizoram's premier trekking destination. Trek to the dramatic cliffs of Reiek Peak, explore the Heritage Village, and view Bangladesh plains."
   data-delay="3">
