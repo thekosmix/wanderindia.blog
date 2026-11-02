@@ -6,7 +6,7 @@ redirect_from:
   - /places-to-visit-in-dhanaulti-uttarakhand/
   - /places-to-visit-near-tehri-uttarakhand/
 author: sid
-categories: [Man-made Lake, Chill, Mountain, Weekend Getaway, Dam, Reservoir]
+categories: [ Hill Station, Mountain, Lakes & Dams, Weekend Getaway ]
 image: assets/images/dhanaulti.webp
 rating: 4
 tags: [Uttarakhand]

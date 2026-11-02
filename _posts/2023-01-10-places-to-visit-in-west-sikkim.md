@@ -3,7 +3,7 @@ layout: post
 title:  "West Sikkim, Sikkim"
 description: "Travel guide to West Sikkim. Discover Pelling, Pemayangtse Monastery, Rabdentse Ruins, Khecheopalri Lake, and views of Mount Kanchenjunga."
 author: sid
-categories: [Mountain, Valley, Road Trip, Monuments]
+categories: [ Mountain, Valley, Road Trip, Monuments & Forts ]
 image: assets/images/west-sikkim.webp
 rating: 4
 tags: [Sikkim]

@@ -3,7 +3,7 @@ layout: post
 title:  "Cherrapunji, Meghalaya"
 description: "Explore Cherrapunji (Sohra), Meghalaya. Discover spectacular waterfalls like Nohkalikai, ancient caves, living root bridges, and lush landscapes."
 author: sid
-categories: [Rain, Nature]
+categories: [ Waterfalls, Nature, Hill Station, Scenic Viewpoints ]
 image: assets/images/cherrapunji.webp
 rating: 4
 tags: [Meghalaya]

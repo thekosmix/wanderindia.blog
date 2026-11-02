@@ -3,7 +3,7 @@ layout: post
 title:  "Falkawn, Mizoram"
 description: "Step back into traditional tribal life at Falkawn, Mizoram. Explore the authentic Mizo Model Village, the historic Zawlbuk, chieftain's quarters, and scenic hills."
 author: sid
-categories: [Culture, History, Mountain, Hill Station]
+categories: [ Culture, History, Mountain, Hill Station ]
 image: assets/images/falkawn.webp
 rating: 5
 tags: [Mizoram]

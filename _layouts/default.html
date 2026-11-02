@@ -207,13 +207,13 @@
                     {% if categories_list.first[0] == null %}
                     {% for category in categories_list %}
                     <a class="mt-1 mb-1"
-                        href="{{site.baseurl}}/trips-and-travel-categories/{{ category | url_escape | strip | downcase | replace: ' ', '-' }}/">{{
+                        href="{{site.baseurl}}/trips-and-travel-categories/{{ category | slugify }}/">{{
                         category | camelcase }} ({{ site.tags[category].size }})</a>
                     {% endfor %}
                     {% else %}
                     {% for category in categories_list %}
                     <a class="mt-1 mb-1"
-                        href="{{site.baseurl}}/trips-and-travel-categories/{{ category[0] | url_escape | strip | downcase | replace: ' ', '-' }}/">{{
+                        href="{{site.baseurl}}/trips-and-travel-categories/{{ category[0] | slugify }}/">{{
                         category[0] | camelcase }} ({{ category[1].size }})</a>
                     {% endfor %}
                     {% endif %}

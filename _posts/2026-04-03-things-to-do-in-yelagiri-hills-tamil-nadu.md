@@ -3,7 +3,7 @@ layout: post
 title:  "Yelagiri Hills, Tamil Nadu"
 description: "Escape to Yelagiri Hills, Tamil Nadu. A serene, less commercialized hill station perfect for boating, nature walks, and pleasant weather."
 author: sid
-categories: [Hill Station, Lake, Trekking, Nature, Park]
+categories: [ Hill Station, Lakes & Dams, Trekking, Nature, Gardens & Parks ]
 image: assets/images/yelagiri.webp
 rating: 4
 tags: [Tamil Nadu]

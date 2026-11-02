@@ -3,7 +3,7 @@ layout: post
 title:  "Thenzawl, Mizoram"
 description: "Discover Thenzawl, Mizoram's handloom and waterfall haven. Marvel at soaring Vantawng Falls, walk behind Tuirihiau Falls, and explore handwoven tribal textiles."
 author: sid
-categories: [Waterfall, Nature, Mountain, Hill Station, Culture]
+categories: [ Hill Station, Mountain, Waterfalls, Culture, Nature ]
 image: assets/images/thenzawl.webp
 rating: 5
 tags: [Mizoram]

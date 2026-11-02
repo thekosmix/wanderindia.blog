@@ -3,7 +3,7 @@ layout: post
 title:  "Vrindavan, Uttar Pradesh"
 description: "Discover Vrindavan, Uttar Pradesh, the holy town of Lord Krishna. Explore famous temples like Banke Bihari, Prem Mandir, and the spiritual Yamuna ghats."
 author: sid
-categories: [ Temple, River, Pilgrimage ]
+categories: [ Places of Worship, River & Backwaters, Pilgrimage ]
 image: assets/images/vrindavan.webp
 rating: 3.5
 tags: [Uttar Pradesh]

@@ -3,7 +3,7 @@ layout: post
 title:  "Ahmedabad, Gujarat"
 description: "Plan a perfect 2-day trip to Ahmedabad, Gujarat. Explore Sabarmati Ashram, Adalaj Stepwell, heritage markets, and delicious Gujarati street food."
 author: sid
-categories: [Temple, River-front, Weekend Getaway, History, Park]
+categories: [ Places of Worship, History, River & Backwaters, Gardens & Parks, Weekend Getaway ]
 image: assets/images/ahmedabad.webp
 rating: 4
 tags: [Gujarat]

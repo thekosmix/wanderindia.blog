@@ -5,7 +5,7 @@ description: "Explore Saputara, the picturesque hill station of Gujarat nestled 
 redirect_from:
   - /places-to-visit-near-saputara-Gujarat/
 author: sid
-categories: [ Mountain, Hill Station,  Weekend Getaway ]
+categories: [ Hill Station, Mountain, Nature, Weekend Getaway ]
 image: assets/images/saputara.webp
 rating: 4.5
 tags: [Gujarat]

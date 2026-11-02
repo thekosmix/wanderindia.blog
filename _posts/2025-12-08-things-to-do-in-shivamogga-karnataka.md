@@ -3,7 +3,7 @@ layout: post
 title:  "Shivamogga, Karnataka"
 description: "Discover Shivamogga (Shimoga), Karnataka—the 'Gateway to Malnad'. Explore Jog Falls, dense forests, wildlife safaris, and rich biodiversity."
 author: sid
-categories: [Falls, Sunset, Sunrise, Mountain, Peak, Zoo, Safari]
+categories: [ Waterfalls, Mountain, Wildlife & Safari, Scenic Viewpoints, Nature ]
 image: assets/images/shiva.webp
 rating: 4.5
 tags: [Karnataka]

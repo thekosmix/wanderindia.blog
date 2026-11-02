@@ -3,7 +3,7 @@ layout: post
 title:  "Mathura, Uttar Pradesh"
 description: "Visit Mathura, Uttar Pradesh, the sacred birthplace of Lord Krishna. Explore Sri Krishna Janmabhoomi, Yamuna ghats, and ancient historic temples."
 author: sid
-categories: [ Pilgrimage, History ]
+categories: [ Pilgrimage, Places of Worship, History, Culture ]
 image: assets/images/mathura.webp
 rating: 3.5
 tags: [Uttar Pradesh]

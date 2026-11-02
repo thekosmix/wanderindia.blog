@@ -3,7 +3,7 @@ layout: post
 title:  "Hampi, Karnataka"
 description: "A comprehensive guide to Hampi, Karnataka. Explore the UNESCO World Heritage ruins, ancient Virupaksha Temple, and unique boulder landscapes."
 author: sid
-categories: [Resorts, Nature, Long Drive, Water Sports, Sunset, Monuments, History, Dam, Culture]
+categories: [ Monuments & Forts, History, Culture, Places of Worship, Scenic Viewpoints ]
 image: assets/images/hampi.webp
 rating: 5
 tags: [Karnataka]

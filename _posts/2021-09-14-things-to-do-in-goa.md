@@ -3,7 +3,7 @@ layout: post
 title:  "Goa, India"
 description: "Guide to Goa, India: Explore sandy beaches from Baga to Palolem, Portuguese heritage churches, spice plantations, and thrilling water sports."
 author: sid
-categories: [ Monuments, Beach, Party, Sea, Church ]
+categories: [ Monuments & Forts, Beach, Weekend Getaway, Places of Worship ]
 image: assets/images/goa.webp
 rating: 4.5
 tags: [Goa]

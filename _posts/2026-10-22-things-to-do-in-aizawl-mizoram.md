@@ -3,7 +3,7 @@ layout: post
 title:  "Aizawl, Mizoram"
 description: "Discover Aizawl, Mizoram's vibrant cliffside capital. Experience grand Solomon's Temple, scenic Durtlang Hills, KV Paradise, and the famous zero-honking culture."
 author: sid
-categories: [Culture, Mountain, Church, Modern Architecture, Hill Station]
+categories: [ Hill Station, Mountain, Modern Architecture, Places of Worship, Culture ]
 image: assets/images/aizawl.webp
 rating: 5
 tags: [Mizoram]

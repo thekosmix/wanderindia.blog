@@ -3,7 +3,7 @@ layout: post
 title:  "Indore, Madhya Pradesh"
 description: "Plan your trip to Indore, Madhya Pradesh. Discover historic Rajwada Palace, Lal Bagh Palace, and the legendary Sarafa Bazar street food."
 author: sid
-categories: [ Chill, Pilgrimage ]
+categories: [ Pilgrimage, History, Culture, Weekend Getaway ]
 image: assets/images/indore.webp
 rating: 4
 tags: [Madhya Pradesh]

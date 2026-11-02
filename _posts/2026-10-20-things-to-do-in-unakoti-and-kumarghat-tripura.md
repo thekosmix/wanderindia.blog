@@ -3,7 +3,7 @@ layout: post
 title:  "Unakoti and Kumarghat, Tripura"
 description: "Discover Unakoti and Kumarghat in northern Tripura. Marvel at colossal ancient rock-cut Shiva carvings in lush forest gorges and lush pineapple plantations."
 author: sid
-categories: [History, Monuments, Pilgrimage, Nature, Mountain]
+categories: [ History, Monuments & Forts, Pilgrimage, Nature, Mountain ]
 image: assets/images/unakoti-kumarghat.webp
 rating: 4
 tags: [Tripura]

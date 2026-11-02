@@ -3,7 +3,7 @@ layout: post
 title:  "Diu, Dadra and Nagar Haveli and Daman and Diu"
 description: "Explore Diu, a charming island off the Gujarat coast. Discover Portuguese forts, St. Paul's Church, pristine beaches, and relaxed coastal vibes."
 author: sid
-categories: [Sunset, Sunrise, Church, Sea, Beach, Culture, History, Island, Monuments, Fort, War Memorial]
+categories: [ Beach, Island, Monuments & Forts, History, Places of Worship ]
 image: assets/images/diu.webp
 rating: 5
 tags: [Dadra and Nagar Haveli and Daman and Diu]

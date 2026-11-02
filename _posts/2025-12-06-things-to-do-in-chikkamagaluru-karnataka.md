@@ -3,7 +3,7 @@ layout: post
 title:  "Chikkamagaluru, Karnataka"
 description: "Escape to Chikkamagaluru, the 'Coffee Land of Karnataka'. Explore green plantations, Mullayanagiri peak, waterfalls, and misty mountain views."
 author: sid
-categories: [Sunset, Sunrise, Mountain, Peak]
+categories: [ Hill Station, Mountain, Scenic Viewpoints, Gardens & Parks, Trekking ]
 image: assets/images/chikka.webp
 rating: 4
 tags: [Karnataka]

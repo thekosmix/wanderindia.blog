@@ -6,7 +6,7 @@ redirect_from:
   - /places-to-visit-in-joshimath-uttarakhand/
   - /places-to-visit-near-ghangaria-uttarakhand/
 author: sid
-categories: [Chill, Snow, Mountain, Long trip, Trekking]
+categories: [ Weekend Getaway, Snow, Mountain, Road Trip, Trekking ]
 image: assets/images/joshimath.webp
 rating: 4
 tags: [Uttarakhand]

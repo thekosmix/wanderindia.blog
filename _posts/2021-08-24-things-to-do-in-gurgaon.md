@@ -5,7 +5,7 @@ description: "Discover the best things to do in Gurugram (Gurgaon), Haryana. Exp
 redirect_from:
   - /things-to-do-in-gurugram-haryana/
 author: sid
-categories: [ Resorts, Restaurants, Modern Architecture, Party, Long Drive ]
+categories: [ Resorts, Weekend Getaway, Modern Architecture, Road Trip ]
 image: assets/images/gurugram.webp
 rating: 4.5
 tags: [Haryana]

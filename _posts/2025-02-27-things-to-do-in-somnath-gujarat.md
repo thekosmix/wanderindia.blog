@@ -3,7 +3,7 @@ layout: post
 title:  "Somnath, Gujarat"
 description: "Visit Somnath, Gujarat, home to the sacred Somnath Temple—the first of the twelve Jyotirlingas. Discover temples, history, and beach vistas."
 author: sid
-categories: [Sunset, Sunrise, Pilgrimage, Temple, Sea, Beach, Culture]
+categories: [ Pilgrimage, Places of Worship, Beach, Culture, Scenic Viewpoints ]
 image: assets/images/somnath.webp
 rating: 4
 tags: [Gujarat]

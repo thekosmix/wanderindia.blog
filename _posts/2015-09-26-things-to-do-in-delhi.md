@@ -3,7 +3,7 @@ layout: post
 title:  "New Delhi, Delhi"
 description: "Explore the best things to do in New Delhi. Discover historic forts, Mughal monuments, modern structures, museums, and vibrant street markets."
 author: sid
-categories: [ History, Temple, Monuments, Culture, Modern Architecture, War Memorial ]
+categories: [ History, Places of Worship, Monuments & Forts, Culture, Modern Architecture ]
 image: assets/images/delhi.webp
 rating: 5
 tags: [Delhi]

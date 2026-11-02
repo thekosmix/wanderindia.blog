@@ -3,7 +3,7 @@ layout: post
 title:  "Kuala Lumpur, Malaysia"
 description: "Discover the best things to do in Kuala Lumpur, Malaysia, from the iconic Petronas Twin Towers and KLCC Park to historic mosques and shopping."
 author: sid
-categories: [ Modern Architecture ]
+categories: [ Modern Architecture, Monuments & Forts, Culture, Weekend Getaway ]
 image: assets/images/kualalumpur.webp
 rating: 5
 is_another_country: true

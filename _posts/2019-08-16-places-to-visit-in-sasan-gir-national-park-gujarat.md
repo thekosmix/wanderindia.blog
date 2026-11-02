@@ -6,7 +6,7 @@ redirect_from:
   - /places-to-visit-in-sasan-gir-Gujarat/
   - /things-to-do-in-gir-national-park-Gujarat/
 author: sid
-categories: [ Wild Animals, Forest ]
+categories: [ Wildlife & Safari, Forest, Nature, Weekend Getaway ]
 image: assets/images/sasan.webp
 rating: 5
 tags: [Gujarat]

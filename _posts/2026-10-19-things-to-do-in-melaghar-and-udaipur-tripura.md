@@ -3,7 +3,7 @@ layout: post
 title:  "Melaghar and Udaipur, Tripura"
 description: "Explore Melaghar and Udaipur in Tripura. Discover Neermahal water palace on Rudrasagar Lake, the revered Tripura Sundari Temple, and historical lake ruins."
 author: sid
-categories: [Palaces, Lake, Pilgrimage, Temple, History]
+categories: [ Monuments & Forts, Lakes & Dams, Pilgrimage, Places of Worship, History ]
 image: assets/images/melaghar-udaipur.webp
 rating: 4
 tags: [Tripura]

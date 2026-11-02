@@ -5,7 +5,7 @@ description: "Explore Kochi (Cochin), Kerala. A historic port city offering a bl
 redirect_from:
   - /places-to-visit-in-cochin-kerala/
 author: sid
-categories: [ Beach, History, Church ]
+categories: [ Beach, History, Places of Worship ]
 image: assets/images/kochi.webp
 rating: 4
 tags: [Kerala]

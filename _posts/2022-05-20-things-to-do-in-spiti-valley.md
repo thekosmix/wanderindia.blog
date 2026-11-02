@@ -3,7 +3,7 @@ layout: post
 title: "Spiti Valley, Himachal Pradesh"
 description: "A comprehensive guide to Spiti Valley, Himachal Pradesh. Experience high-altitude desert mountains, ancient monasteries, lakes, and road trips."
 author: sid
-categories: [ Chill, Long Drive, Mountain, Snow, Long trip]
+categories: [ Weekend Getaway, Road Trip, Mountain, Snow ]
 image: assets/images/spiti.webp
 rating: 5
 tags: [Himachal Pradesh]

@@ -3,7 +3,7 @@ layout: post
 title:  "Hmuifang, Mizoram"
 description: "Discover Hmuifang, Mizoram's scenic mountain resort. Unwind amidst rolling grassy meadows, virgin pine forests, dramatic cliff walks, and crisp highland air."
 author: sid
-categories: [Mountain, Peaks, Forest, Hill Station, Nature]
+categories: [ Hill Station, Mountain, Forest, Nature, Scenic Viewpoints ]
 image: assets/images/hmuifang.webp
 rating: 4.5
 tags: [Mizoram]

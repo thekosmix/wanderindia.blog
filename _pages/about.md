@@ -10,11 +10,11 @@ comments: true
 
         <p>The nature is beautiful so are the people. And the places created by both of them are amazing. I will take you to a journey of different places including 
         <a href="{{site.baseurl}}/trips-and-travel-categories/mountain/">mountains</a>, 
-        <a href="{{site.baseurl}}/trips-and-travel-categories/river/">rivers</a>, 
+        <a href="{{site.baseurl}}/trips-and-travel-categories/river-backwaters/">rivers</a>, 
         <a href="{{site.baseurl}}/trips-and-travel-categories/beach/">sea-shores</a>, 
         <a href="{{site.baseurl}}/trips-and-travel-categories/modern-architecture/">cities</a>, 
         <a href="{{site.baseurl}}/trips-and-travel-categories/hill-station/">adventures</a>, 
-        <a href="{{site.baseurl}}/trips-and-travel-categories/monuments/">monuments</a> and much more. stay tuned!!</p>
+        <a href="{{site.baseurl}}/trips-and-travel-categories/monuments-forts/">monuments</a> and much more. stay tuned!!</p>
 
         <p>The pictures in my blog are unaltered with no filter or any cosmetic changes. I capture them with my phone camera and upload them as is. So that when you visit these places after seeing these photos, they justify your expectation unlike those shiny insta posts which often ruin the experience.</p>
         

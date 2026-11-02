@@ -3,7 +3,7 @@ layout: post
 title:  "Haridwar, Uttarakhand"
 description: "Plan your spiritual journey to Haridwar, Uttarakhand. Discover ancient temples, ghats, and witness the grand evening Ganga Aarti at Har Ki Pauri."
 author: sid
-categories: [ River, Temple, Pilgrimage ]
+categories: [ River & Backwaters, Places of Worship, Pilgrimage ]
 image: assets/images/haridwar.webp
 rating: 3.5
 tags: [Uttarakhand]

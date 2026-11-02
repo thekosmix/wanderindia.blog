@@ -5,7 +5,7 @@ description: "Explore Mysuru (Mysore), the cultural capital of Karnataka. Visit 
 redirect_from:
   - /things-to-do-in-mysuru-karnataka/
 author: sid
-categories: [Palaces, Resorts, Weekend Getaway, Zoo]
+categories: [ Monuments & Forts, Resorts, Weekend Getaway, Wildlife & Safari ]
 image: assets/images/mysuru.webp
 rating: 4.5
 tags: [Karnataka]

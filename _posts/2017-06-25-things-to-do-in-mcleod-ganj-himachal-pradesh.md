@@ -3,7 +3,7 @@ layout: post
 title:  "McLeod Ganj, Himachal Pradesh"
 description: "Plan your solo trip or holiday to McLeod Ganj, Himachal Pradesh. Visit Dharamshala, Bhagsunag waterfalls, Buddhist monasteries, and local cafes."
 author: sid
-categories: [ Trekking, Mountain, Weekend Getaway, Monasteries ]
+categories: [ Hill Station, Mountain, Places of Worship, Trekking, Weekend Getaway ]
 image: assets/images/mcleodganj.webp
 rating: 4.5
 tags: [Himachal Pradesh]

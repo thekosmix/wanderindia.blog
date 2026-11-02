@@ -3,7 +3,7 @@ layout: post
 title:  "Pattaya, Thailand"
 description: "Discover Pattaya, Thailand. A popular beach resort city famous for its vibrant nightlife, beautiful beaches, water sports, and cabaret shows."
 author: sid
-categories: [ Sea, Beach, Activities]
+categories: [ Beach, Water Sports, Resorts, Weekend Getaway ]
 image: assets/images/pattaya.webp
 rating: 4.5
 is_another_country: true

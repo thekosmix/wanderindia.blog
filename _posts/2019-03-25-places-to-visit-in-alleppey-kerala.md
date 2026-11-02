@@ -5,7 +5,7 @@ description: "Discover the backwaters of Alleppey (Alappuzha), Kerala. Experienc
 redirect_from:
   - /places-to-visit-in-alappuzha-kerala/
 author: sid
-categories: [ Sea, Beach, Forest, House Boat, Back Waters ]
+categories: [ Beach, Forest, River & Backwaters ]
 image: assets/images/alleppey.webp
 rating: 4
 tags: [Kerala]

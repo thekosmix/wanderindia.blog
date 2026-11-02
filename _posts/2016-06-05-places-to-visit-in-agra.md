@@ -3,7 +3,7 @@ layout: post
 title:  "Agra, Uttar Pradesh"
 description: "Plan your visit to Agra, Uttar Pradesh. Discover the iconic Taj Mahal, Agra Fort, Fatehpur Sikri, and other stunning Mughal architectural monuments."
 author: sid
-categories: [ Monuments, Long Drive, History ]
+categories: [ Monuments & Forts, Road Trip, History ]
 image: assets/images/agra.webp
 rating: 3.5
 tags: [Uttar Pradesh]

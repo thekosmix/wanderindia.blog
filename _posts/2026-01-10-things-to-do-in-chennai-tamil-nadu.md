@@ -3,7 +3,7 @@ layout: post
 title:  "Chennai, Tamil Nadu"
 description: "Explore Chennai, Tamil Nadu. Discover Marina Beach, ancient Kapaleeshwarar Temple, Fort St. George, and rich South Indian cultural traditions."
 author: sid
-categories: [Sea, Beach, Architecture, Fort, Park, History, Monuments, Church, Culture]
+categories: [ Beach, Monuments & Forts, History, Places of Worship, Culture ]
 image: assets/images/chennai.webp
 rating: 5
 tags: [Tamil Nadu]

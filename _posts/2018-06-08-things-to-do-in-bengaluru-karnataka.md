@@ -5,7 +5,7 @@ description: "Discover Bengaluru, Karnataka—the Silicon Valley of India. Explo
 redirect_from:
   - /places-to-visit-in-bangalore-karnataka/
 author: sid
-categories: [ Modern Architecture, Lake, Garden ]
+categories: [ Modern Architecture, Lakes & Dams, Gardens & Parks ]
 image: assets/images/bengaluru.webp
 rating: 4.5
 tags: [Karnataka]

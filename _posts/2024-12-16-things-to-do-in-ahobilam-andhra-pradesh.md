@@ -3,7 +3,7 @@ layout: post
 title:  "Ahobilam, Andhra Pradesh"
 description: "Visit Ahobilam in Andhra Pradesh. A major pilgrimage site in Nallamala Hills dedicated to the nine forms of Lord Narasimha."
 author: sid
-categories: [Temple, Trekking, Culture]
+categories: [ Places of Worship, Trekking, Culture ]
 image: assets/images/ahobilam.webp
 rating: 3.5
 tags: [Andhra Pradesh]

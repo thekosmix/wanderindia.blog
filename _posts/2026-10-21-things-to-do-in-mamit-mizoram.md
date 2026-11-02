@@ -3,7 +3,7 @@ layout: post
 title:  "Mamit, Mizoram"
 description: "Explore Mamit, Mizoram's wild frontier. Discover untamed Dampa Tiger Reserve, the legendary Pukzing Cave, scenic evergreen ridges, and vibrant Mizo tribal culture."
 author: sid
-categories: [Forest, Wild Animals, Nature, Mountain, Hill Station]
+categories: [ Hill Station, Mountain, Wildlife & Safari, Forest, Nature ]
 image: assets/images/mamit.webp
 rating: 4.5
 tags: [Mizoram]

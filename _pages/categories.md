@@ -22,7 +22,7 @@ permalink: /trips-and-travel-categories/
     
     <div class="col-lg-4 col-md-6 mb-4 col-sm-12">
       <div class="card-category-container">
-        <a href="{{ site.baseurl }}/trips-and-travel-categories/{{ category_name | downcase | replace: ' ', '-' }}/" class="card-category-link">
+        <a href="{{ site.baseurl }}/trips-and-travel-categories/{{ category_name | slugify }}/" class="card-category-link">
           <div class="card-category-image-box">
             {% if category_image %}
               <img src="{% if category_image contains '://' %}{{ category_image }}{% else %}{{ site.baseurl }}/{{ category_image }}{% endif %}" alt="{{ category_name }}" class="card-category-img" loading="lazy" />

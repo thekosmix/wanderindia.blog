@@ -3,7 +3,7 @@ layout: post
 title:  "Kalpeni, Lakshadweep"
 description: "Plan your trip to Kalpeni, Lakshadweep. Famous for its massive storm bank of coral debris, clear lagoons, and pristine uninhabited islets."
 author: sid
-categories: [Sea, Beach, Coral, Island, Sunset]
+categories: [ Beach, Water Sports, Island, Scenic Viewpoints ]
 image: assets/images/kalpeni.webp
 rating: 5
 tags: [Lakshadweep]

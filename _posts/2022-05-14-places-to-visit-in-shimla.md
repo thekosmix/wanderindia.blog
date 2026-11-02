@@ -3,7 +3,7 @@ layout: post
 title: "Shimla, Himachal Pradesh"
 description: "A travel guide to Shimla, Himachal Pradesh. Discover colonial architecture, the Mall Road, snow-capped peaks, and beautiful forest trails."
 author: sid
-categories: [ Chill, Long Drive, Mountain, Snow, Long trip]
+categories: [ Hill Station, Mountain, Snow, Road Trip, Weekend Getaway ]
 image: assets/images/shimla.webp
 rating: 4
 tags: [Himachal Pradesh]

@@ -3,7 +3,7 @@ layout: post
 title:  "Agartala, Tripura"
 description: "Discover Agartala, the royal capital of Tripura. Explore majestic Ujjayanta Palace, the Akhaura border ceremony, lush Heritage Park, and rich Tripuri heritage."
 author: sid
-categories: [Monuments, Culture, Palaces, History, Lake]
+categories: [ Monuments & Forts, Culture, History, Lakes & Dams ]
 image: assets/images/agartala.webp
 rating: 4
 tags: [Tripura]

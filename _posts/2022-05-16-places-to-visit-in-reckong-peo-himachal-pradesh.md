@@ -3,7 +3,7 @@ layout: post
 title: "Reckong Peo, Himachal Pradesh"
 description: "Plan your trip to Reckong Peo, Himachal Pradesh. Experience stunning views of Kinner Kailash, apple orchards, and ancient monasteries of Kalpa."
 author: sid
-categories: [ Chill, Long Drive, Mountain, Snow, Long trip]
+categories: [ Weekend Getaway, Road Trip, Mountain, Snow ]
 image: assets/images/reckong-peo.webp
 rating: 4
 tags: [Himachal Pradesh]

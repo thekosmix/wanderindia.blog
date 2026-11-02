@@ -3,7 +3,7 @@ layout: post
 title:  "Mumbai, Maharashtra"
 description: "Explore the top places to visit in Mumbai, Maharashtra. Discover Marine Drive, Gateway of India, local markets, and iconic street food."
 author: sid
-categories: [ Resorts, Restaurants, Modern Architecture, Party, Long Drive, Sea, Beach ]
+categories: [ Resorts, Weekend Getaway, Modern Architecture, Road Trip, Beach ]
 image: assets/images/mumbai.webp
 rating: 5
 tags: [Maharashtra]

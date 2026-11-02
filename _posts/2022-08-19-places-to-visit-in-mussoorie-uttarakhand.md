@@ -3,7 +3,7 @@ layout: post
 title: "Mussoorie, Uttarakhand"
 description: "Explore Mussoorie, the Queen of Hills in Uttarakhand. Find tips on the best viewpoints, waterfalls, colonial charm, and the best visiting months."
 author: sid
-categories: [ Chill, Snow, Mountain, Weekend Getaway]
+categories: [ Hill Station, Mountain, Waterfalls, Snow, Weekend Getaway ]
 image: assets/images/mussoorie.webp
 rating: 5
 tags: [Uttarakhand]

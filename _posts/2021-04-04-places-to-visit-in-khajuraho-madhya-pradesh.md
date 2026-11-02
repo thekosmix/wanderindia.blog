@@ -3,7 +3,7 @@ layout: post
 title:  "Khajuraho, Madhya Pradesh"
 description: "Visit the UNESCO World Heritage temples of Khajuraho, Madhya Pradesh, renowned for their stunning, intricate stone sculptures and carvings."
 author: sid
-categories: [ Monuments, Temple ]
+categories: [ Monuments & Forts, Places of Worship, History, Culture ]
 image: assets/images/khajuraho.webp
 rating: 3.5
 tags: [Madhya Pradesh]

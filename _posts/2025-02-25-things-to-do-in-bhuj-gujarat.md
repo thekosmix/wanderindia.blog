@@ -3,7 +3,7 @@ layout: post
 title:  "Bhuj, Gujarat"
 description: "Discover Bhuj, Gujarat. Explore historic Aina Mahal, Prag Mahal, Bhujia Fort, and the rich textile arts and crafts villages of Kutch."
 author: sid
-categories: [Sunset, Sunrise, Temple, Culture, Palaces, Fort, Monuments]
+categories: [ Monuments & Forts, Places of Worship, History, Culture, Scenic Viewpoints ]
 image: assets/images/bhuj.webp
 rating: 4
 tags: [Gujarat]

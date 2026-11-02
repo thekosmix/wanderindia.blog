@@ -3,7 +3,7 @@ layout: post
 title:  "Rann of Kutch, Gujarat"
 description: "A detailed 3-day itinerary for the Rann of Kutch, Gujarat. Plan your visit to the white salt desert, Rann Utsav, and explore local Kutchi heritage."
 author: sid
-categories: [Sunset, Sunrise, Dunes, Camping, Resorts, Culture]
+categories: [ Culture, Scenic Viewpoints, Camping, Resorts, Nature ]
 image: assets/images/rann-of-kutch.webp
 rating: 4.5
 tags: [Gujarat]

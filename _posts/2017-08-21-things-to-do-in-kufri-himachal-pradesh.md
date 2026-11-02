@@ -3,7 +3,7 @@ layout: post
 title:  "Kufri, Himachal Pradesh"
 description: "Discover Kufri, Himachal Pradesh. A scenic hill station near Shimla offering snow sports, zoo visits, trekking, and breathtaking mountain views."
 author: sid
-categories: [ Mountain, Chill, Snow, Zoo ]
+categories: [ Hill Station, Mountain, Snow, Wildlife & Safari, Weekend Getaway ]
 image: assets/images/kufri.webp
 rating: 5
 tags: [Himachal Pradesh]

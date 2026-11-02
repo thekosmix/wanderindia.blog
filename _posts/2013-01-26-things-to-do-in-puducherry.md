@@ -3,7 +3,7 @@ layout: post
 title:  "Puducherry, India"
 description: "Explore Puducherry (formerly Pondicherry), India. Discover beautiful beaches, charming French colonial architecture, cafes, and Auroville."
 author: sid
-categories: [ Chill, Beach, Sea, History, Church ]
+categories: [ Weekend Getaway, Beach, History, Places of Worship ]
 image: assets/images/puducherry.webp
 rating: 4.5
 tags: [Puducherry]

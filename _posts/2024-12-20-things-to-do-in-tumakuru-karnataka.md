@@ -3,7 +3,7 @@ layout: post
 title:  "Tumakuru, Karnataka"
 description: "Discover Tumakuru (Tumkur), Karnataka. Explore the historic Devarayanadurga hill station, Siddaganga Mutt, and beautiful ancient temples nearby."
 author: sid
-categories: [Hills, Temple, Sunset, Trekking, Weekend Getaway]
+categories: [ Mountain, Places of Worship, Scenic Viewpoints, Trekking, Weekend Getaway ]
 image: assets/images/tumakuru.webp
 rating: 4
 tags: [Karnataka]

@@ -3,7 +3,7 @@ layout: post
 title: "Nongriat, Meghalaya"
 description: "Trek to Nongriat, Meghalaya. Discover the famous Double Decker Living Root Bridge, natural turquoise pools, waterfalls, and scenic jungle trails."
 author: sid
-categories: [Trekking, Root Bridge, Nature]
+categories: [ Trekking, Waterfalls, Nature, Mountain ]
 image: assets/images/nongriat.webp
 rating: 4
 tags: [Meghalaya]

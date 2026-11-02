@@ -6,7 +6,7 @@ redirect_from:
   - /things-to-do-in-madikeri-karnataka/
   - /things-to-do-in-kodagu-karnataka/
 author: sid
-categories: [Hill Station, Resorts, Weekend Getaway, Waterfalls]
+categories: [ Hill Station, Waterfalls, Resorts, Weekend Getaway ]
 image: assets/images/coorg.webp
 rating: 4.5
 tags: [Karnataka]

@@ -3,7 +3,7 @@ layout: post
 title:  "Reiek, Mizoram"
 description: "Experience Reiek, Mizoram's premier trekking destination. Trek to the dramatic cliffs of Reiek Peak, explore the Heritage Village, and view Bangladesh plains."
 author: sid
-categories: [Trekking, Mountain, Peaks, Culture, Hill Station]
+categories: [ Hill Station, Mountain, Trekking, Culture, Scenic Viewpoints ]
 image: assets/images/reiek.webp
 rating: 4
 tags: [Mizoram]

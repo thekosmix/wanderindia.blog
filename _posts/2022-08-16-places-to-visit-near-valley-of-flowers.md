@@ -3,7 +3,7 @@ layout: post
 title: "Valley of Flowers, Uttarakhand"
 description: "Discover the spectacular Valley of Flowers trek in Uttarakhand. A UNESCO World Heritage Site filled with rare alpine flowers and scenic views."
 author: sid
-categories: [ Chill, Snow, Mountain, Long trip]
+categories: [ Weekend Getaway, Snow, Mountain, Road Trip ]
 image: assets/images/vof.webp
 rating: 4.5
 tags: [Uttarakhand]

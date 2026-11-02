@@ -3,7 +3,7 @@ layout: post
 title:  "Chail, Himachal Pradesh"
 description: "Escape to the quiet hill station of Chail, Himachal Pradesh. Explore the Chail Palace, the world's highest cricket ground, and serene pine forests."
 author: sid
-categories: [ Mountain, Palaces, Chill, Snow ]
+categories: [ Hill Station, Mountain, Monuments & Forts, Snow, Weekend Getaway ]
 image: assets/images/chail.webp
 rating: 5
 tags: [Himachal Pradesh]

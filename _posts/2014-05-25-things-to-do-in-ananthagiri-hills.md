@@ -3,7 +3,7 @@ layout: post
 title:  "Ananthagiri Hills, Telangana"
 description: "Discover Ananthagiri Hills, Telangana. A beautiful hill station near Hyderabad known for its lush forests, ancient temple, trekking trails, and scenic nature views."
 author: sid
-categories: [ Chill, Valley, Mountain ]
+categories: [ Hill Station, Mountain, Valley, Nature, Weekend Getaway ]
 image: assets/images/anantgiri.webp
 rating: 5
 tags: [Telangana]
