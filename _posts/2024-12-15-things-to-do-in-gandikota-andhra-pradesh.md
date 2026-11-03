@@ -6,7 +6,7 @@ author: sid
 categories: [ Monuments & Forts, River & Backwaters, Scenic Viewpoints, Road Trip, Nature ]
 image: assets/images/gandikota.webp
 rating: 4
-tags: [Andhra Pradesh]
+tags: [Andhra Pradesh, South India]
 toc: true
 quick_facts:
   state: "Andhra Pradesh"

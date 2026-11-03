@@ -6,7 +6,7 @@ author: sid
 categories: [ Waterfalls, Nature, Hill Station, Scenic Viewpoints ]
 image: assets/images/cherrapunji.webp
 rating: 4
-tags: [Meghalaya]
+tags: [Meghalaya, North-East India]
 toc: true
 quick_facts:
   state: "Meghalaya"

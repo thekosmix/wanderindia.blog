@@ -6,7 +6,7 @@ author: sid
 categories: [ Places of Worship, History, River & Backwaters, Gardens & Parks, Weekend Getaway ]
 image: assets/images/ahmedabad.webp
 rating: 4
-tags: [Gujarat]
+tags: [Gujarat, West India]
 toc: true
 quick_facts:
   state: "Gujarat"

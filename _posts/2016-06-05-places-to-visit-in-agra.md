@@ -6,7 +6,7 @@ author: sid
 categories: [ Monuments & Forts, Road Trip, History ]
 image: assets/images/agra.webp
 rating: 3.5
-tags: [Uttar Pradesh]
+tags: [Uttar Pradesh, North India]
 toc: true
 quick_facts:
   state: "Uttar Pradesh"

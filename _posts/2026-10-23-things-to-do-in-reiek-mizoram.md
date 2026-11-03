@@ -6,7 +6,7 @@ author: sid
 categories: [ Hill Station, Mountain, Trekking, Culture, Scenic Viewpoints ]
 image: assets/images/reiek.webp
 rating: 4
-tags: [Mizoram]
+tags: [Mizoram, North-East India]
 toc: true
 quick_facts:
   state: "Mizoram"

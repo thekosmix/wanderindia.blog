@@ -6,7 +6,7 @@ author: sid
 categories: [ History, Monuments & Forts, Pilgrimage, Nature, Mountain ]
 image: assets/images/unakoti-kumarghat.webp
 rating: 4
-tags: [Tripura]
+tags: [Tripura, North-East India]
 toc: true
 quick_facts:
   state: "Tripura"

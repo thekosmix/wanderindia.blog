@@ -8,7 +8,7 @@ author: sid
 categories: [ Monuments & Forts, Resorts, Weekend Getaway, Wildlife & Safari ]
 image: assets/images/mysuru.webp
 rating: 4.5
-tags: [Karnataka]
+tags: [Karnataka, South India]
 toc: true
 quick_facts:
   state: "Karnataka"

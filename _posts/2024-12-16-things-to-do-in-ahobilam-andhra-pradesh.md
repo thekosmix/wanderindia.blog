@@ -6,7 +6,7 @@ author: sid
 categories: [ Places of Worship, Trekking, Culture ]
 image: assets/images/ahobilam.webp
 rating: 3.5
-tags: [Andhra Pradesh]
+tags: [Andhra Pradesh, South India]
 toc: true
 quick_facts:
   state: "Andhra Pradesh"

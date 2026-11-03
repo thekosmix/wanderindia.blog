@@ -6,7 +6,7 @@ author: sid
 categories: [ Weekend Getaway, Beach, History, Places of Worship ]
 image: assets/images/puducherry.webp
 rating: 4.5
-tags: [Puducherry]
+tags: [Puducherry, South India]
 toc: true
 quick_facts:
   state: "Puducherry"

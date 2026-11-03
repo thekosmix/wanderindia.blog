@@ -6,7 +6,7 @@ author: sid
 categories: [ Monuments & Forts, Lakes & Dams, Pilgrimage, Places of Worship, History ]
 image: assets/images/melaghar-udaipur.webp
 rating: 4
-tags: [Tripura]
+tags: [Tripura, North-East India]
 toc: true
 quick_facts:
   state: "Tripura"

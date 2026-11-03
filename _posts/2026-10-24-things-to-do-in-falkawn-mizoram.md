@@ -6,7 +6,7 @@ author: sid
 categories: [ Culture, History, Mountain, Hill Station ]
 image: assets/images/falkawn.webp
 rating: 5
-tags: [Mizoram]
+tags: [Mizoram, North-East India]
 toc: true
 quick_facts:
   state: "Mizoram"

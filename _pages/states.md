@@ -4,12 +4,30 @@ title: States to visit in India
 permalink: /states/
 ---
 
+<div class="states-intro mb-4">
+  <p class="lead text-muted">
+    India is a magnificent subcontinent of 28 states and 8 union territories, each with its own language, culinary heritage, timeless architecture, and unique landscapes. From the snow-laden peaks of Himachal and Kashmir down to the tropical backwaters of Kerala and sun-drenched coastal shores of Tamil Nadu, explore our destination guides organized by each state and territory.
+  </p>
+
+  <div class="alert alert-info d-flex align-items-center justify-content-between p-3 mb-4 rounded-lg shadow-sm" style="background: linear-gradient(135deg, #f0fdf4 0%, #e0f2fe 100%); border: 1px solid #bae6fd;">
+    <div>
+      <span class="font-weight-bold" style="color: #0369a1;">Looking to explore by broader travel zones?</span>
+      <span class="d-block text-muted small">Discover curated itineraries across North, South, North-East, West, Central, and East India.</span>
+    </div>
+    <a href="{{ site.baseurl }}/zones/" class="btn btn-sm btn-primary font-weight-bold text-nowrap ml-3" style="background-color: #0284c7; border-color: #0284c7;">Explore Travel Zones &rarr;</a>
+  </div>
+</div>
+
 <div class="row state-grid mt-4">
   {% assign sorted_tags = site.tags | sort %}
   {% for tag in sorted_tags %}
     {% assign state_name = tag[0] %}
+    {% if state_name == "North India" or state_name == "North-East India" or state_name == "South India" or state_name == "West India" or state_name == "Central India" or state_name == "East India" %}
+      {% continue %}
+    {% endif %}
     {% assign posts = tag[1] %}
     {% assign post_count = posts | size %}
+    {% assign state_info = site.data.states[state_name] %}
     
     {% comment %} Find the first post with an image to use as the card image {% endcomment %}
     {% assign state_image = nil %}
@@ -33,7 +51,12 @@ permalink: /states/
             <div class="card-state-badge">{{ post_count }} {% if post_count == 1 %}Place{% else %}Places{% endif %}</div>
           </div>
           <div class="card-state-content">
-            <h3 class="card-state-title text-capitalize">{{ state_name }}</h3>
+            <div>
+              <h3 class="card-state-title text-capitalize">{{ state_name }}</h3>
+              {% if state_info.snippet %}
+                <p class="card-state-desc">{{ state_info.snippet }}</p>
+              {% endif %}
+            </div>
             <div class="card-state-footer">
               <span class="card-state-explore">Explore State</span>
               <span class="card-state-arrow">
@@ -161,13 +184,20 @@ permalink: /states/
   font-size: 1.35rem;
   font-weight: 700;
   color: #2c3e50;
-  margin-bottom: 1.25rem;
+  margin-bottom: 0.5rem;
   line-height: 1.25;
   transition: color 0.2s ease;
 }
 
 .card-state-container:hover .card-state-title {
   color: var(--brand-primary);
+}
+
+.card-state-desc {
+  font-size: 0.88rem;
+  color: #64748b;
+  line-height: 1.5;
+  margin-bottom: 1.25rem;
 }
 
 .card-state-footer {

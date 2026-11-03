@@ -5,7 +5,7 @@ description: "Explore the advantages of planning your group travel, treks, and w
 author: sid
 #categories: [ Travel, Road Trip, Trekking, Weekend Getaway ]
 image: assets/images/justwravel.webp
-featured: true
+featured: false
 hidden: true
 rating: 5
 ---

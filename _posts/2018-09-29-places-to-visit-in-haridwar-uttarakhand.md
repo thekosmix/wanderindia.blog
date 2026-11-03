@@ -6,7 +6,7 @@ author: sid
 categories: [ River & Backwaters, Places of Worship, Pilgrimage ]
 image: assets/images/haridwar.webp
 rating: 3.5
-tags: [Uttarakhand]
+tags: [Uttarakhand, North India]
 toc: true
 quick_facts:
   state: "Uttarakhand"

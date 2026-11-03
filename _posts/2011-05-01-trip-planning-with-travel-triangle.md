@@ -5,7 +5,7 @@ description: "Discover the benefits, pros, and cons of planning your customized 
 author: sid
 #categories: [ Travel, Road Trip, Weekend Getaway ]
 image: assets/images/tt.webp
-featured: true
+featured: false
 hidden: true
 rating: 4
 ---

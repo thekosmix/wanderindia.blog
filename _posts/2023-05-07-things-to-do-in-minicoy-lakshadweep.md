@@ -6,7 +6,7 @@ author: sid
 categories: [ Beach, Water Sports, Island, Scenic Viewpoints ]
 image: assets/images/minicoy.webp
 rating: 5
-tags: [Lakshadweep]
+tags: [Lakshadweep, South India]
 toc: true
 quick_facts:
   state: "Lakshadweep"

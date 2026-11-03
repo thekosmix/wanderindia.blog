@@ -6,7 +6,7 @@ author: sid
 categories: [ Pilgrimage, Places of Worship, History, Culture ]
 image: assets/images/mathura.webp
 rating: 3.5
-tags: [Uttar Pradesh]
+tags: [Uttar Pradesh, North India]
 toc: true
 quick_facts:
   state: "Uttar Pradesh"

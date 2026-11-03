@@ -8,7 +8,7 @@ author: sid
 categories: [ Resorts, Weekend Getaway, Modern Architecture, Road Trip ]
 image: assets/images/gurugram.webp
 rating: 4.5
-tags: [Haryana]
+tags: [Haryana, North India]
 toc: true
 quick_facts:
   state: "Haryana"

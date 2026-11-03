@@ -6,7 +6,7 @@ author: sid
 categories: [ Island, Beach, Water Sports, Scenic Viewpoints, Resorts ]
 image: assets/images/havelock-island.webp
 rating: 5
-tags: [Andaman and Nicobar Islands]
+tags: [Andaman and Nicobar Islands, South India]
 toc: true
 quick_facts:
   state: "Andaman and Nicobar Islands"

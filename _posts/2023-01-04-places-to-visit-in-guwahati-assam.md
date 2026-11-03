@@ -6,7 +6,7 @@ author: sid
 categories: [ Places of Worship, Monuments & Forts, Nature ]
 image: assets/images/guwahati.webp
 rating: 4
-tags: [Assam]
+tags: [Assam, North-East India]
 toc: true
 quick_facts:
   state: "Assam"

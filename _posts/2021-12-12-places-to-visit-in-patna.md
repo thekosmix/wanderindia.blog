@@ -6,7 +6,7 @@ author: sid
 categories: [ Monuments & Forts, History, Wildlife & Safari, River & Backwaters ]
 image: assets/images/patna.webp
 rating: 3.5
-tags: [Bihar]
+tags: [Bihar, East India]
 toc: true
 quick_facts:
   state: "Bihar"

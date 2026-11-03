@@ -6,7 +6,7 @@ author: sid
 categories: [ Beach, Monuments & Forts, History, Places of Worship, Culture ]
 image: assets/images/chennai.webp
 rating: 5
-tags: [Tamil Nadu]
+tags: [Tamil Nadu, South India]
 toc: true
 quick_facts:
   state: "Tamil Nadu"

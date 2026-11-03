@@ -6,7 +6,7 @@ author: sid
 categories: [ Hill Station, Mountain, Gardens & Parks, Road Trip, Weekend Getaway ]
 image: assets/images/ooty.webp
 rating: 4
-tags: [Tamil Nadu]
+tags: [Tamil Nadu, South India]
 toc: true
 quick_facts:
   state: "Tamil Nadu"

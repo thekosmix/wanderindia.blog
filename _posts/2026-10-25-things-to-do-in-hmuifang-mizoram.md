@@ -6,7 +6,7 @@ author: sid
 categories: [ Hill Station, Mountain, Forest, Nature, Scenic Viewpoints ]
 image: assets/images/hmuifang.webp
 rating: 4.5
-tags: [Mizoram]
+tags: [Mizoram, North-East India]
 toc: true
 quick_facts:
   state: "Mizoram"

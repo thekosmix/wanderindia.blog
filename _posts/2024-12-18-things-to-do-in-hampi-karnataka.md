@@ -6,7 +6,7 @@ author: sid
 categories: [ Monuments & Forts, History, Culture, Places of Worship, Scenic Viewpoints ]
 image: assets/images/hampi.webp
 rating: 5
-tags: [Karnataka]
+tags: [Karnataka, South India]
 toc: true
 quick_facts:
   state: "Karnataka"

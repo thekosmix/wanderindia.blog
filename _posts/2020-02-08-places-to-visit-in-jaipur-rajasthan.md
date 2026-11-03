@@ -6,7 +6,7 @@ author: sid
 categories: [ Monuments & Forts, History, Culture, Weekend Getaway ]
 image: assets/images/jaipur.webp
 rating: 4
-tags: [Rajasthan]
+tags: [Rajasthan, North India]
 toc: true
 quick_facts:
   state: "Rajasthan"

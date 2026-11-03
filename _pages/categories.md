@@ -4,12 +4,19 @@ title: Trips and travel categories
 permalink: /trips-and-travel-categories/
 ---
 
+<div class="categories-intro mb-4">
+  <p class="lead text-muted">
+    India offers an extraordinary kaleidoscope of travel experiences spanning every landscape and passion. Whether seeking sun-kissed coastlines, thrilling Himalayan ascents, ancient UNESCO world heritage monuments, misty tea estates, or tiger-rich wildlife sanctuaries, browse our curated travel categories below to find your next great Indian adventure.
+  </p>
+</div>
+
 <div class="row category-grid mt-4">
   {% assign sorted_cats = site.categories | sort %}
   {% for category in sorted_cats %}
     {% assign category_name = category[0] %}
     {% assign posts = category[1] %}
     {% assign post_count = posts | size %}
+    {% assign cat_info = site.data.categories[category_name] %}
     
     {% comment %} Find the first post with an image to use as the card image {% endcomment %}
     {% assign category_image = nil %}
@@ -33,7 +40,12 @@ permalink: /trips-and-travel-categories/
             <div class="card-category-badge">{{ post_count }} {% if post_count == 1 %}Post{% else %}Posts{% endif %}</div>
           </div>
           <div class="card-category-content">
-            <h3 class="card-category-title text-capitalize">{{ category_name }}</h3>
+            <div>
+              <h3 class="card-category-title text-capitalize">{{ category_name }}</h3>
+              {% if cat_info.snippet %}
+                <p class="card-category-desc">{{ cat_info.snippet }}</p>
+              {% endif %}
+            </div>
             <div class="card-category-footer">
               <span class="card-category-explore">Explore Category</span>
               <span class="card-category-arrow">
@@ -161,13 +173,20 @@ permalink: /trips-and-travel-categories/
   font-size: 1.35rem;
   font-weight: 700;
   color: #2c3e50;
-  margin-bottom: 1.25rem;
+  margin-bottom: 0.5rem;
   line-height: 1.25;
   transition: color 0.2s ease;
 }
 
 .card-category-container:hover .card-category-title {
   color: var(--brand-primary);
+}
+
+.card-category-desc {
+  font-size: 0.88rem;
+  color: #64748b;
+  line-height: 1.5;
+  margin-bottom: 1.25rem;
 }
 
 .card-category-footer {

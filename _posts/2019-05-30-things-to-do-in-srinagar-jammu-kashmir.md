@@ -6,7 +6,7 @@ author: sid
 categories: [ Monuments & Forts, Mountain, Valley, Gardens & Parks ]
 image: assets/images/srinagar.webp
 rating: 5
-tags: [Jammu and Kashmir]
+tags: [Jammu and Kashmir, North India]
 toc: true
 quick_facts:
   state: "Jammu and Kashmir"

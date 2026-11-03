@@ -6,7 +6,7 @@ author: sid
 categories: [ Mountain, Places of Worship, Scenic Viewpoints, Trekking, Weekend Getaway ]
 image: assets/images/tumakuru.webp
 rating: 4
-tags: [Karnataka]
+tags: [Karnataka, South India]
 toc: true
 quick_facts:
   state: "Karnataka"

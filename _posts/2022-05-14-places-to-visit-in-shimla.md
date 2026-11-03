@@ -6,7 +6,7 @@ author: sid
 categories: [ Hill Station, Mountain, Snow, Road Trip, Weekend Getaway ]
 image: assets/images/shimla.webp
 rating: 4
-tags: [Himachal Pradesh]
+tags: [Himachal Pradesh, North India]
 toc: true
 quick_facts:
   state: "Himachal Pradesh"

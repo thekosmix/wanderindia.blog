@@ -6,7 +6,7 @@ author: sid
 categories: [ Monuments & Forts, Lakes & Dams, History, Culture, Resorts ]
 image: assets/images/udaipur.webp
 rating: 4
-tags: [Rajasthan]
+tags: [Rajasthan, North India]
 toc: true
 quick_facts:
   state: "Rajasthan"

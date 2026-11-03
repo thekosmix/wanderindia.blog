@@ -6,7 +6,7 @@ author: sid
 categories: [ History, Places of Worship, Monuments & Forts, Culture, Modern Architecture ]
 image: assets/images/delhi.webp
 rating: 5
-tags: [Delhi]
+tags: [Delhi, North India]
 toc: true
 quick_facts:
   state: "Delhi"

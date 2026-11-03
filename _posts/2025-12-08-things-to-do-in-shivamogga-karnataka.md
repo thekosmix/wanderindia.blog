@@ -6,7 +6,7 @@ author: sid
 categories: [ Waterfalls, Mountain, Wildlife & Safari, Scenic Viewpoints, Nature ]
 image: assets/images/shiva.webp
 rating: 4.5
-tags: [Karnataka]
+tags: [Karnataka, South India]
 toc: true
 quick_facts:
   state: "Karnataka"

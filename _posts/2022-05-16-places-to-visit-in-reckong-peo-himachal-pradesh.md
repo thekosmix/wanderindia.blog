@@ -6,7 +6,7 @@ author: sid
 categories: [ Weekend Getaway, Road Trip, Mountain, Snow ]
 image: assets/images/reckong-peo.webp
 rating: 4
-tags: [Himachal Pradesh]
+tags: [Himachal Pradesh, North India]
 toc: true
 quick_facts:
   state: "Himachal Pradesh"

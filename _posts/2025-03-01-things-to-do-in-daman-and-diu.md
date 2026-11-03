@@ -6,7 +6,7 @@ author: sid
 categories: [ Beach, Island, Monuments & Forts, History, Places of Worship ]
 image: assets/images/diu.webp
 rating: 5
-tags: [Dadra and Nagar Haveli and Daman and Diu]
+tags: [Dadra and Nagar Haveli and Daman and Diu, West India]
 toc: true
 quick_facts:
   state: "Dadra and Nagar Haveli and Daman and Diu"

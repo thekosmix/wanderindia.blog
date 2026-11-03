@@ -6,7 +6,7 @@ author: sid
 categories: [ History, Monuments & Forts, Pilgrimage, Places of Worship ]
 image: assets/images/amritsar.webp
 rating: 4
-tags: [Punjab]
+tags: [Punjab, North India]
 toc: true
 quick_facts:
   state: "Punjab"

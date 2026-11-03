@@ -6,7 +6,7 @@ author: sid
 categories: [ Resorts, Weekend Getaway, Modern Architecture, Road Trip, Beach ]
 image: assets/images/mumbai.webp
 rating: 5
-tags: [Maharashtra]
+tags: [Maharashtra, West India]
 toc: true
 quick_facts:
   state: "Maharashtra"

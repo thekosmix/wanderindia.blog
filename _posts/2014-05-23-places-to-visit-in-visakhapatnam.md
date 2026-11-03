@@ -6,7 +6,7 @@ author: sid
 categories: [ Weekend Getaway, Beach, Monuments & Forts ]
 image: assets/images/vizag.webp
 rating: 4
-tags: [Andhra Pradesh]
+tags: [Andhra Pradesh, South India]
 toc: true
 quick_facts:
   state: "Andhra Pradesh"

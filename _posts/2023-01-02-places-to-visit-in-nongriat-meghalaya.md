@@ -6,7 +6,7 @@ author: sid
 categories: [ Trekking, Waterfalls, Nature, Mountain ]
 image: assets/images/nongriat.webp
 rating: 4
-tags: [Meghalaya]
+tags: [Meghalaya, North-East India]
 toc: true
 quick_facts:
   state: "Meghalaya"

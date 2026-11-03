@@ -6,7 +6,7 @@ author: sid
 categories: [ Hill Station, Mountain, Waterfalls, Lakes & Dams, Gardens & Parks ]
 image: assets/images/wayanad.webp
 rating: 5
-tags: [Kerala]
+tags: [Kerala, South India]
 toc: true
 quick_facts:
   state: "Kerala"

@@ -6,7 +6,7 @@ author: sid
 categories: [ Hill Station, Lakes & Dams, Trekking, Nature, Gardens & Parks ]
 image: assets/images/yelagiri.webp
 rating: 4
-tags: [Tamil Nadu]
+tags: [Tamil Nadu, South India]
 toc: true
 quick_facts:
   state: "Tamil Nadu"

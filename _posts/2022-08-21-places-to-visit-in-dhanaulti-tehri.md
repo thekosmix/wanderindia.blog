@@ -9,7 +9,7 @@ author: sid
 categories: [ Hill Station, Mountain, Lakes & Dams, Weekend Getaway ]
 image: assets/images/dhanaulti.webp
 rating: 4
-tags: [Uttarakhand]
+tags: [Uttarakhand, North India]
 toc: true
 quick_facts:
   state: "Uttarakhand"

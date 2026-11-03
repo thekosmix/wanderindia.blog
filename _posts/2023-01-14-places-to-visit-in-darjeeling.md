@@ -6,7 +6,7 @@ author: sid
 categories: [ Hill Station, Mountain, Monuments & Forts, Gardens & Parks ]
 image: assets/images/darjeeling.webp
 rating: 4
-tags: [West Bengal]
+tags: [West Bengal, East India]
 toc: true
 quick_facts:
   state: "West Bengal"

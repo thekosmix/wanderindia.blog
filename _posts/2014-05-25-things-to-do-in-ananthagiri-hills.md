@@ -6,7 +6,7 @@ author: sid
 categories: [ Hill Station, Mountain, Valley, Nature, Weekend Getaway ]
 image: assets/images/anantgiri.webp
 rating: 5
-tags: [Telangana]
+tags: [Telangana, South India]
 toc: true
 quick_facts:
   state: "Telangana"

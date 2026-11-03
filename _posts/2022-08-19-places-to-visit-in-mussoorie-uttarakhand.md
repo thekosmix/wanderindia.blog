@@ -6,7 +6,7 @@ author: sid
 categories: [ Hill Station, Mountain, Waterfalls, Snow, Weekend Getaway ]
 image: assets/images/mussoorie.webp
 rating: 5
-tags: [Uttarakhand]
+tags: [Uttarakhand, North India]
 toc: true
 quick_facts:
   state: "Uttarakhand"

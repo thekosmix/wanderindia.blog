@@ -6,7 +6,7 @@ author: sid
 categories: [ Hill Station, Lakes & Dams, Mountain, Scenic Viewpoints, Weekend Getaway ]
 image: assets/images/nainital.webp
 rating: 4.5
-tags: [Uttarakhand]
+tags: [Uttarakhand, North India]
 toc: true
 quick_facts:
   state: "Uttarakhand"

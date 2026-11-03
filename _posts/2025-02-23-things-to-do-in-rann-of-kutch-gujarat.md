@@ -6,7 +6,7 @@ author: sid
 categories: [ Culture, Scenic Viewpoints, Camping, Resorts, Nature ]
 image: assets/images/rann-of-kutch.webp
 rating: 4.5
-tags: [Gujarat]
+tags: [Gujarat, West India]
 toc: true
 quick_facts:
   state: "Gujarat"

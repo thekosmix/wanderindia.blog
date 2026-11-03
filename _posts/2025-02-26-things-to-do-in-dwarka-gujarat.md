@@ -6,7 +6,7 @@ author: sid
 categories: [ Pilgrimage, Places of Worship, Beach, Culture, Scenic Viewpoints ]
 image: assets/images/dwarka.webp
 rating: 4
-tags: [Gujarat]
+tags: [Gujarat, West India]
 toc: true
 quick_facts:
   state: "Gujarat"

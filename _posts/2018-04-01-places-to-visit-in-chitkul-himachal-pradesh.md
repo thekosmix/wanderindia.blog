@@ -6,7 +6,7 @@ author: sid
 categories: [ Snow, Mountain, Weekend Getaway ]
 image: assets/images/chitkul.webp
 rating: 4.5
-tags: [Himachal Pradesh]
+tags: [Himachal Pradesh, North India]
 toc: true
 quick_facts:
   state: "Himachal Pradesh"

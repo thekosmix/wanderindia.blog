@@ -6,7 +6,7 @@ author: sid
 categories: [ Lakes & Dams, Gardens & Parks, Road Trip, Nature ]
 image: assets/images/bhavanisagar.webp
 rating: 4
-tags: [Tamil Nadu]
+tags: [Tamil Nadu, South India]
 toc: true
 quick_facts:
   state: "Tamil Nadu"

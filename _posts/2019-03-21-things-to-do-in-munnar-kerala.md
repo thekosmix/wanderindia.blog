@@ -6,7 +6,7 @@ author: sid
 categories: [ Hill Station, Mountain, Gardens & Parks, Forest, Nature ]
 image: assets/images/munnar.webp
 rating: 4
-tags: [Kerala]
+tags: [Kerala, South India]
 toc: true
 quick_facts:
   state: "Kerala"

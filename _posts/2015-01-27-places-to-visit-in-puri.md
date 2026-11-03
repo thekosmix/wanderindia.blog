@@ -6,7 +6,7 @@ author: sid
 categories: [ Pilgrimage, Places of Worship, Beach, History ]
 image: assets/images/puri.webp
 rating: 3.5
-tags: [Odisha]
+tags: [Odisha, East India]
 toc: true
 quick_facts:
   state: "Odisha"

@@ -6,7 +6,7 @@ author: sid
 categories: [ Hill Station, Nature, Gardens & Parks, Weekend Getaway ]
 image: assets/images/horsley.webp
 rating: 4
-tags: [Andhra Pradesh]
+tags: [Andhra Pradesh, South India]
 toc: true
 quick_facts:
   state: "Andhra Pradesh"

@@ -8,7 +8,7 @@ author: sid
 categories: [ Hill Station, Mountain, Nature, Weekend Getaway ]
 image: assets/images/saputara.webp
 rating: 4.5
-tags: [Gujarat]
+tags: [Gujarat, West India]
 toc: true
 quick_facts:
   state: "Gujarat"

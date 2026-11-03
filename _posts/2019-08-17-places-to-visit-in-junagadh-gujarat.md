@@ -6,7 +6,7 @@ author: sid
 categories: [ Wildlife & Safari, Monuments & Forts, History, Pilgrimage ]
 image: assets/images/junagadh.webp
 rating: 4
-tags: [Gujarat]
+tags: [Gujarat, West India]
 toc: true
 quick_facts:
   state: "Gujarat"

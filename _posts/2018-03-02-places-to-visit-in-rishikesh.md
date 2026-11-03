@@ -6,7 +6,7 @@ author: sid
 categories: [ River & Backwaters, Water Sports, Places of Worship, Pilgrimage ]
 image: assets/images/rishikesh.webp
 rating: 4
-tags: [Uttarakhand]
+tags: [Uttarakhand, North India]
 toc: true
 quick_facts:
   state: "Uttarakhand"

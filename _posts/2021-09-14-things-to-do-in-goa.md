@@ -6,7 +6,7 @@ author: sid
 categories: [ Monuments & Forts, Beach, Weekend Getaway, Places of Worship ]
 image: assets/images/goa.webp
 rating: 4.5
-tags: [Goa]
+tags: [Goa, West India]
 toc: true
 quick_facts:
   state: "Goa"

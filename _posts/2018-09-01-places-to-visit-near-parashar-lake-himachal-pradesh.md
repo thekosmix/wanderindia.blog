@@ -6,7 +6,7 @@ author: sid
 categories: [ Lakes & Dams, Mountain, Weekend Getaway ]
 image: assets/images/parashar.webp
 rating: 5
-tags: [Himachal Pradesh]
+tags: [Himachal Pradesh, North India]
 toc: true
 quick_facts:
   state: "Himachal Pradesh"

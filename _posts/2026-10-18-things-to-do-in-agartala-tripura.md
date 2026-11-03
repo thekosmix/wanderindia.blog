@@ -6,7 +6,7 @@ author: sid
 categories: [ Monuments & Forts, Culture, History, Lakes & Dams ]
 image: assets/images/agartala.webp
 rating: 4
-tags: [Tripura]
+tags: [Tripura, North-East India]
 toc: true
 quick_facts:
   state: "Tripura"

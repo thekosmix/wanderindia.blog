@@ -1,0 +1,35 @@
+North India:
+  snippet: "Glaciated Himalayan passes, sacred river confluences, royal Thar desert forts, and historic capitals."
+  description: "North India is a monumental realm of awe-inspiring geographical contrasts and profound historical legacies. Stretching from the glaciated peaks, high mountain passes, and serene alpine valleys of Ladakh, Jammu & Kashmir, Himachal Pradesh, and Uttarakhand down to the sacred Gangetic plains of Uttar Pradesh, Delhi, and Haryana, and the golden Thar desert dunes and royal palaces of Rajasthan, the northern zone offers quintessential Indian journeys."
+  states: ["Delhi", "Haryana", "Himachal Pradesh", "Jammu and Kashmir", "Ladakh", "Punjab", "Rajasthan", "Uttar Pradesh", "Uttarakhand"]
+  guide_url: "/trip-planning-in-north-india/"
+
+North-East India:
+  snippet: "Living root bridges, misty cloud rainforests, sacred monoliths, tea valleys, and serene Buddhist monasteries."
+  description: "Enfolded by the eastern Himalayas and the Patkai hill ranges, North-East India is a pristine paradise of biodiversity, living root architecture, and ancient indigenous tribal heritage. Dominated by the mighty Brahmaputra river valley in Assam, the dramatic wet highland gorges of Meghalaya, rolling hills of Mizoram and Tripura, and the alpine Buddhist gompas of Sikkim and Arunachal, the North-East is an enchanting frontier for nature lovers and adventurous souls."
+  states: ["Assam", "Meghalaya", "Mizoram", "Sikkim", "Tripura"]
+  guide_url: "/trip-planning-in-north-east-india/"
+
+South India:
+  snippet: "Western Ghats spice plantations, emerald backwaters, Dravidian temple monuments, and tropical coral lagoons."
+  description: "Bordered by the Arabian Sea, the Bay of Bengal, and the Indian Ocean, South India is a celebration of classical civilization, ancient dynasties, and tropical tranquility. From the soaring Dravidian gopurams of Tamil Nadu and the monumental ruins of Hampi in Karnataka to the palm-shaded emerald backwaters of Kerala, the rocky Deccan corridors of Telangana, and the pristine coral lagoons of the Andaman and Lakshadweep archipelagos, South India enchants with unbroken cultural heritage and lush topography."
+  states: ["Andaman and Nicobar Islands", "Andhra Pradesh", "Karnataka", "Kerala", "Lakshadweep", "Puducherry", "Tamil Nadu", "Telangana"]
+  guide_url: "/trip-planning-in-south-india/"
+
+West India:
+  snippet: "The endless white salt desert of Kutch, ancient coastal temples, Asiatic lion sanctuaries, and Portuguese enclaves."
+  description: "Positioned along the vibrant western coastline of the Arabian Sea, West India is a dynamic tapestry of maritime trade, warrior legends, and extraordinary ecological landscapes. From the shimmering white salt wilderness of the Great Rann of Kutch and the Gir lion sanctuaries of Gujarat to the rugged Sahyadri hill fortresses and bustling coastal metropolis of Maharashtra, alongside the historic Portuguese ramparts of Goa and Daman & Diu, West India radiates vigor and historic charisma."
+  states: ["Dadra and Nagar Haveli and Daman and Diu", "Goa", "Gujarat", "Maharashtra"]
+  guide_url: ""
+
+Central India:
+  snippet: "The architectural marvels of Khajuraho, sacred Mahakal corridors, and legendary tiger sanctuaries of the heartland."
+  description: "Resting in the geographic and cultural heart of the Indian subcontinent, Central India is a wild, storied frontier dominated by ancient plateaus, dense deciduous sal forests, and timeless river ghats. Famous worldwide for its UNESCO World Heritage temple carvings at Khajuraho and rock shelters at Bhimbetka, the sacred Narmada and Mahakal corridors, and premier national tiger reserves that inspired 'The Jungle Book', Central India offers a raw, deeply spiritual encounter with the wilderness."
+  states: ["Madhya Pradesh"]
+  guide_url: ""
+
+East India:
+  snippet: "Himalayan tea gardens of Darjeeling, sacred Jagannath coastlines of Odisha, and historic Gangetic heritage."
+  description: "Stretching from the snowy Himalayan heights of Darjeeling down to the Bay of Bengal coastline and the fertile Gangetic basin, East India is the subcontinent's cradle of intellectual, artistic, and spiritual heritage. Featuring the sacred Buddhist and imperial Mauryan landmarks of Bihar, the grand Kalinga temple architecture and Chilika lagoon in Odisha, and the colonial grandeur, tea hills, and Sundarbans mangrove forests of West Bengal, East India is rich with timeless character."
+  states: ["Bihar", "Odisha", "West Bengal"]
+  guide_url: ""

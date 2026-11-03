@@ -1,0 +1,103 @@
+Beach:
+  snippet: "Golden sands, swaying palms, and turquoise waters along India's 7,500 km coastline."
+  description: "Flanked by the Arabian Sea, the Bay of Bengal, and the Indian Ocean, India's magnificent 7,500+ km coastline offers endless seaside escapes. From the vibrant shacks and water sports of North Goa and the tranquil cliffside sands of Varkala to the pristine coral lagoons of the Andaman and Lakshadweep archipelagos, Indian beaches present a mesmerizing mix of vibrant coastal living and unhurried tropical relaxation."
+
+Camping:
+  snippet: "Starlit nights under open skies, alpine bugyals, and peaceful desert wilderness."
+  description: "Experience the raw beauty of India under starlit skies. Whether pitching tents beside high-altitude Himalayan lakes like Chandratal, camping amidst the windswept golden dunes of Jaisalmer, or glamping by riverbanks in Rishikesh and lush Western Ghats plantations, camping in India connects travelers directly with nature's grandeur."
+
+Culture:
+  snippet: "Living traditions, classical performing arts, vibrant folk festivals, and indigenous crafts."
+  description: "India is a living cultural mosaic shaped by millennia of artistic expression, philosophical traditions, and vibrant communities. Immerse yourself in colorful folk dances, classical temple arts like Kathakali and Bharatanatyam, age-old textile handloom heritage, and grand cultural gatherings that reflect the timeless soul of the subcontinent."
+
+Forest:
+  snippet: "Dense sal, teak, and evergreen canopies teeming with untamed wildlife and raw wilderness."
+  description: "From the tropical rainforests of the Western Ghats and the fragrant pine reserves of the Himalayas to the impenetrable mangrove forests of the Sundarbans, India's diverse forests are treasure troves of biodiversity. These pristine jungle biomes shelter endangered wildlife, ancient sacred groves, and untouched forest trails."
+
+Gardens & Parks:
+  snippet: "Manicured Mughal terraces, imperial botanical conservatories, and urban green sanctuaries."
+  description: "Step into peaceful sanctuaries of floral beauty, reflecting royal elegance and botanical heritage. From the stepped fountains and terraced lawns of Srinagar's historic Mughal Gardens to Bengaluru's heritage Lalbagh Botanical Gardens and Ooty's colorful hillside rose arboretums, India's landscaped parks offer tranquil retreats."
+
+Hill Station:
+  snippet: "Cool mountain breezes, pine-scented ridges, colonial estates, and mist-clad tea terraces."
+  description: "Established during the colonial era as summer retreats and beloved by generations of mountain lovers, Indian hill stations offer a refreshing escape from the plains. Spanning the misty tea estates of Munnar and Ooty in the south to the pine-scented cedar ridges of Shimla, Manali, and Darjeeling in the north, these high-altitude escapes enchant with cool breezes and panoramic vistas."
+
+History:
+  snippet: "Epochs of ancient empires, medieval kingdoms, archaeological marvels, and timeless ruins."
+  description: "Walk through the corridors of time across a land that has witnessed the rise and fall of the Mauryas, Cholas, Mughals, and Marathas. From the prehistoric rock art of Bhimbetka and the magnificent ruins of the Vijayanagara Empire at Hampi to the battlefield ramparts of Panipat and colonial quarters of Kolkata, India's historical landmarks bring legendary eras vividly to life."
+
+Island:
+  snippet: "Remote archipelagos, untouched coral atolls, and serene riverine islands."
+  description: "Escape to idyllic island sanctuaries surrounded by azure ocean waters and gentle tides. Discover the sun-drenched white sands and world-class scuba diving reefs of the Andaman and Nicobar Islands, the untouched coral atolls of Lakshadweep, or Majuli in Assam—one of the world's largest freshwater river islands."
+
+Lakes & Dams:
+  snippet: "Tranquil freshwater lakes, cobalt high-altitude waters, and monumental engineering dams."
+  description: "India's serene water bodies range from sacred high-altitude Himalayan tarns like Pangong and Parashar to tranquil urban gems like Udaipur's Lake Pichola and Nainital. Paired with monumental hydroelectric marvels like Tehri and Bhakra Nangal, these freshwater destinations offer scenic boating, lakeside strolls, and peaceful reflections."
+
+Modern Architecture:
+  snippet: "Futuristic skylines, avant-garde monuments, and innovative urban engineering."
+  description: "Beyond its ancient monuments, India showcases remarkable feats of modern architectural ingenuity. From Le Corbusier's modernist civic complex in Chandigarh and Delhi's iconic Lotus Temple to the towering futuristic skylines and sprawling cable-stayed sea links of Mumbai and Hyderabad, explore the visionary designs shaping contemporary India."
+
+Monuments & Forts:
+  snippet: "Regal stone citadels, invincible hill ramparts, and grand imperial palaces."
+  description: "Echoing with tales of valor, royalty, and architectural mastery, India's forts and monuments are monumental testaments to human ambition. From the desert citadels of Jaisalmer, Mehrangarh, and Amer in Rajasthan to the impregnable Sahyadri hill fortresses of Maharashtra and the marble splendor of the Taj Mahal, these landmarks command timeless wonder."
+
+Mountain:
+  snippet: "Colossal Himalayan summits, rugged Western Ghats ridges, and ancient Aravalli peaks."
+  description: "Dominated in the north by the majestic Greater Himalayas and framed along the peninsula by the rugged Western and Eastern Ghats, India is a haven for mountain enthusiasts. Towering snow summits, dizzying cliff faces, and cool upland breezes offer dramatic backdrops for contemplation, photography, and adventure."
+
+Nature:
+  snippet: "Untamed ecosystems, living root wonders, rich biodiversity, and pristine green landscapes."
+  description: "Immerse yourself in India's breathtaking ecological wealth. Discover ancient living root bridges hand-woven by tribal communities in Meghalaya, mystical monsoon-drenched wetlands, pristine river confluences, and vibrant floristic biomes that highlight the untouched wonders of the Indian subcontinent."
+
+Pilgrimage:
+  snippet: "Sacred river ghats, revered temple shrines, and age-old spiritual journeys."
+  description: "For thousands of years, spiritual seekers have traversed India's sacred geography. From the holy Char Dham circuit nestled in the high Garhwal Himalayas and the eternal riverside cremation ghats of Varanasi to the sacred southern temples of Rameswaram and Tirupati, pilgrimage routes in India offer profound inner awakening."
+
+Places of Worship:
+  snippet: "Sacred temples, historic mosques, serene gurudwaras, and ancient churches."
+  description: "Reflecting India's unique religious harmony, these sanctified shrines showcase centuries of devotional art, soaring Dravidian gopurams, shimmering Golden Temple waters in Amritsar, serene Buddhist gompas in Ladakh, historic Portuguese basilicas in Goa, and tranquil Sufi dargahs across the nation."
+
+Resorts:
+  snippet: "Luxury heritage havens, secluded jungle retreats, and coastal wellness escapes."
+  description: "Indulge in authentic Indian hospitality at carefully curated retreats. From opulent royal palaces converted into heritage hotels in Rajasthan and Ayurvedic wellness sanctuaries amidst Kerala backwaters to secluded forest eco-lodges in Madhya Pradesh tiger reserves, enjoy unforgettable comfort immersed in local character."
+
+River & Backwaters:
+  snippet: "Emerald lagoon canals, traditional houseboats, and mighty sacred riverways."
+  description: "Life in India flows along its life-giving waterways. Cruise through the world-famous palm-shaded backwaters of Alleppey and Kumarakom aboard traditional kettuvallam houseboats, explore the mighty currents of the sacred Ganges and Brahmaputra, or kayak along the crystal-clear waters of the Dawki River in Meghalaya."
+
+Road Trip:
+  snippet: "Thrilling mountain highway loops, scenic coastal drives, and desert expeditions."
+  description: "Hit the open road across some of the world's most thrilling driving terrains. Navigate the hair-raising high-altitude passes of the Manali-Leh Highway, cruise along the picturesque Arabian Sea on the Mumbai-Goa coastal highway, or embark on an evocative desert road trip traversing the vibrant dunes of Rajasthan."
+
+Scenic Viewpoints:
+  snippet: "Breathtaking panoramic summits, dramatic cloud valleys, and mesmerizing sunsets."
+  description: "Perch high above the clouds at iconic vantage points that reveal the sheer scale of Indian landscapes. From Tiger Hill in Darjeeling framing Mount Kanchenjunga at dawn and Doddabetta Peak overlooking the Nilgiris to dramatic cliff-edge views in Meghalaya and Mahabaleshwar, these vistas leave lasting impressions."
+
+Snow:
+  snippet: "Winter wonderlands, ski slopes, glaciated passes, and snow-laden pine valleys."
+  description: "Experience the magic of winter in the Indian Himalayas. From the world-class ski slopes of Gulmarg and Auli to the frozen rivers of Zanskar and fresh snowfall blanketing the apple orchards of Manali and Shimla, India's snow destinations transform into captivating winter wonderlands."
+
+Trekking:
+  snippet: "High-altitude alpine pass crossings, ridge walks, and dense jungle expeditions."
+  description: "Lace up your hiking boots for unforgettable trails across varied terrain. From thrilling Himalayan expeditions like Roopkund, Hampta Pass, and Chadar Frozen River to the scenic monsoon treks across the lush Western Ghats fortresses of Maharashtra, trekking in India is an exhilarating encounter with wilderness."
+
+Valley:
+  snippet: "Lush alpine flower meadows, dramatic river gorges, and secluded mountain basins."
+  description: "Cradled between soaring mountain ridges, India's valleys showcase breathtaking beauty. Explore the UNESCO-listed floral wonderland of Uttarakhand's Valley of Flowers, the stark and surreal desert valley of Spiti, the aromatic apple valleys of Kinnaur, and the serene tea and coffee basins of the Western Ghats."
+
+Water Sports:
+  snippet: "Adrenaline-fueled river rafting, scuba diving, surfing, and open-water sea kayaking."
+  description: "Dive into aquatic thrills across India's rivers and oceans. Challenge the thunderous white-water rapids of the Ganges in Rishikesh and the Teesta in Sikkim, surf gentle waves at Kovalam, or explore kaleidoscopic underwater coral gardens through scuba diving and snorkeling in Havelock and Lakshadweep."
+
+Waterfalls:
+  snippet: "Cascading multi-tiered torrents, plunging jungle falls, and scenic monsoon wonders."
+  description: "Witness the raw power and beauty of cascading waters slicing through lush forests and rocky ravines. From the roaring four-tiered Dudhsagar Falls on the Goa-Karnataka border and the majestic Nohkalikai Falls in Cherrapunji to Jog Falls and Athirappilly, Indian waterfalls are spectacular spectacles, especially during the monsoon."
+
+Weekend Getaway:
+  snippet: "Quick, refreshing escapes from bustling metros to hills, forts, and quiet shores."
+  description: "Recharge your spirit with curated short breaks within easy reach of India's major cities. Whether escaping Delhi for a weekend in Neemrana or Lansdowne, driving from Mumbai and Pune into the mist-shrouded Sahyadri hills of Lonavala, or heading from Bengaluru to Kabini and Coorg, discover perfect rejuvenating weekend getaways."
+
+Wildlife & Safari:
+  snippet: "Thrilling tiger safaris, rare one-horned rhinos, Asiatic lions, and rich bird sanctuaries."
+  description: "Embark on thrilling open-top jeep and elephant safaris into India's legendary national parks. Track the elusive Royal Bengal Tiger in Ranthambore, Bandhavgarh, and Kanha, encounter the endangered prehistoric Great Indian One-horned Rhinoceros in Kaziranga, or spot Asiatic lions in their sole refuge at Gir National Park in Gujarat."

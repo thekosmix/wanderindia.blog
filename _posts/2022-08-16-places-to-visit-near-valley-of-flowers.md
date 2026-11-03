@@ -6,7 +6,7 @@ author: sid
 categories: [ Weekend Getaway, Snow, Mountain, Road Trip ]
 image: assets/images/vof.webp
 rating: 4.5
-tags: [Uttarakhand]
+tags: [Uttarakhand, North India]
 toc: true
 quick_facts:
   state: "Uttarakhand"

@@ -9,7 +9,7 @@ author: sid
 categories: [ Hill Station, Waterfalls, Resorts, Weekend Getaway ]
 image: assets/images/coorg.webp
 rating: 4.5
-tags: [Karnataka]
+tags: [Karnataka, South India]
 toc: true
 quick_facts:
   state: "Karnataka"

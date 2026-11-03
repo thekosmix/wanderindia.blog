@@ -6,7 +6,7 @@ author: sid
 categories: [ River & Backwaters, Road Trip, Camping, Water Sports ]
 image: assets/images/shnongpdeng.webp
 rating: 4
-tags: [Meghalaya]
+tags: [Meghalaya, North-East India]
 toc: true
 quick_facts:
   state: "Meghalaya"

@@ -6,7 +6,7 @@ author: sid
 categories: [ Monuments & Forts, Places of Worship, History, Culture ]
 image: assets/images/khajuraho.webp
 rating: 3.5
-tags: [Madhya Pradesh]
+tags: [Madhya Pradesh, Central India]
 toc: true
 quick_facts:
   state: "Madhya Pradesh"

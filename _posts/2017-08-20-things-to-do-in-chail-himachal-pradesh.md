@@ -6,7 +6,7 @@ author: sid
 categories: [ Hill Station, Mountain, Monuments & Forts, Snow, Weekend Getaway ]
 image: assets/images/chail.webp
 rating: 5
-tags: [Himachal Pradesh]
+tags: [Himachal Pradesh, North India]
 toc: true
 quick_facts:
   state: "Himachal Pradesh"

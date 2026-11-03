@@ -6,7 +6,7 @@ author: sid
 categories: [ Monuments & Forts, Mountain, Places of Worship, Valley ]
 image: assets/images/leh.webp
 rating: 5
-tags: [Ladakh]
+tags: [Ladakh, North India]
 toc: true
 quick_facts:
   state: "Ladakh"

@@ -9,7 +9,7 @@ author: sid
 categories: [ Wildlife & Safari, Forest, Nature, Weekend Getaway ]
 image: assets/images/sasan.webp
 rating: 5
-tags: [Gujarat]
+tags: [Gujarat, West India]
 toc: true
 quick_facts:
   state: "Gujarat"

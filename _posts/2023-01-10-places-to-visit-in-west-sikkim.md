@@ -6,7 +6,7 @@ author: sid
 categories: [ Mountain, Valley, Road Trip, Monuments & Forts ]
 image: assets/images/west-sikkim.webp
 rating: 4
-tags: [Sikkim]
+tags: [Sikkim, North-East India]
 toc: true
 quick_facts:
   state: "Sikkim"

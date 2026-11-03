@@ -9,7 +9,7 @@ author: sid
 categories: [ Weekend Getaway, Snow, Mountain, Road Trip, Trekking ]
 image: assets/images/joshimath.webp
 rating: 4
-tags: [Uttarakhand]
+tags: [Uttarakhand, North India]
 toc: true
 quick_facts:
   state: "Uttarakhand"

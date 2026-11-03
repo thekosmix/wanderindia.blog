@@ -6,7 +6,7 @@ author: sid
 categories: [ Pilgrimage, History, Culture, Weekend Getaway ]
 image: assets/images/indore.webp
 rating: 4
-tags: [Madhya Pradesh]
+tags: [Madhya Pradesh, Central India]
 toc: true
 quick_facts:
   state: "Madhya Pradesh"

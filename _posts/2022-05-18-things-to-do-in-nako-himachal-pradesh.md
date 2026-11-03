@@ -6,7 +6,7 @@ author: sid
 categories: [ Weekend Getaway, Road Trip, Mountain, Snow, Places of Worship ]
 image: assets/images/nako.webp
 rating: 5
-tags: [Himachal Pradesh]
+tags: [Himachal Pradesh, North India]
 toc: true
 quick_facts:
   state: "Himachal Pradesh"

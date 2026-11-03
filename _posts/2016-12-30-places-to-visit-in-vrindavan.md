@@ -6,7 +6,7 @@ author: sid
 categories: [ Places of Worship, River & Backwaters, Pilgrimage ]
 image: assets/images/vrindavan.webp
 rating: 3.5
-tags: [Uttar Pradesh]
+tags: [Uttar Pradesh, North India]
 toc: true
 quick_facts:
   state: "Uttar Pradesh"

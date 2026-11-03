@@ -6,7 +6,7 @@ author: sid
 categories: [ Hill Station, Mountain, Scenic Viewpoints, Gardens & Parks, Trekking ]
 image: assets/images/chikka.webp
 rating: 4
-tags: [Karnataka]
+tags: [Karnataka, South India]
 toc: true
 quick_facts:
   state: "Karnataka"

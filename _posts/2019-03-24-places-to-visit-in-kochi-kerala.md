@@ -8,7 +8,7 @@ author: sid
 categories: [ Beach, History, Places of Worship ]
 image: assets/images/kochi.webp
 rating: 4
-tags: [Kerala]
+tags: [Kerala, South India]
 toc: true
 quick_facts:
   state: "Kerala"

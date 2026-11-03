@@ -6,7 +6,7 @@ author: sid
 categories: [ River & Backwaters, Pilgrimage, Places of Worship ]
 image: assets/images/ujjain.webp
 rating: 4
-tags: [Madhya Pradesh]
+tags: [Madhya Pradesh, Central India]
 toc: true
 quick_facts:
   state: "Madhya Pradesh"

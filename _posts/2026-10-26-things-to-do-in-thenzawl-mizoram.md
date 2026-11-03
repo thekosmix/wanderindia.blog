@@ -6,7 +6,7 @@ author: sid
 categories: [ Hill Station, Mountain, Waterfalls, Culture, Nature ]
 image: assets/images/thenzawl.webp
 rating: 5
-tags: [Mizoram]
+tags: [Mizoram, North-East India]
 toc: true
 quick_facts:
   state: "Mizoram"

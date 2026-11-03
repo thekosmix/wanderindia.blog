@@ -6,7 +6,7 @@ author: sid
 categories: [ Hill Station, Mountain, Trekking, Places of Worship, Resorts ]
 image: assets/images/patnitop.webp
 rating: 4.5
-tags: [Jammu and Kashmir]
+tags: [Jammu and Kashmir, North India]
 toc: true
 quick_facts:
   state: "Jammu and Kashmir"

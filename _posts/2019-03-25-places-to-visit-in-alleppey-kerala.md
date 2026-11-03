@@ -8,7 +8,7 @@ author: sid
 categories: [ Beach, Forest, River & Backwaters ]
 image: assets/images/alleppey.webp
 rating: 4
-tags: [Kerala]
+tags: [Kerala, South India]
 toc: true
 quick_facts:
   state: "Kerala"

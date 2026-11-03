@@ -6,7 +6,7 @@ author: sid
 categories: [ Hill Station, Mountain, Modern Architecture, Places of Worship, Culture ]
 image: assets/images/aizawl.webp
 rating: 5
-tags: [Mizoram]
+tags: [Mizoram, North-East India]
 toc: true
 quick_facts:
   state: "Mizoram"
